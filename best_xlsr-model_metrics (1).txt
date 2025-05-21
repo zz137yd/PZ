@@ -1,0 +1,9 @@
+Best model at epoch 15
+Val Loss: 0.3995
+XLSR Loss: 0.3195
+Age Loss: 0.0028
+Gender Loss: 0.0098
+Accent Loss: 0.0018
+Age Acc: 1.0000
+Gender Acc: 1.0000
+Accent Acc: 0.9833
