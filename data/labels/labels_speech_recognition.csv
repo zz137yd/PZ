@@ -1,610 +1,959 @@
-path,sentence,accents,age,gender
-Voice_2505_001,"저는 서울에서 왔고, 한국어를 배우는 학생입니다.",France,twenties,male
-Voice_2505_002,"이 책은 정말 재미있고, 저는 매일 아침 공원을 산책합니다.",France,twenties,male
-Voice_2505_003,"고맙습니다, 잘 지냈어요. 오늘은 정말 행복한 날입니다.",France,twenties,male
-Voice_2605_004,"저는 스물다섯 살이고, 요리를 하는 것을 좋아합니다.",France,twenties,male
-Voice_2605_005,"이 영화는 정말 재미있고, 저는 영화를 보는 것을 좋아합니다.",France,twenties,male
-Voice_2605_006,"저는 한국어를 배우고 있고, 이 노래는 정말 좋아요.",France,twenties,male
-Voice_2605_007,"저는 그림을 그리는 것을 좋아하고, 오늘은 정말 피곤한 날입니다.",France,twenties,male
-Voice_2605_008,"이 음식은 정말 맛있고, 저는 여행을 좋아하는 사람입니다.",France,twenties,male
-Voice_2605_009,"저는 커피를 좋아하고, 오늘은 정말 더운 날입니다.",France,twenties,male
-Voice_2605_010,"저는 책을 읽는 것을 좋아하고, 이 꽃은 정말 예뻐요.",France,twenties,male
-Voice_2605_011,"저는 사진을 찍는 것을 좋아하고, 오늘은 정말 바쁜 날입니다.",France,twenties,male
-Voice_2605_012,"저는 음악을 듣는 것을 좋아하고, 이 영화는 정말 재미있어요.",France,twenties,male
-Voice_2605_013,"저는 서울에서 왔고, 오늘 날씨가 정말 좋네요.",France,twenties,male
-Voice_2605_014,"이 책은 정말 재미있고, 저는 매일 아침 공원을 산책합니다.",France ,twenties,male
-Voice_2605_015,"저는 음악을 좋아하고, 특히 클래식 음악을 즐겨 듣습니다.",France,twenties,male
-Voice_2605_016,"고맙습니다, 잘 지냈어요. 오늘은 정말 행복한 날입니다.",France,twenties,male
-Voice_2605_017,"안녕하세요, 저는 파스칼 이라고 합니다. 저는 학생이고, 한국어를 배우고 있습니다.",France,twenties,male
-Voice_2605_018,어제 본 영화는 정말 재미있었어요.,Singapore,twenties,male
-Voice_2605_019,저는 주말에 친구들과 함께 공원에 갔어요.,Singapore,twenties,male
-Voice_2605_020,이 카페의 커피는 정말 맛있어요.,Singapore,twenties,male
-Voice_2605_021,오늘은 날씨가 추워서 따뜻한 옷을 입었어요.,Singapore,twenties,male
-Voice_2605_022,저는 매일 아침 조깅을 해요.,Singapore,twenties,male
-Voice_2605_023,이 책은 정말 흥미로워요.,Singapore,twenties,male
-Voice_2605_024,저는 한국어를 배우는 것을 좋아해요.,Singapore,twenties,male
-Voice_2605_025,이 음식은 조금 매워요.,Singapore,twenties,male
-Voice_2605_026,저는 내일 시험이 있어요.,Singapore,twenties,male
-Voice_2605_027,이 음악은 정말 좋네요.,Singapore,twenties,male
-Voice_2605_028,저는 주말에 가족과 함께 시간을 보내요.,Singapore,twenties,male
-Voice_2605_029,이 영화는 정말 감동적이었어요.,Singapore,twenties,male
-Voice_2605_030,저는 매일 저녁 산책을 해요.,Singapore,twenties,male
-Voice_2605_031,이 옷은 정말 예뻐요.,Singapore,twenties,male
-Voice_2605_032,저는 한국 문화를 배우고 싶어요.,Singapore,twenties,male
-Voice_2605_033,이 공원은 정말 아름다워요.,Singapore,twenties,male
-Voice_2605_034,저는 매일 아침 일찍 일어나요.,Singapore,twenties,male
-Voice_2605_035,이 영화는 정말 재미있었어요.,Singapore,twenties,male
-Voice_2605_036,저는 한국 드라마를 좋아해요.,Singapore,twenties,male
-Voice_2605_037,이 음식은 정말 맛있어요.,Singapore,twenties,male
-Voice_2605_038,오늘은 매우 바쁜 하루였어요.,China,twenties,male
-Voice_2605_039,저는 새로운 레시피를 시도해 보고 싶어요.,China,twenties,male
-Voice_2605_040,이 도시는 밤에 정말 아름다워요.,China,twenties,male
-Voice_2605_041,저는 주말에 여행 가는 것을 좋아해요.,China,twenties,male
-Voice_2605_042,이 꽃은 정말 향기로워요.,China,twenties,male
-Voice_2605_043,저는 매일 저녁 책을 읽어요.,China,twenties,male
-Voice_2605_044,이 카페는 조용해서 공부하기 좋아요.,China,twenties,male
-Voice_2605_045,저는 겨울에 스키 타는 것을 좋아해요.,China,twenties,male
-Voice_2605_046,이 영화는 정말 슬펐어요.,China,twenties,male
-Voice_2605_047,저는 매일 아침 신문을 읽어요.,China,twenties,male
-Voice_2605_048,이 음식은 조금 짜요.,China,twenties,male
-Voice_2605_049,저는 주말에 영화 보는 것을 좋아해요.,China,twenties,male
-Voice_2605_050,이 공원은 아이들과 놀기 좋아요.,China,twenties,male
-Voice_2605_051,저는 매일 아침 샤워를 해요.,China,twenties,male
-Voice_2605_052,이 음악은 정말 신나요.,China,twenties,male
-Voice_2605_053,저는 한국어 공부를 열심히 하고 있어요.,China,twenties,male
-Voice_2605_054,이 옷은 조금 커요.,China,twenties,male
-Voice_2605_055,저는 주말에 친구들을 만나요.,China,twenties,male
-Voice_2605_056,이 영화는 정말 재미있었어요.,China,twenties,male
-Voice_2605_057,저는 매일 저녁 산책을 해요.,China,twenties,male
-Voice_2605_058,오늘은 정말 피곤한 하루였어요.,Switzerland,twenties,male
-Voice_2605_059,저는 주말에 바다로 여행 갈 거예요.,Switzerland,twenties,male
-Voice_2605_060,이 카페의 디저트는 정말 맛있어요.,Switzerland,twenties,male
-Voice_2605_061,오늘은 날씨가 매우 더워요.,Switzerland,twenties,male
-Voice_2605_062,저는 매일 아침 요가를 해요.,Switzerland,twenties,male
-Voice_2605_063,이 소설은 정말 흥미진진해요.,Switzerland,twenties,male
-Voice_2605_064,저는 한국어 회화를 연습하고 있어요.,Switzerland,twenties,male
-Voice_2605_065,이 음식은 조금 단맛이 나요.,Switzerland,twenties,male
-Voice_2605_066,저는 내일 회의가 있어요.,Switzerland,twenties,male
-Voice_2605_067,이 노래는 정말 좋네요.,Switzerland,twenties,male
-Voice_2605_068,저는 주말에 가족과 함께 영화 볼 거예요.,Switzerland,twenties,male
-Voice_2605_069,이 영화는 정말 감동적이었어요.,Switzerland,twenties,male
-Voice_2605_070,저는 매일 저녁 공원을 산책해요.,Switzerland,twenties,male
-Voice_2605_071,이 신발은 정말 편안해요.,Switzerland,twenties,male
-Voice_2605_072,저는 한국 전통 문화를 배우고 싶어요.,Switzerland,twenties,male
-Voice_2605_073,이 공원은 정말 평화로워요.,Switzerland,twenties,male
-Voice_2605_074,저는 매일 아침 커피를 마셔요.,Switzerland,twenties,male
-Voice_2605_075,이 영화는 정말 재미있었어요.,Switzerland,twenties,male
-Voice_2605_076,저는 한국 드라마를 자주 봐요.,Switzerland,twenties,male
-Voice_2605_077,이 음식은 정말 맛있어요.,Switzerland,twenties,male
-common_voice_ko_41668884,소회는 묻고 또 물었다.,South Korea,twenties,female
-common_voice_ko_41665903,그런 식으로 말하지 마.,South Korea,twenties,male
-common_voice_ko_41665913,옥점 어머니는 부끄러운 생각이 들어 그만 홱 돌아섰다.,South Korea,twenties,male
-common_voice_ko_37247554,네 말은 네 행동이 된다.,South Korea,fourties,male
-common_voice_ko_37247557,입에서는 침조차 나오지 않고 배는 등에 붙은 것 같다.,South Korea,fourties,male
-common_voice_ko_39571266,어리석은 자는 그 노를 다 드러내어도 지혜로운 자는 그 노를 억제하느니라.,South Korea,twenties,male
-common_voice_ko_39571273,병실로 떠메어 들어온 뒤에야 영신은 차츰차츰 의식을 회복하였다.,South Korea,twenties,male
-common_voice_ko_39571277,그때 다리를 빼앗기던 장면이 휙 떠오른다.,South Korea,twenties,male
-common_voice_ko_39476318,그러나 말소리는 들리지 않고 무슨 옷갈피를 뒤지는 소리가 부스스 들릴 뿐이다.,South Korea,thirties,female
-common_voice_ko_39476319,그런 걸 별짓을 다해 가면서 억지루 시작을 했었지요.,South Korea,thirties,female
-common_voice_ko_39476322,따라서 의사에게 보인 적이 없으니 무슨 병인지는 알 수 없으되.,South Korea,thirties,female
-common_voice_ko_39476325,그 말에 회원들은 손바닥이 뜨겁도록 박수를 한다.,South Korea,thirties,female
-common_voice_ko_39476326,더욱 신철의 집에서 몇 번 보기도 하였다.,South Korea,thirties,female
-common_voice_ko_39476327,창 밖에 밤비가 속살거려.,South Korea,thirties,female
-common_voice_ko_39476341,그 목소리는 몸집과 딴판으로 연하고 싹싹하였다.,South Korea,thirties,female
-common_voice_ko_39476345,아직도 인천 시가는 뿌연 분위기 속에 잠겨 있었다.,South Korea,thirties,female
-common_voice_ko_39476347,출동하면 반은 이런 경우죠.,South Korea,thirties,female
-common_voice_ko_39476353,채찍과 꾸지람이 지혜를 주거늘 임의로 하게 버려두면 그 자식은 어미를 욕되게 하느니라.,South Korea,thirties,female
-common_voice_ko_40612778,어쩌란 말이야!,Ukrainian,twenties,female
-common_voice_ko_40612785,"그 정도면 충분했잖아, 뭘 더 바라.",Ukrainian,twenties,female
-common_voice_ko_40612786,축하드려요.,Ukrainian,twenties,female
-common_voice_ko_40612792,미안하네.,Ukrainian,twenties,female
-common_voice_ko_40612793,이해하셨습니까?,Ukrainian,twenties,female
-common_voice_ko_40612794,하고 말도 하기 싫다는 듯이 돌아 드러눕느다.,Ukrainian,twenties,female
-common_voice_ko_40612798,어디로?,Ukrainian,twenties,female
-common_voice_ko_40620768,금방 후회를 하고 거울을 집어 들었다.,Ukrainian,twenties,female
-common_voice_ko_40620769,그리고 이서방이 없는 동안에 자기가 당한 일을 얼핏 생각하였다.,Ukrainian,twenties,female
-common_voice_ko_40620770,들려요.,Ukrainian,twenties,female
-common_voice_ko_40620774,김첨지는 취중에도 설렁탕을 사가지고 집에 다다랐다.,Ukrainian,twenties,female
-common_voice_ko_40620778,사실이에요.,Ukrainian,twenties,female
-common_voice_ko_40620801,"죄송해요, 아버지.",Ukrainian,twenties,female
-common_voice_ko_40620807,드디어!,Ukrainian,twenties,female
-common_voice_ko_40620812,이상하지 않아?,Ukrainian,twenties,female
-common_voice_ko_40620813,"아, 해장국이나 먹자니까 이 시간에 뭔 운동이야.",Ukrainian,twenties,female
-common_voice_ko_40620847,그것은 마시면 마실수록 목이 말라진다.,Ukrainian,twenties,female
-common_voice_ko_40620849,약속하지?,Ukrainian,twenties,female
-common_voice_ko_37597007,십 년 만에 만나는 친구의 음성인들 이 빗소리보다 더 반가우랴.,South Korea,twenties,male
-common_voice_ko_37597008,물론 공장에서 내준 것이 아니고 여공들 스스로 해입게 하였던 것이다.,South Korea,twenties,male
-common_voice_ko_37597009,음성 기술은 그 편리한 방법을 컴퓨터와 모바일 환경에서 사용할 수 있게 합니다.,South Korea,twenties,male
-common_voice_ko_37597011,할멈은 올 가을에 새로한 이 무명저고리를 아까워서 입지 못하고 두었던 것이다.,South Korea,twenties,male
-common_voice_ko_37597013,무슨 핑계를 하는지 기어이 못 보게 하고 만다.,South Korea,twenties,male
-common_voice_ko_37597038,시멘트 포대를 시멘트 가루 개는 곳으로 나르라는 것이다.,South Korea,twenties,male
-common_voice_ko_37597039,형제는 그 아버지의 시체 앞에 꿇어 엎드려 목을 놓고 울었습니다.,South Korea,twenties,male
-common_voice_ko_37597040,나는 이것을 의논할 사람은 춘우밖에 없다.,South Korea,twenties,male
-common_voice_ko_37597042,는 듯이 상을 찌푸리고 꼴딱꼴딱 마셔 넘긴다.,South Korea,twenties,male
-common_voice_ko_37597043,이라고 버젓이 씌어 있는 것을 보니 동혁의 가슴은 울렁거리지 않을 수 없었다.,South Korea,twenties,male
-common_voice_ko_37597064,신철이는 눈가로 약간 웃음을 띠며 이런 말을 하였다.,South Korea,twenties,male
-common_voice_ko_37597065,무슨 뜻이에요?,South Korea,twenties,male
-common_voice_ko_37597066,벽을 새로 감독과 그가 마주 누운 것이 직각 되자 불쾌하였다.,South Korea,twenties,male
-common_voice_ko_37597067,꼬리를 굴리는 행운이 꼭 자기를 기다리고 있다고 내기를 해도 좋을 만한 믿음을 얻게 되었다.,South Korea ,twenties,male
-common_voice_ko_37211921,애완동물을 기르는 인구가 전체 인구의 사 분의 일이 되었습니다.,South Korea,twenties,male
-common_voice_ko_37211924,기천이는 맨 나중에 단장을 짚고 기엄기엄 올라왔다.,South Korea,twenties,male
-common_voice_ko_37211925,시간 재고 잠복기를 줄이려고요.,South Korea,twenties,male
-common_voice_ko_37211926,영신은 그 장면이 머릿속에 떠오르기만 해도 가슴이 설레고 얼굴이 화끈화끈 달았다.,South Korea,twenties,male
-common_voice_ko_37211929,그러던 터에 오늘은 편지를 뜯어 보고 동혁은 적지 않이 놀랐다.,South Korea,twenties,male
-common_voice_ko_37211933,신철이는 시멘트 포대와 함께 넘어졌다가 일어났다.,South Korea,twenties,male
-common_voice_ko_37211936,신철이는 우미관 앞에서 오 전짜리 우동 두 그릇을 사먹고 나서야 기운이 났다.,South Korea,twenties,male
-common_voice_ko_37211937,휘어잡는 소매를 뿌리치며 일어설 용기가 나지를 않았다.,South Korea,twenties,male
-common_voice_ko_37211940,며칠 후 선비 어머니는 마침내 세상을 떠나고 말았다.,South Korea,twenties,male
-common_voice_ko_37211941,김첨지는 어랍시요 하고 물러섰다.,South Korea,twenties,male
-common_voice_ko_37211943,제 그곳을 지배하는 무시무시한 정적.,South Korea,twenties,male
-common_voice_ko_37211944,버들껑 하는 동작과 함께 날카로운 소리가 독살스러운 땡비같이 나의 귀를 툭 쏘았다.,South Korea,twenties,male
-common_voice_ko_37211945,한참 후에 그는 바느질 그릇을 들고 내려와서 등불을 마주 앉으며 일감을 들었다.,South Korea,twenties,male
-common_voice_ko_37211946,신철이도 그의 뒤를 따라 막으로 올라갔다.,South Korea,twenties,male
-common_voice_ko_37211958,평소에는 성이 난 사람처럼 뚜웅허니 남하고 수작 하기도 싫어하면서 술만 들어가면 불평이 쏟아진다.,South Korea,twenties,male
-common_voice_ko_37211959,그때 저편에서 회중전등이 번쩍 하고 이리로 왔다.,South Korea,twenties,male
-common_voice_ko_37211971,그는 이러한 생각을 하며 쌀항아리를 다시금 들여다보았다.,South Korea,twenties,male
-common_voice_ko_37211972,하루에 세 시간을 걸으면 칠 년 후에 지구를 한바퀴 돌 수 있다.,South Korea,twenties,male
-common_voice_ko_37211988,사별한 첫째 부인 사이에서는 자식이 아예 없었고.,South Korea,twenties,male
-common_voice_ko_37211989,내가 땅에서 피하며 유리하는 자가 될찌라.,South Korea,twenties,male
-common_voice_ko_37212000,그 순간 신철이는 물 속에 잠겨 흔들리던 달이 휙 지나친다.,South Korea,twenties,male
-common_voice_ko_37212010,그 오라질 년이 밥을 죽이지.,South Korea,twenties,male
-common_voice_ko_37212011,마른침을 삼키며 다음 순서를 기다린다.,South Korea,twenties,male
-common_voice_ko_37212020,그녀는 유아 치고는 매우 밝습니다.,South Korea,twenties,male
-common_voice_ko_37212021,언뜻 깨달으니 김첨지는 인력거를 쥔 채 길 한복판에 엉거주춤 멈춰 있지 않은가.,South Korea,twenties,male
-common_voice_ko_37212023,영숙은 이미 자기를 떠나 옛날에 그 사람에게로 돌아갔다.,South Korea,twenties,male
-common_voice_ko_36545184,선비는 약간 웃음을 띠며 머리를 푹 숙인다.,South Korea,thirties,male
-common_voice_ko_36545185,신철이 역시 간난이가 먼저 말하기 전에는 아무러한 눈치도 간난이에게 보이지 않을 모양이다.,South Korea,thirties,male
-common_voice_ko_36545186,그러다가는 다시 의혹이 생기기 시작 하였다.,South Korea,thirties,male
-common_voice_ko_36545187,엘지가 스마트폰 사업을 철수하면서 제한적으로 가능했던 부트로더 언락 서비스도 중단되었습니다.,South Korea,thirties,male
-common_voice_ko_36545188,사죄할 만큼 내가 춘우에게 부족히 한 것이 무엇이냐.,South Korea,thirties,male
-common_voice_ko_36545189,하며 아까 쓰러질 때처럼 오른편 아랫배를 움켜쥐며 지독한 고통을 참느라고 입살을 깨문다.,South Korea,thirties,male
-common_voice_ko_36545191,백두산 기상을 다 안고.,South Korea,thirties,male
-common_voice_ko_36545192,무슨 흥이나 날 때에는 피아노에 가서 한 곡조 두드리는 재미도 또한 괜찮았습니다.,South Korea,thirties,male
-common_voice_ko_36545196,이마와 뺨에 입을 맞추어 주었다.,South Korea,thirties,male
-common_voice_ko_36545197,영신은 승객들에게 밀려서 동혁이가 걸터앉은 데까지 와서는 손잡이를 붙들고 섰다.,South Korea,thirties,male
-common_voice_ko_36545198,그 틈에 주전자 뚜껑은 또 소리 없이 열렸다.,South Korea,thirties,male
-common_voice_ko_36545199,투표 방법에 대해서 설명드리겠습니다.,South Korea,thirties,male
-common_voice_ko_36545200,아무 데도 얽매이지 않는 몸을 오로지 농촌사업에다만 바치리라.,South Korea,thirties,male
-common_voice_ko_36545201,형사가 잠깐 돌아선 사이에 동혁은 영신의 손을 덥석 잡았다.,South Korea,thirties,male
-common_voice_ko_36545202,그는 언제나 컴컴해서 일어나 나가곤 하였던 것이다.,South Korea,thirties,male
-common_voice_ko_36545209,그때에 그는 어머니와 그가 살던 아랫 마을 집이 문득 생각히었다.,South Korea,thirties,male
-common_voice_ko_36545211,"기껀 밥 처먹구 무슨 관격이야, 남의 농사 버려주면 이자식아 징역간다 봐라!",South Korea,thirties,male
-common_voice_ko_36545212,삼가 말씀에 주의하는 자는 좋은 것을 얻나니 여호와를 의지하는 자가 복이 있느니라.,South Korea,thirties,male
-common_voice_ko_36545213,악을 행하기를 꾀하는 자를 일컬어 사특한 자라 하느니라.,South Korea,thirties,male
-common_voice_ko_36545219,다시 살아날 자신이 있는 듯이 가냘픈 미소를 띠어 보인다.,South Korea,thirties,male
-common_voice_ko_36545220,저의 전보를 보고 그렇게 많이들 나왔을 줄은 몰랐다.,South Korea,thirties,male
-common_voice_ko_36545222,분홍빛 수건을 내어 방으로 들어앉는 신철의 무릎에 던진다.,South Korea,thirties,male
-common_voice_ko_36545223,그리고 이서방의 몸이 불편하다는 것을 깨달았다.,South Korea,thirties,male
-common_voice_ko_36545224,선비는 놀라 덕호를 바라보다 머리를 숙인다.,South Korea,thirties,male
-common_voice_ko_36545225,혀 곱은 소리로 덕호는 이렇게 말하였다.,South Korea,thirties,male
-common_voice_ko_36545228,굴다리 밑으로 오라고 해서 갔더니 아무도 없잖아?,South Korea,thirties,male
-common_voice_ko_36545229,그리고 용연의 원소가 떠오르고 선비가 눈결에 지나쳤다.,South Korea,thirties,male
-common_voice_ko_36545230,달이라고는 이름 뿐이요.,South Korea,thirties,male
-common_voice_ko_36545231,활활 다는 가마 속에 그의 몸뚱이를 넣고 달달 볶는 것 같았다.,South Korea,thirties,male
-common_voice_ko_36545232,그는 제게 햇빛이고 공기였어요.,South Korea,thirties,male
-common_voice_ko_36545233,그러므로 할멈과 선비는 밤에도 맘놓고 자지를 못하고 방에 불을 끄지 못하였다.,South Korea,thirties,male
-common_voice_ko_36545234,이 자라야 한다는 것은 내가 아니라 내 아내가 될 점순이의 키 말이다.,South Korea,thirties,male
-common_voice_ko_36545236,횡단보도를 건널 때는 신호등을 확인해요.,South Korea,thirties,male
-common_voice_ko_36545237,말하자면 죄는 기회에 있는데 기회라는 무형물은 벌을 할 수가 없으니깐.,South Korea,thirties,male
-common_voice_ko_36545238,이같이 하나님이 그 사람을 쫓아 내시고.,South Korea,thirties,male
-common_voice_ko_36545239,면장과 구장은 기천의 소매를 끌어들인다.,South Korea,thirties,male
-common_voice_ko_36545240,옆의 동무는 선비의 귀에다 입을 대었다.,South Korea,thirties,male
-common_voice_ko_36545242,선비는 할 수 없음을 알고 부엌으로 나와서 물을 끓여 가지고 들어왔다.,South Korea,thirties,male
-common_voice_ko_36545246,웃기 잘하는 여공은 킥킥 웃으며 이불 속으로 손을 넣어 꾹 찔렀다.,South Korea,thirties,male
-common_voice_ko_36545248,국회의원은 법률이 정하는 직을 겸할 수 없다.,South Korea,thirties,male
-common_voice_ko_36545254,학교는 교육과정을 자의적으로 운영하거나 학생에게 임의적인 교내외 행사 참석을 강요하여서는 아니 된다.,South Korea,thirties,male
-common_voice_ko_36545255,네 생각은 네 말이 된다.,South Korea,thirties,male
-common_voice_ko_36545256,내가 모략과 지식의 아름다운 것을 기록하여.,South Korea,thirties,male
-common_voice_ko_36545257,아담에게 이르시되.,South Korea,thirties,male
-common_voice_ko_36545258,옥점의 뒤를 따라 들어오는 낯모를 양복쟁이는 모녀를 바라보며 머뭇머뭇 하고 섰다.,South Korea,thirties,male
-common_voice_ko_36545264,관대한 어린 손님은 이런 말을 남기고 총총히 옷도 입고 짐도 챙기러 갈 데로 갔다.,South Korea,thirties,male
-common_voice_ko_36545265,동산 각종 나무의 실과는 네가 임의로 먹되.,South Korea,thirties,male
-common_voice_ko_36545267,그나마 부두노동에 있어서는 신철이가 맡았던 붉은 끈이 제일 임금이 많은 듯하였다.,South Korea,thirties,male
-common_voice_ko_36545268,쫓겨난 사람에게는 부모도 없고 형제도 없는 것이야.,South Korea,thirties,male
-common_voice_ko_36545269,그들은 뜻하지 않은 한숨이 후 나왔다.,South Korea,thirties,male
-common_voice_ko_36545270,첫째 어머니는 부엌으로 나가서 나무 한 뭇을 더 넣고 들어왔다.,South Korea,thirties,male
-common_voice_ko_36545272,영신은 불을 뜨뜻이 때어 놓은 아랫목에 가 턱 쓰러졌다.,South Korea,thirties,male
-common_voice_ko_36545273,선비는 어서 말이 끝나기를 기다리나 감독은 이런 부실한 말만 자꾸 늘어놓는다.,South Korea,thirties,male
-common_voice_ko_36552124,먹음직도 하고 보암직도 하고 지혜롭게 할만큼 탐스럽기도 한 나무인지라.,South Korea,thirties,male
-common_voice_ko_36552127,그리고 어머니가 하던 말이 얼핏 생각힌다.,South Korea,thirties,male
-common_voice_ko_36552128,그러나 그 소리는 확실히 선비의 가슴 복판을 찔러 주었다.,South Korea,thirties,male
-common_voice_ko_35850231,그리고 선비의 그 고운 얼굴이 미소를 띠고 지나치는 것을 그는 확실히 보았다.,South Korea,thirties,male
-common_voice_ko_35850233,우리들은 각각 제 길 닦기에 바쁜 사람이라.,South Korea,thirties,male
-common_voice_ko_35850234,나의 교훈을 받지 아니하고 나의 모든 책망을 업신여겼음이라.,South Korea,thirties,male
-common_voice_ko_35850365,개천에서 용 난다.,South Korea,thirties,male
-common_voice_ko_35850368,나는 그 알레그로가 울리어 나오는 순간 마음은 끝까지 긴장되고 흥분되었습니다.,South Korea,thirties,male
-common_voice_ko_35850370,선비가 이 공장에 들어온 지가 벌써 거의 일년이 되어 온다.,South Korea,thirties,male
-common_voice_ko_35850371,그리할 때마다 영숙은 서랍을 열고 상자 속에 넣어 두었던 패물낱을 들고 나갔다.,South Korea,thirties,male
-common_voice_ko_35850372,벌써부터 이런 생각을 가졌으나 용이하게 기회를 타는 수가 없었다.,South Korea,thirties,male
-common_voice_ko_35850420,그는 종잇조각과 연필을 내어 신철에게 무엇을 써서 보였다.,South Korea,thirties,male
-common_voice_ko_35850422,재판의 심리와 판결은 공개한다.,South Korea,thirties,male
-common_voice_ko_35850423,헌법재판소 재판관은 정당에 가입하거나 정치에 관여할 수 없다.,South Korea,thirties,male
-common_voice_ko_35850425,이번엔 제법 목소리가 패인 남학생의 질문이 들어왔다.,South Korea,thirties,male
-common_voice_ko_35850426,한번의 실패와 영원한 실패를 혼동하지 마라.,South Korea,thirties,male
-common_voice_ko_35850466,방망이 소리는 그가 걸을수록 점점 희미하게 들렸다.,South Korea,thirties,male
-common_voice_ko_35850472,모든 국민은 학문과 예술의 자유를 가진다.,South Korea,thirties,male
-common_voice_ko_35850476,학생 또는 보호자는 학생 본인에 관한 학교 기록을 언제든지 열람할 권리를 가진다.,South Korea,thirties,male
-common_voice_ko_35850516,그는 담 밑에 착 붙어 섰다.,South Korea,thirties,male
-common_voice_ko_35850517,"사랑은 말이지, 소유하는 게 아니야.",South Korea,thirties,male
-common_voice_ko_35850518,효애는 여전히 뭐라고 소곤소곤 이야기를 하였다.,South Korea,thirties,male
-common_voice_ko_35850519,점심 뒤에 회원들은 잡담을 하며 잠시 쉬었다.,South Korea,thirties,male
-common_voice_ko_35850520,영신은 그제야 그전에 백씨의 집에서 들은 동혁의 말을 되풀이하듯 하였다.,South Korea,thirties,male
-common_voice_ko_35850616,세상에 나의 마음을 알아 주는 사람이 어디 있어야죠.,South Korea,thirties,male
-common_voice_ko_35850617,옥점이는 눈에 웃음을 가득히 띠고 신철이를 쳐다보았다.,South Korea,thirties,male
-common_voice_ko_35850619,부르짖으며 저 혼자 감격하는 것이었다.,South Korea,thirties,male
-common_voice_ko_35850620,두 아들은 방 속에다 죽은 그 아버지의 송장을 제쳐놓고 서로 잡아삼킬 듯이 다투고 있었습니다.,South Korea,thirties,male
-common_voice_ko_35850623,간수의 호통소리에 그의 가슴은 푸르르 떨렸다.,South Korea,thirties,male
-common_voice_ko_35850705,여자가 뱀에게 말하되 동산 나무의 실과를 우리가 먹을 수 있으나.,South Korea,thirties,male
-common_voice_ko_35850706,국가는 국가표준제도를 확립한다.,South Korea,thirties,male
-common_voice_ko_35850708,다른 누구에게도 의지하지 말고 오직 그대 혼자의 힘으로 하라.,South Korea,thirties,male
-common_voice_ko_35850710,까불이는 의자를 버쩍 들어 옮겨 놔주었다.,South Korea,thirties,male
-common_voice_ko_35850711,그가 좋아할 때마다 이런 버릇이 있었다.,South Korea,thirties,male
-common_voice_ko_35850745,그는 머리를 냉정히 하여 보려고 애를 썼다.,South Korea,thirties,male
-common_voice_ko_35850746,탄핵결정은 공직으로부터 파면함에 그친다.,South Korea,thirties,male
-common_voice_ko_35850747,그의 어머니는 악이 치받쳐서 벌떡 일어나며 첫째에게로 달려들었다.,South Korea,thirties,male
-common_voice_ko_35850748,한편으로 그가 영신을 될 수 있는 대로 호의로써 이해하려는 것도 물론이다.,South Korea,thirties,male
-common_voice_ko_35850749,선비는 얼굴이 뻘개서 가마에서 뽑혀 나오는 실끝을 들여다보았다.,South Korea,thirties,male
-common_voice_ko_35850780,무척 배가 고팠음에도 당분간은 아무것도 먹지 않기로 했다.,South Korea,thirties,male
-common_voice_ko_35850784,신철이는 영철의 우는 소리를 들으며 문밖을 나섰다.,South Korea,thirties,male
-common_voice_ko_35850786,혹은 사오십 년 뒤에 조선을 무대로 생겨날 이야기라고 생각하여도 좋다.,South Korea,thirties,male
-common_voice_ko_35850787,어디서 오셨어요?,South Korea,thirties,male
-common_voice_ko_35850834,덕호는 문 안에 선 채 선비 어머니를 바라보며 걱정을 한다.,South Korea,thirties,male
-common_voice_ko_35850837,그리고 무어라고 손질을 두어 번 치고 모밀 밭뒤로 사라진다.,South Korea,thirties,male
-common_voice_ko_35850838,선비는 씨아틀도 만지지 않으면 앞이 허전한 것 같아서 그냥 붙들고 있었다.,South Korea,thirties,male
-common_voice_ko_35850840,동시에 잠깐 잊었던 아픔이 그의 전신을 못 견디게 습격하였다.,South Korea,thirties,male
-common_voice_ko_35850842,첫째는 무정처하고 걷다가 다시 덕호의 집 주위를 한 바퀴 돌아서 그의 집으로 왔다.,South Korea,thirties,male
-common_voice_ko_35850875,사회 교화자로서의 의견을 말씀해주십쇼.,South Korea,thirties,male
-common_voice_ko_35850877,그는 마침내 구역질을 욱 하고 하였다.,South Korea,thirties,male
-common_voice_ko_35850879,다만 흰 벽이 찌들은 예배당만이 한곡리에 없는 귀물이었다.,South Korea,thirties,male
-common_voice_ko_35850880,장로와 다른 교인들이 들어와 병원으로 가기를 번차례로 권하였다.,South Korea,thirties,male
-common_voice_ko_35850881,그래서 그는 잘못 찾아왔는가 하여 도로 나와서 주저하다가 다시 들어갔다.,South Korea,thirties,male
-common_voice_ko_35852120,나는 아무 걱정도 없이.,South Korea,thirties,male
-common_voice_ko_35852122,평안도 어느 산 깊은 금덤판.,South Korea,thirties,male
-common_voice_ko_35852124,비록 고구라 양복일 망정 노박이로 비를 맞으며 김첨지를 뒤쫓아 나왔으랴.,South Korea,thirties,male
-common_voice_ko_35852125,새파란 기운이 날 듯하던 그의 목소리는 어디로인지 쑥 들어가 버릴 듯하였다.,South Korea,thirties,male
-common_voice_ko_35852127,팔을 놀리면 팔이 아프고 다리를 놀리면 다리가 아팠다.,South Korea,thirties,male
-common_voice_ko_35852201,국가는 미수습자를 수습하기 위하여 최선을 다하여야 한다.,South Korea,thirties,male
-common_voice_ko_35852202,그가 방문을 소리 없이 열고 나서니 옆집에서는 시계가 새로 두시를 친다.,South Korea,thirties,male
-common_voice_ko_35852204,영숙은 다시 춘우의 마음을 헤아려 보았다.,South Korea,thirties,male
-common_voice_ko_35852205,본래부터 뼈만 남았던 그가 한층 더하여 마치 해골을 대하는 듯하였다.,South Korea,thirties,male
-common_voice_ko_35852207,그래봐야 아무것도 얻을 것이 없다.,South Korea,thirties,male
-common_voice_ko_35852235,고즈넉히 일어서서 피아노 앞에 가서 그의 어깨에 가만히 손을 얹었습니다.,South Korea,thirties,male
-common_voice_ko_35852236,난장보살은 호미로 땅을 치며 이렇게 소리쳤다.,South Korea,thirties,male
-common_voice_ko_35852237,슬기론 인민의 이 영광.,South Korea,thirties,male
-common_voice_ko_35852238,동무는 무슨 말인지 잘 알아듣지 못하고 이렇게 되풀이하며 신철이를 똑바로 쳐다보았다.,South Korea,thirties,male
-common_voice_ko_35852239,그는 이리저리 피하면서 길 한 옆으로 걸어갔다.,South Korea,thirties,male
-common_voice_ko_35887285,그리고 그가 걸어갈 장차의 앞길까지도 저 길가같이 훤하게 내다보였다.,South Korea,thirties,male
-common_voice_ko_35887286,아까 옥점이가 그의 아버지에게 양복쟁이를 소개하던 것을 얼핏 생각하였다.,South Korea,thirties,male
-common_voice_ko_35887287,실행할 당연한 일이건만.,South Korea,thirties,male
-common_voice_ko_35887288,세 살 버릇 여든까지 간다.,South Korea,thirties,male
-common_voice_ko_35887289,비 맞은 나뭇가지 새 움이 뾰죽뾰죽.,South Korea,thirties,male
-common_voice_ko_35972929,난 집에 들어가자마자 체포됐어.,South Korea,thirties,male
-common_voice_ko_35972930,"성공의 비결은 단 한 가지, 잘 할 수 있는 일에 광적으로 집중하는 것이다.",South Korea,thirties,male
-common_voice_ko_35972931,신철이는 그 밥을 못다 먹고 그만 일어나 나왔다.,South Korea,thirties,male
-common_voice_ko_35972932,늙고 불쌍한 너의 모는 죽지 못하여 모진 목숨을 그럭저럭 부지하여 간다.,South Korea,thirties,male
-common_voice_ko_35972933,간난이 역시 덕호의 얼굴이 떠올라서 불쾌하였다.,South Korea,thirties,male
-common_voice_ko_36880067,그 이웃을 쳐서 거짓 증거하는 사람은 방망이요 칼이요 뾰족한 살이니라.,South Korea,twenties,female
-common_voice_ko_36880068,무릇 경영은 의논함으로 성취하나니 모략을 베풀고 전쟁할지니라.,South Korea,twenties,female
-common_voice_ko_36880069,그와 동시에 애상적이던 기분은 구름과 같이 흩어지고 안개처럼 스러졌다.,South Korea,twenties,female
-common_voice_ko_36880070,하면서도 기천은 동혁이가 먹는다는 바람에 숨도 아니 쉬고 쪼옥 들이켰다.,South Korea,twenties,female
-Voice_2705_078,오늘은 정말 추운 날씨네요.,France,twenties,male
-Voice_2705_079,저는 주말에 친구를 만날 거예요.,France,twenties,male
-Voice_2705_080,이 카페의 음료는 정말 맛있어요.,France,twenties,male
-Voice_2705_081,오늘은 매우 바쁜 하루였어요.,France,twenties,male
-Voice_2705_082,저는 매일 아침 운동을 해요.,France,twenties,male
-Voice_2705_083,이 책은 정말 재미있어요.,France,twenties,male
-Voice_2705_084,저는 한국어를 공부하고 있어요.,France,twenties,male
-Voice_2705_085,이 음식은 조금 매워요.,France,twenties,male
-Voice_2705_086,저는 내일 시험이 있어요.,France,twenties,male
-Voice_2705_087,이 음악은 정말 좋네요.,France,twenties,male
-Voice_2705_088,저는 주말에 가족과 함께 시간을 보내요.,France,twenties,male
-Voice_2705_089,이 영화는 정말 감동적이었어요.,France,twenties,male
-Voice_2705_090,저는 매일 저녁 산책을 해요.,France,twenties,male
-Voice_2705_091,이 옷은 정말 예뻐요.,France,twenties,male
-Voice_2705_092,저는 한국 문화를 배우고 싶어요.,France,twenties,male
-Voice_2705_093,이 공원은 정말 아름다워요.,France,twenties,male
-Voice_2705_094,저는 매일 아침 일찍 일어나요.,France,twenties,male
-Voice_2705_095,이 영화는 정말 재미있었어요.,France,twenties,male
-Voice_2705_096,저는 한국 드라마를 좋아해요.,France,twenties,male
-Voice_2705_097,이 음식은 정말 맛있어요.,France,twenties,male
-Voice_2705_098,오늘은 날씨가 매우 좋네요.,France,twenties,male
-Voice_2705_099,저는 주말에 여행 갈 거예요.,France,twenties,male
-Voice_2705_100,이 카페는 정말 조용해요.,France,twenties,male
-Voice_2705_101,저는 매일 아침 신문을 읽어요.,France,twenties,male
-Voice_2705_102,이 영화는 정말 슬펐어요.,France,twenties,male
-common_voice_ko_36880071,다 좋았는데 원두만큼은 조금 신 것 같아 아쉬웠어.,South Korea,twenties,female
-common_voice_ko_36880073,그 것은 회원들이 여러 달을 두고 조사해 온 것으로 매우 정확한 통계였다.,South Korea,twenties,female
-common_voice_ko_36880074,그는 곧 울고 싶은 감정을 느꼈다.,South Korea,twenties,female
-common_voice_ko_36880075,옷 그렇게 벗지 말라고.,South Korea,twenties,female
-common_voice_ko_36880076,의사에게 죽음의 선고를 받은 줄도 모르는 영신은 주사 기운에 조금 의식을 회복하였다.,South Korea,twenties,female
-common_voice_ko_36880077,날씨 또한 백프로 정확한 예측은 불가능한데요.,South Korea,twenties,female
-common_voice_ko_36880078,그는 청아를 자기 가슴에다 꼭 끼어안아 보았다.,South Korea,twenties,female
-common_voice_ko_36880080,껄끄러운 애 내쫓아주겠다니까 차장이 선배 이쁘대요?,South Korea,twenties,female
-common_voice_ko_36880081,병원에만 계속 있으면 병납니다.,South Korea,twenties,female
-common_voice_ko_36880299,공연한 소리 하지 말고 어서 가세.,South Korea,twenties,female
-common_voice_ko_36880300,묻는 아버지의 목소리는 아까 꾸짖던 때와는 딴판으로 부드럽다.,South Korea,twenties,female
-common_voice_ko_36880301,하면서도 좀더 시원하게 들여대지를 못하고 온 것이 종시 분하였다.,South Korea,twenties,female
-common_voice_ko_36880302,하면서 허리에 휘감긴 동혁의 팔을 슬그머니 풀었다.,South Korea,twenties,female
-common_voice_ko_36880303,따라서 이때껏 느껴 보지 못한 어떤 불안을 가슴이 답답하도록 느꼈다.,South Korea,twenties,female
-common_voice_ko_36880304,선비는 받아 가지고 간난의 뒤를 따랐다.,South Korea,twenties,female
-common_voice_ko_36880306,네가 돌아올 때까지 기다리고 있으마!,South Korea,twenties,female
-common_voice_ko_36880307,그래서 거지 안을 뒤져 보니 아무것도 잡히지 않았다.,South Korea,twenties,female
-common_voice_ko_36880308,새벽배송보다도 로켓배송보다도 빠른 양자 배송 서비스를 오늘부터 시작합니다.,South Korea,twenties,female
-common_voice_ko_36880309,강아지가 꼬리를 흔들듯이 뾰족한 발끝을 달달달 까분다.,South Korea,twenties,female
-common_voice_ko_36880310,아니다 결코 아니다.,South Korea,twenties,female
-common_voice_ko_36880312,지금 거신 번호는 없는 번호입니다.,South Korea,twenties,female
-common_voice_ko_36880313,덕호는 선비를 힘껏 껴안아 보고 나서 밖으로 나갔다.,South Korea,twenties,female
-common_voice_ko_36880315,요즘 영어권에서는 구글 검색 대신에 레딧 같은 커뮤니티 사이트에서 검색한다죠?,South Korea,twenties,female
-common_voice_ko_36880316,청하는 이쪽 노를 저으면서 소리를 지른다.,South Korea,twenties,female
-common_voice_ko_36880322,물에 비취이면 얼굴이 서로 같은 것 같이 사람의 마음도 서로 비취느니라.,South Korea,twenties,female
-common_voice_ko_36880323,여러 사람의 앞으로 한 걸음 다가서며 그 검붉은 얼굴이 매우 긴장해진다.,South Korea,twenties,female
-common_voice_ko_36880324,여전히 사건 파악을 못 하고 있는데도?,South Korea,twenties,female
-common_voice_ko_36880325,하나님이 뭍을 땅이라 칭하시고 모인 물을 바다라 칭하시니라 하나님의 보시기에 좋았더라.,South Korea,twenties,female
-common_voice_ko_36880333,외눈까풀이는 빙긋이 웃으며 신철이가 주저앉히는 대로 앉아서 방 안을 휘 돌아보았다.,South Korea,twenties,female
-common_voice_ko_36880336,토요일에는 가족과 함께 쿠키를 구울 것입니다.,South Korea,twenties,female
-common_voice_ko_36880341,이거리를 둘이서 걸어요.,South Korea,twenties,female
-common_voice_ko_36880342,나는 털썩 그 자리에 주저앉고 말았습니다.,South Korea,twenties,female
-common_voice_ko_36880343,주문하실 상품의 개수는 몇 개인가요?,South Korea,twenties,female
-common_voice_ko_36880354,간난이는 생긋 웃어 보이며 머리를 흔들었다.,South Korea,twenties,female
-common_voice_ko_36880355,국무총리는 국회의 동의를 얻어 대통령이 임명한다.,South Korea,twenties,female
-common_voice_ko_36880357,너는 벙어리와 고독한 자의 송사를 위하여 입을 열지니라.,South Korea,twenties,female
-common_voice_ko_36880358,무어가 무언지 분간할 수 없는 나는 이렇게 물었다.,South Korea,twenties,female
-common_voice_ko_36880359,아직 대문은 걸린 채 그대로 있었다.,South Korea,twenties,female
-Voice_2705_103,오늘 아침에 일어나자마자 따뜻한 커피를 한 잔 마셨어요.,China,twenties,male
-Voice_2705_104,친구와 약속이 있어서 지하철을 타고 시내에 갔어요.,China,twenties,male
-Voice_2705_105,비가 많이 와서 우산을 쓰고 집에 돌아왔어요.,China,twenties,male
-Voice_2705_106,한국어를 배우는 것이 생각보다 어렵지만 재미있어요.,China,twenties,male
-Voice_2705_107,저녁에는 가족들과 함께 맛있는 음식을 먹으러 갔어요.,China,twenties,male
-Voice_2705_108,오늘은 해야 할 일이 너무 많아서 조금 피곤해요.,China,twenties,male
-Voice_2705_109,주말마다 공원에서 산책하는 것을 좋아해요.,China,twenties,male
-Voice_2705_110,휴대폰을 집에 두고 나와서 많이 불편했어요.,China,twenties,male
-Voice_2705_111,여행을 가기 전에 미리 계획을 잘 세워야 해요.,China,twenties,male
-Voice_2705_112,오늘 도서관에서 중요한 책을 빌렸어요.,China,twenties,male
-Voice_2705_113,아직 숙제를 다 끝내지 못해서 걱정돼요.,China,twenties,male
-Voice_2705_114,날씨가 추워지니까 따뜻하게 입고 나가세요.,China,twenties,male
-Voice_2705_115,어제 본 영화가 너무 감동적이어서 눈물이 났어요.,China,twenties,male
-Voice_2705_116,새로운 친구를 만나서 정말 기뻤어요.,China,twenties,male
-Voice_2705_117,시간이 있을 때마다 한국 드라마를 자주 봐요.,China,twenties,male
-Voice_2705_118,아침마다 일찍 일어나서 운동하는 습관을 들이고 있어요.,China,twenties,male
-Voice_2705_119,요즘 날씨가 변덕스러워서 옷을 어떻게 입어야 할지 모르겠어요.,China,twenties,male
-Voice_2705_120,시험이 끝난 후에 친구들과 함께 여행을 가기로 했어요.,China,twenties,male
-Voice_2705_121,학교에서 발표를 해야 해서 조금 긴장되고 떨렸어요.,China,twenties,male
-Voice_2705_122,주말에 시간이 나면 가족과 함께 맛집을 찾아가곤 해요.,China,twenties,male
-common_voice_ko_36880363,"어리석은 자는 멀리서 행복을 찾고, 현명한 자는 자신의 발치에서 행복을 키워간다.",South Korea,twenties,female
-common_voice_ko_36880364,즐겁고 재미있는 콘텐츠를 만들 작가를 모집합니다.,South Korea,twenties,female
-common_voice_ko_36880365,동화가 마주 가서 어머니의 머리에서 함지박을 받아 들고 뛰어왔다.,South Korea,twenties,female
-common_voice_ko_36880366,그리고 그 커다란 눈을 둥그렇게 떴다.,South Korea,twenties,female
-common_voice_ko_36880367,그리고 부끄럽지만 않으면 어젯밤 일을 아버지에게 자랑하고 싶었다.,South Korea,twenties,female
-common_voice_ko_36880372,부르짖으며 발길로 벽을 걷어차고 일어났다.,South Korea,twenties,female
-common_voice_ko_36880373,나오는 줄 모르고 이런 말을 하고도 가슴이 선뜩하였다.,South Korea,twenties,female
-common_voice_ko_36880380,저 뒤에 동영상으로 주암동 사건 개요가 나올 겁니다.,South Korea,twenties,female
-common_voice_ko_36880381,먼 땅에서 오는 좋은 기별은 목마른 사람에게 냉수 같으니라.,South Korea,twenties,female
-common_voice_ko_36880382,"예, 덕분에...",South Korea,twenties,female
-common_voice_ko_36880386,김첨지는 원망스럽게 전차 타는 이를 노리고 있었다.,South Korea,twenties,female
-common_voice_ko_36880388,그러나 그네들은 운동꾼이 아니요 구경꾼인 것은 물론이다.,South Korea,twenties,female
-common_voice_ko_36880393,"갑자기 튀어져 나오는 광포, 거기 연한 쾌미, 흥소.",South Korea,twenties,female
-common_voice_ko_36880394,그때 전깃불이 꺼풋 하고 꺼져 버렸다.,South Korea,twenties,female
-common_voice_ko_36880395,마음의 정결을 사모하는 자의 입술에는 덕이 있으므로 임금이 그의 친구가 되느니라.,South Korea,twenties,female
-common_voice_ko_36880400,게으른 자는 말하기를 사자가 밖에 있은즉 내가 나가면 거리에서 찢기겠다 하느니라.,South Korea,twenties,female
-common_voice_ko_36880401,"그럼, 내일 오랍쇼니까?",South Korea,twenties,female
-common_voice_ko_36880402,"반갑습니다 고객님, 희망을 전해드리는 통신사 케이알 정보통신입니다. 무엇을 도와드릴까요?",South Korea,twenties,female
-common_voice_ko_36880403,동혁은 체격과는 정반대로 아이들을 보면 귀여워서 사지를 못 쓴다.,South Korea,twenties,female
-common_voice_ko_36880404,그는 나를 밀쳐 버린 다음에 그 음보를 들고서 읽기 시작하였습니다.,South Korea,twenties,female
-common_voice_ko_36880405,그리고 이 집에서 옥점이를 어떻게 귀여워하는 것을 잠시간이라도 알 수가 있다.,South Korea,twenties,female
-common_voice_ko_36880406,앞뜰과 뒷동산의 앙상한 삭정이를 휩쓰는 바람 소리만 파도 소리처럼 쏴아쏴아 하고 지나간다.,South Korea,twenties,female
-common_voice_ko_36880407,가만히 그의 두 손을 잡았다.,South Korea,twenties,female
-common_voice_ko_36880408,안개 같은 감정이 그의 가슴에서 이리 서리고 저리 엉클어진다.,South Korea,twenties,female
-common_voice_ko_36880409,아까까지 영신은 그 불을 얕은 하늘의 별들이 반짝이는 줄로만 알고있었다.,South Korea,twenties,female
-common_voice_ko_36880410,"골김에 그저 이놈의 장인님, 하고 댓돌에다 메꼰코 우리 고향으로 내뺄까 하다가 꾹꾹 참고 말았다.",South Korea,twenties,female
-common_voice_ko_36880411,커다랗게 흉내를 내어서 여러 사람은 천장을 우러러 간간대소를 하였다.,South Korea,twenties,female
-common_voice_ko_36880412,그때 신철이는 옥점 어머니가 선비를 나무랄 때 찡그리던 얼굴임을 얼핏 발견하였다.,South Korea,twenties,female
-common_voice_ko_36880413,의심하는 마음과 한꺼번에 일어나는 것은 질투였다.,South Korea,twenties,female
-common_voice_ko_36880414,애가 말라서 간청을 하는 것이었다.,South Korea,twenties,female
-common_voice_ko_36880415,오늘 밤은 특히 애들의 재미난 유희가 있다고 해서 유서방이며 덕호까지도 모두 갔던 것이다.,South Korea,twenties,female
-common_voice_ko_36880417,여보게 김첨지.,South Korea,twenties,female
-common_voice_ko_36880418,그의 연지 바른 입이 가까이만 가도 불같이 뜨거워 춘우의 피를 태울 듯하였다.,South Korea,twenties,female
-common_voice_ko_36880419,덕호는 이불로 몸을 가리고 일어앉아 물그릇을 받으며 이렇게 말하였다.,South Korea,twenties,female
-common_voice_ko_36880421,그는 얼른 뒷문 편으로 몸을 피하였다.,South Korea,twenties,female
-common_voice_ko_36880422,뜨거운 볕이 그의 전신을 후끈하게 하였다.,South Korea,twenties,female
-common_voice_ko_36880423,뱁새가 황새를 따르려다간 다리가 찢어지는 줄 모르구 덮어놓고 날뛰는구나.,South Korea,twenties,female
-common_voice_ko_36880425,삼십 년 전에 자네가 나오기 전에 세상 떠난.,South Korea,twenties,female
-common_voice_ko_36880426,종을 어렸을 때부터 곱게 양육하면 그가 나중에는 자식인 체하리라.,South Korea,twenties,female
-common_voice_ko_39745083,그는 검버섯이 돋은 이마에 주름살을 잡으며 머리 위를 우러러본다.,South Korea,twenties,female
-common_voice_ko_39745087,지금은 지팽이를 짚으시고도 별로 나다니시지를 못하셔요.,South Korea,twenties,female
-common_voice_ko_39745088,내가 가장 좋아하는 과목은 체육이다.,South Korea,twenties,female
-common_voice_ko_39745089,홍길동 회장님 비서입니다.,South Korea,twenties,female
-common_voice_ko_39745090,지금 누구를 만나고 있기는 한데.,South Korea,twenties,female
-common_voice_ko_39745091,출입문 닫습니다.,South Korea,twenties,female
-common_voice_ko_39745093,중학을 졸업한 뒤에는 이젠 어머니를 위하여 그는 학업을 중지하지 않을 수가 없었습니다.,South Korea,twenties,female
-common_voice_ko_39745114,일에 바쁜 꿀벌은 슬퍼할 겨를도 없다는 격언이 있지 않은가.,South Korea,twenties,female
-common_voice_ko_39745115,그러자 그 돈 벌 용기가 병자에 대한 염려를 사르고 말았다.,South Korea,twenties,female
-common_voice_ko_39745121,춘우는 자리 위에 그대로 쓰러지어 고단한 다리를 펴려 하여 두 다리를 쭉 뻗었다.,South Korea,twenties,female
-common_voice_ko_39745123,덕호는 그가 너무 미워서 이름도 부르지 않는 것이다.,South Korea,twenties,female
-common_voice_ko_39745124,동혁은 못 이기는 체하고 따라 들어갔다.,South Korea,twenties,female
-common_voice_ko_39745125,운전수를 끌어내려 퍽퍽 두드려 주고 싶었다.,South Korea,twenties,female
-common_voice_ko_39745150,그리고 선비 입에서 무슨 말이 나오기를 기다렸다.,South Korea,twenties,female
-common_voice_ko_39745163,정근이더러 무슨 말이라도 꺼내라고 재촉 비슷이 한다.,South Korea,twenties,female
-common_voice_ko_39745164,그의 속을 뚫고 보려는 듯한 옥점이의 강한 시선을 그는 약간 피하였다.,South Korea,twenties,female
-common_voice_ko_39745166,그러한 칠팔 년이 지난 뒤에 그는 아주 폐인이 되고 말았습니다.,South Korea,twenties,female
-common_voice_ko_39745188,그는 자기가 누운 동안 하루도 주야학을 쉬지 못하게 하였다.,South Korea,twenties,female
-common_voice_ko_39745191,또 한 잔 먹고 나서 김첨지는 치삼의 어깨를 치며 문득 껄껄 웃는다.,South Korea,twenties,female
-common_voice_ko_39745208,그때 맞은편 방에서는 웃음소리가 하하 하고 흘러나왔다.,South Korea,twenties,female
-common_voice_ko_39745210,그리고 뛰노는 가슴을 진정하며 기침을 하였다.,South Korea,twenties,female
-common_voice_ko_39745211,"좀 급속도로 시작된 빈곤, 거기 연하여 주림, 꺼져가는 불꽃과 같은 목숨.",South Korea,twenties,female
-common_voice_ko_39745230,그는 무의식간에 볼을 슬슬 어루만지며 벌컥 일어났다.,South Korea,twenties,female
-common_voice_ko_39745231,웬일인지 선비는 가슴이 답답해지며 얼른 대답이 나가지 않았다.,South Korea,twenties,female
-common_voice_ko_36880087,배고픈데 지금 저녁 식사를 먹으면 너무 이를까?,South Korea,twenties,male
-common_voice_ko_36880090,동혁은 가슴을 봉긋이 내밀며 숨을 깊닿게 들여마셨다.,South Korea,twenties,male
-common_voice_ko_36880096,그는 기침을 안 하려고 입을 꼭 다문 후에 숨을 쉬지 않았다.,South Korea,twenties,male
-common_voice_ko_36880097,동혁은 입술을 꽉 깨물고 원재의 뒤를 따라 묵묵히 논틀 밭틀을 걸었다.,South Korea,twenties,male
-common_voice_ko_36880098,대한 사람 대한으로 길이 보전하세.,South Korea,twenties,male
-common_voice_ko_36880102,내가 두 가지 일을 주께 구하였사오니 나의 죽기 전에 주시옵소서.,South Korea,twenties,male
-common_voice_ko_36880103,하더니 미리부터 허리를 구부리며 집 속으로 기어들어간다.,South Korea,twenties,male
-common_voice_ko_36880104,긴 말은 쓸 수 없으나 오직 건강에 각별히 주의해 주십시오.,South Korea,twenties,male
-common_voice_ko_36880105,여러 해 별러 오던 농우회의 회관을 지으려고 오늘 저녁에 그 지경을 닦는 것이다.,South Korea,twenties,male
-common_voice_ko_36880106,옥점 어머니는 저고리 고름을 매고 버선을 신는다.,South Korea,twenties,male
-common_voice_ko_36880112,이웃에게 아첨하는 것은 그의 발 앞에 그물을 치는 것이니라.,South Korea,twenties,male
-common_voice_ko_36880114,실상인즉 뻔히 섰던 것이 아니라.,South Korea,twenties,male
-common_voice_ko_36880115,취조실 문이 열리는 소리에 바작바작 졸이고 섰던 영신의 가슴은 달칵 내려앉았다.,South Korea,twenties,male
-common_voice_ko_36880116,안방에 모였던 다른 청년들도 서넛이나 원재의 뒤를 따라 들어왔다.,South Korea,twenties,male
-common_voice_ko_36880117,그리고 흐르는 물 속으로 빛나는 차돌을 물끄러미 들여다보았다.,South Korea,twenties,male
-common_voice_ko_36880123,그와 동시에 기천의 가슴도 쿵 하고 울렸다.,South Korea,twenties,male
-common_voice_ko_36880124,우리 기상일세.,South Korea,twenties,male
-common_voice_ko_36880125,춘우는 모래 위에 앉아서 멀리 서울 쪽을 바라보고 앉아 있었다.,South Korea,twenties,male
-common_voice_ko_36880127,얼마나 불편해도 가만있어야지.,South Korea,twenties,male
-common_voice_ko_36880128,부자는 가난한 자를 주관하고 빚진 자는 채주의 종이 되느니라.,South Korea,twenties,male
-common_voice_ko_36880130,"필요가 발명의 어머니라는 건 누구나 아는 사실이지만, 특허에도 유지비가 들어간다는 것도 유념해주세요.",South Korea,twenties,male
-common_voice_ko_36880133,동영상 같이 보시고 제가 이 질문 드리면 교수님이 그때부터 말씀하시면 돼요.,South Korea,twenties,male
-common_voice_ko_36880134,로마는 하루아침에 이루어진 것이 아니다.,South Korea,twenties,male
-common_voice_ko_36880135,이는 혁신을 저지하는 것입니다.,South Korea,twenties,male
-common_voice_ko_36880136,그들은 나에게 힘을 준다.,South Korea,twenties,male
-common_voice_ko_36880140,가난한 자를 구제하는 자는 궁핍하지 아니 하려니와 못본체 하는 자에게는 저주가 많으리라.,South Korea,twenties,male
-common_voice_ko_36880142,그는 그와 한 학급에 있는 인호였다.,South Korea,twenties,male
-common_voice_ko_36880148,나를 버리고 가시는 님은 십리도 못가서 발병난다.,South Korea,twenties,male
-common_voice_ko_36880149,충성된 자는 복이 많아도 속히 부하고자 하는 자는 형벌을 면치 못하리라.,South Korea,twenties,male
-common_voice_ko_36880150,이서방은 물끄러미 이것을 바라보며 가슴이 후련해졌다.,South Korea,twenties,male
-common_voice_ko_36880151,제가 지금 좀 너무 급해서요.,South Korea,twenties,male
-common_voice_ko_36880152,우리 마누라가 죽었다네.,South Korea,twenties,male
-common_voice_ko_36880159,아침에 종소리만 들리면 입술을 깨물며 문고리를 붙잡고 일어났다.,South Korea,twenties,male
-common_voice_ko_36880160,르무엘왕의 말씀한바 곧 그 어머니가 그를 훈계한 잠언이라.,South Korea,twenties,male
-common_voice_ko_36880161,선생님 소개 끝나면 저쪽 자리에 앉으시면 됩니다.,South Korea,twenties,male
-common_voice_ko_36880162,유명한 광염 소나타의 작가 말씀이지요?,South Korea,twenties,male
-common_voice_ko_36880167,장인이 온갖 것을 만들지라도 미련한 자를 고용하는 것은 지나가는 자를 고용함과 같으니라.,South Korea,twenties,male
-common_voice_ko_36880168,쥐어 터져서 병원비 내는 건 못 참는다.,South Korea,twenties,male
-common_voice_ko_36880169,형제는 머리끝이 쭈뼛해서 문칫하고 서지 않을 수 없었다.,South Korea,twenties,male
-common_voice_ko_36880170,거짓말하는 자는 자기의 해한 자를 미워하고 아첨하는 입은 패망을 일으키느니라.,South Korea,twenties,male
-common_voice_ko_36880174,모기 소리같이 중얼거리고 숨을 걸그렁걸그렁하였다.,South Korea,twenties,male
-common_voice_ko_36880175,여호와 하나님이 에덴동산에서 그 사람을 내어 보내어.,South Korea,twenties,male
-common_voice_ko_36880176,정은배 씨와 마동혁 씨의 음악을 굉장히 다르다고 생각했거든요.,South Korea,twenties,male
-common_voice_ko_36880177,그때에 비단을 찢는 듯한 옥점의 조소가 들리는 듯하여 그는 얼핏 머리를 숙였다.,South Korea,twenties,male
-common_voice_ko_36880178,웬일인지 선비가 울면 할멈은 번번이 따라 울곤 하였던 것이다.,South Korea,twenties,male
-common_voice_ko_36880180,"여기 편의점은 이십사시간 내내 열지는 않으니까, 필요한 게 있으면 미리 사두세요.",South Korea,twenties,male
-common_voice_ko_36880181,용서해 주십시오.,South Korea,twenties,male
-common_voice_ko_36880182,제일항의 지시를 받은 당해 행정기관은 이에 응하여야 한다.,South Korea,twenties,male
-common_voice_ko_36880183,목요일에 게임을 하시겠습니까?,South Korea,twenties,male
-common_voice_ko_36880184,엄중히 명령을 한 뒤에 다시 회관으로 들어갔다.,South Korea,twenties,male
-common_voice_ko_36880185,하고 창하는 춘우의 얼굴을 한참이나 물끄러미 들여다보았다.,South Korea,twenties,male
-common_voice_ko_36880186,그는 저 싸락눈을 보니 한층더 가슴이 죄어들었다.,South Korea,twenties,male
-common_voice_ko_36880187,영숙도 약간 얼굴에 피가 올라오며 목소리가 높아진다.,South Korea,twenties,male
-common_voice_ko_36880188,이 곳은 마차 시위가 이루어지고 있는 판교 도심 한복판입니다.,South Korea,twenties,male
-common_voice_ko_36880189,물러나서 조용하게 구하면 배울 수 있는 스승은 많다.,South Korea,twenties,male
-common_voice_ko_36880190,여동생이 점점 어머니를 닮았나 보다.,South Korea,twenties,male
-common_voice_ko_36880191,심판 자리에 앉은 왕은 그 눈으로 모든 악을 흩어지게 하느니라.,South Korea,twenties,male
-common_voice_ko_36880192,눈물이 앞을 가리어 그의 얼굴이 희미하게 보인다.,South Korea,twenties,male
-common_voice_ko_36880193,이렇게 하면 당신네들이 앞으로는 다 부자가 될 것이오.,South Korea,twenties,male
-common_voice_ko_36880194,황금정에서는 용산으로 가는 듯한 월급쟁이들이 가득 들이몰리었다.,South Korea,twenties,male
-common_voice_ko_36880195,건넛마을에서 졸린 듯한 닭 우는 소리가 들렸다.,South Korea,twenties,male
-common_voice_ko_36880196,이것이 이 좋은 새 옷을 준 데 대한 흥선의 인사였다.,South Korea,twenties,male
-common_voice_ko_36880197,삶을 사는 데는 단 두가지 방법이 있다.,South Korea,twenties,male
-common_voice_ko_36880198,그때 세계 경제의 흐름이 심상찮았다.,South Korea,twenties,male
-common_voice_ko_36880200,보라 이 사람이 선악을 아는 일에 우리 중 하나 같이 되었으니.,South Korea,twenties,male
-common_voice_ko_36880201,여자의 말에 따라 정근은 뇌란 얼굴을 쳐들었다.,South Korea,twenties,male
-common_voice_ko_36880202,"자, 여기 어떤 상점이 있다 합시다.",South Korea,twenties,male
-common_voice_ko_36880204,간난이는 얼른 선비를 보며 호호 웃었다.,South Korea,twenties,male
-common_voice_ko_36880206,이런 경우에 자네를 힘껏 붙잡지를 못허는 게 무한히 슬플 뿐일세.,South Korea,twenties,male
-common_voice_ko_36880207,계집애들은 동요를 부르듯 하면서 영신의 손에 소매에 치맛자락에 매어달려서 까치처럼 깡충깡충 뛴다.,South Korea,twenties,male
-common_voice_ko_36880208,우리나라가 민주국가인 한 정치적 폭력을 규탄해야 합니다.,South Korea,twenties,male
-common_voice_ko_36880209,그때 그는 경찰서에서 고문받던 생각을 하고 소름이 쭉 끼쳤다.,South Korea,twenties,male
-common_voice_ko_36880210,스스로 묻기도 하고 한숨도 짓는다.,South Korea,twenties,male
-common_voice_ko_36880211,그는 마시고 빈궁한 것을 잊어버리겠고 다시 그 고통을 기억지 아니하리라.,South Korea,twenties,male
-common_voice_ko_36880213,그는 구두를 벗고 방 안을 얼른 살펴보았다.,South Korea,twenties,male
-common_voice_ko_36880214,길로 지나다가 자기에게 상관없는 다툼을 간섭하는 자는 개 귀를 잡는 자와 같으니라.,South Korea,twenties,male
-common_voice_ko_36880215,박첨지는 마누라를 흘깃 돌려다보고 중얼중얼 군소리하듯 한다.,South Korea,twenties,male
-common_voice_ko_36880216,첫째는 무슨 말을 하려다가 말끝을 잊었다.,South Korea,twenties,male
-common_voice_ko_36880217,일포는 못 들은 체하고 있다가 여전히 또 우벼 내서 맡아 보곤 하였다.,South Korea,twenties,male
-common_voice_ko_36880218,자기의 마음을 제어하지 아니하는 자는 성읍이 무너지고 성벽이 없는 것 같으니라.,South Korea,twenties,male
-common_voice_ko_36880220,그의 가슴에는 또다시 그 실뭉치가 욱 쓸어 올라온다.,South Korea,twenties,male
-common_voice_ko_36880221,투표된 점수를 적어 들고 이름을 부르는 구장의 손과 입은 함께 떨렸다.,South Korea,twenties,male
-common_voice_ko_36880224,그럴 것이다.,South Korea,twenties,male
-common_voice_ko_36880225,암만 사정허듯 타일러두 점점 왜먹기만 허는걸.,South Korea,twenties,male
-common_voice_ko_36880226,나는 작년에 조선 왕조에 관한 책을 썼습니다.,South Korea,twenties,male
-common_voice_ko_36880227,"나도 사람이고 여자야, 알았니?",South Korea,twenties,male
-common_voice_ko_36880228,동혁은 흐릿한 등잔 밑에서 눈을 꿈벅꿈벅하며 몇 번이나 편지를 내려읽고 치읽고 하였다.,South Korea,twenties,male
-common_voice_ko_36880229,이 밤부터는 바람까지 일어서 휙휙 하는 소리가 그치지 않았다.,South Korea,twenties,male
-common_voice_ko_36880230,몸과 맘 다 바쳐 이 조선.,South Korea,twenties,male
-common_voice_ko_36880232,누구를 막론하고 붙잡고는 입에 술을 부어 넣어 주었습니다.,South Korea,twenties,male
-common_voice_ko_36880233,자기를 보고 놀라는 듯한 첫째의 표정을 보아 그도 역시 선비 자신을 알아본 듯하였다.,South Korea,twenties,male
-common_voice_ko_36880234,간난이가 몸을 솟구려고 움찔하는 바람에 선비가 푹 거꾸러졌다.,South Korea,twenties,male
-common_voice_ko_36880235,하고는 염치불구하고 하루라도 더 붙들려만 든다.,South Korea,twenties,male
-common_voice_ko_36880236,빈부가 섞여 살거니와 무릇 그들을 지으신 이는 여호와시니라.,South Korea,twenties,male
-common_voice_ko_36880239,거리에서 손님을 끄느라고 틀어 놓은 유성기 앞이며.,South Korea,twenties,male
-common_voice_ko_36880240,농민들은 일시에 일어나서 머리가 땅에 닿도록 절을 몇 번이나 거듭하고 헤어졌다.,South Korea,twenties,male
-common_voice_ko_36880241,애정이라는 것이 도리 어나 의 마음을 괴롭게 할 뿐야.,South Korea,twenties,male
-common_voice_ko_36880242,그리고 그의 품을 벗어나려고 다리팔을 함부로 놀렸다.,South Korea,twenties,male
-common_voice_ko_36880248,춘우는 노로 언덕을 짚어 배를 내밀고 창하는 노를 들어 방향을 정하였다.,South Korea,twenties,male
-common_voice_ko_36880249,"아씨, 인력거 아니 타시랍시요?",South Korea,twenties,male
-common_voice_ko_36880250,그때 순사의 구둣발에 툭툭 채는 칼은 햇빛에 번쩍번쩍 하였다.,South Korea,twenties,male
-common_voice_ko_36880252,"야, 넌 말 좀 고상하게 못 하냐?",South Korea,twenties,male
-common_voice_ko_36880263,그때 옆에 섰던 간수는 호령을 하였다.,South Korea,twenties,male
-common_voice_ko_36880264,그리고 진중한 위엄을 그에게 보이려고 음성을 둥글게 내었다.,South Korea,twenties,male
-common_voice_ko_36880267,이날이야말로 동수문 안에서 인력거꾼 노릇을 하는 김 첨지에게는 닥친 운수 좋은 날이었다.,South Korea,twenties,male
-common_voice_ko_36880273,천천히 걸어가면서 공을 공을 굴려 봅니다.,South Korea,twenties,male
-common_voice_ko_36880274,거짓말이라고?,South Korea,twenties,male
-common_voice_ko_36880275,일구월심에 다시 한곡리루 가서 살 생각만 나요.,South Korea,twenties,male
-common_voice_ko_36880276,진짜 문제는 사람들의 마음이다.,South Korea,twenties,male
-common_voice_ko_36880278,예비비의 지출은 차기국회의 승인을 얻어야 한다.,South Korea,twenties,male
-common_voice_ko_36880279,그러므로 교대하는 그 틈마다 고치통을 들고 들어오는 남 직공과 눈을 맞추었다.,South Korea,twenties,male
-common_voice_ko_36880280,환난날에 진실치 못한 자를 의뢰하는 의뢰는 부러진 이와 위골된 발 같으니라.,South Korea,twenties,male
-common_voice_ko_36880281,읍으로 들어가는 새로 닦은 신작로가 달빛에 뚜렷이 바라다보였다.,South Korea,twenties,male
-common_voice_ko_39744720,본 사이트는 이메일 주소가 무단으로 수집되는 것을 거부합니다.,South Korea,twenties,male
-common_voice_ko_39744721,숙직실 앞에서 그는 발길을 멈추고 머뭇머뭇하더니 문을 열고 들어간다.,South Korea,twenties,male
-common_voice_ko_39744723,비트코인은 유동성이 매우 심한 화폐이다.,South Korea,twenties,male
-common_voice_ko_39744724,재산을 잃은 사람은 많이 잃은 것이다.,South Korea,twenties,male
-common_voice_ko_39744743,씩씩거리며 몹시 흥분된 사람같이 몸을 떨다가 벼락같이 양손을 키 위에 갖다가 덮었습니다.,South Korea,twenties,male
-common_voice_ko_39744755,땃버리는 기침을 칵 하며 호미를 힘있게 쥐었다.,South Korea,twenties,male
-common_voice_ko_39744766,선비는 맘에 없는 말을 겨우 빼었다.,South Korea,twenties,male
-common_voice_ko_39744767,"내가 내 마음을 정하게 하였다,내 죄를 깨끗하게 하였다 할 자가 누구뇨.",South Korea,twenties,male
-common_voice_ko_39744786,시골집에서 그의 허리를 힘껏 껴안아 주던 때를 회상하며 옥점이는 이렇게 말하였다.,South Korea,twenties,male
-common_voice_ko_39744787,동혁이는 건배와 기만의 가운데에 서서 올라온다.,South Korea,twenties,male
-common_voice_ko_39744795,그는 몹시 화증을 내며 누구에게 반항이나 하는 듯이 게걸거렸다.,South Korea,twenties,male
-common_voice_ko_39744797,그러니 화가 나서 술집으로 달아오곤 하였던 것이다.,South Korea,twenties,male
-common_voice_ko_39744815,"그 소리야말로 꾀꼬리 소리지, 허허!",South Korea,twenties,male
-common_voice_ko_39744817,감독은 입 모습에 웃음을 띠며 조금 다가앉았다.,South Korea,twenties,male
-common_voice_ko_39744819,라고 물었다.,South Korea,twenties,male
-common_voice_ko_39744820,맷방석만한 시뻘건 해는 맞은편 잿배기를 타고 넘는다.,South Korea,twenties,male
-common_voice_ko_39744822,말씨가 명주 고름 같아지며 머리를 수없이 숙여 보인다.,South Korea,twenties,male
-common_voice_ko_39744823,속으로 중얼거리면서 들창 앞으로 다가앉으며 창 밖으로 귀를 기울였다.,South Korea,twenties,male
-common_voice_ko_39744837,동혁은 손을 높직이 들며 허공을 저었다.,South Korea,twenties,male
-common_voice_ko_39744838,그때의 기분이 너무나 로맨틱하였던 것을 몇 번이나 후회하였다.,South Korea,twenties,male
-common_voice_ko_39744839,한마디씩 주고받은 다음에는 말이 없었다.,South Korea,twenties,male
-common_voice_ko_39744841,뜻하지 않은 곳에서 첫째를 눈결에 지나친 후로 선비는 밤마다 첫째를 생각하였다.,South Korea,twenties,male
-common_voice_ko_39744859,"쇰을 잡아채지 그냥 둬, 이 바보야!",South Korea,twenties,male
-common_voice_ko_39744860,어머는 떨리는 목소리로 무엇을 했다.,South Korea,twenties,male
-common_voice_ko_39744862,영숙은 도리어 성내는 체하며 말을 하였다.,South Korea,twenties,male
-common_voice_ko_39744863,어둠의 뚜껑같은 검은하늘이 윤곽도 잘 안 보이는데 산 위에 얹혀 있으매.,South Korea,twenties,male
-common_voice_ko_39744879,하고 동생이 그 형에게 사과했습니다.,South Korea,twenties,male
-common_voice_ko_39744880,영신은 달빛에 번쩍번쩍하는 가위를 놀리다가 몇 번이나 그 손을 쉬고 머리를 떨어뜨렸다.,South Korea,twenties,male
-common_voice_ko_39744881,왜 나를 바라보지 못하고 천장만 보느냐!,South Korea,twenties,male
-common_voice_ko_39744882,또는 이 기숙사에 있는 여공들을 맘대로 부리는 감독을 하게 할 테야.,South Korea,twenties,male
-common_voice_ko_39744885,귀여운 듯이 옥점이와 신철이를 번갈아 본다.,South Korea,twenties,male
-common_voice_ko_39744886,도저히 손댈 수가 없는 곤란에 부딪혔다면 과감하게 그 속으로 뛰어들어라.,South Korea,twenties,male
-common_voice_ko_39744889,인력거를 타시랍시요.,South Korea,twenties,male
-common_voice_ko_39744891,금방 얼굴이 해쓱해지더니 앞에 놓인 교탁을 짚을 사이도 없이 그 자리에가 고꾸라지듯이 엎으러졌다.,South Korea,twenties,male
-common_voice_ko_39744900,팔십 전을 손에 쥔 김 첨지의 마음은 푼푼하였다.,South Korea,twenties,male
-common_voice_ko_39744902,특성화 고등학교의 교장 등은 현장실습 과정에서 학생의 안전과 학습권이 보장될 수 있도록 노력하여야 한다.,South Korea,twenties,male
-common_voice_ko_39744904,방 안을 들여다보는 그의 어머니를 쳐다보았다.,South Korea,twenties,male
-common_voice_ko_39744905,일이 잘못 됐으니 그 저 참어 주세요.,South Korea,twenties,male
-common_voice_ko_39744906,그리고 캄캄한 밤길을 혼자 걷는듯 한 적적함이 그를 싸고도는 것을 새삼스럽게 깨달았다.,South Korea,twenties,male
-common_voice_ko_39744908,자기가 덕호와의 관계를 말하지 않았어도 간난이는 벌써 짐작 한 듯 하였다.,South Korea,twenties,male
-common_voice_ko_39744926,여호와 하나님이 그 땅에서 보기에 아름답고 먹기에 좋은 나무가 나게 하시니.,South Korea,twenties,male
-common_voice_ko_39744928,그는 한참이나 서서 이런 생각을 하다가 숙직실 문 앞에까지 와서 귀를 기울였다.,South Korea,twenties,male
-common_voice_ko_39744941,그들의 시선이 마주칠 때마다 뜨거운 사랑이 무언중에 알려진다.,South Korea,twenties,male
-common_voice_ko_39744943,의인이 많아지면 백성이 즐거워하고 악인이 권세를 잡으면 백성이 탄식하느니라.,South Korea,twenties,male
-common_voice_ko_39744959,춘우는 들어가 옷을 벗고 영숙에게 물었다.,South Korea,twenties,male
-common_voice_ko_39744960,선비의 불그레한 얼굴을 곁눈질해 보는 감독은 귀여운 듯이 빙긋이 웃었다.,South Korea,twenties,male
-common_voice_ko_39744962,동혁은 그 별을 향해서 침이라도 탁 뱉고 싶었다.,South Korea,twenties,male
-common_voice_ko_39744965,춘우는 잡지장을 뒤적뒤적하고 영숙은 돌아앉아서 손에 잡히지 않는 바느질을 시작 하였다.,South Korea,twenties,male
-common_voice_ko_39744966,눈이 까맣게 기다리다 못해 반 신 료까지 붙여서 전보를 쳤다.,South Korea,twenties,male
-common_voice_ko_39744984,그 다음 순간 기천 의눈에서는 번갯불이 뻔쩍하였다.,South Korea,twenties,male
-common_voice_ko_39744986,이제까지 태연한 기색을 보이던 동혁의 얼굴에도 당황한 빛이 떠돈다.,South Korea,twenties,male
-common_voice_ko_39744987,응달에서만 지낸 기만의 얼굴과 비교해 볼 때 동혁의 얼굴도 더한층 그을은 것 같다.,South Korea,twenties,male
-common_voice_ko_39744999,워싱턴도 모스크바도 우리의 서울은 될 수 없는 것이요.,South Korea,twenties,male
-common_voice_ko_39745000,얼마 만에 기차는 왔고 수십 명이나 되는 손이 정류장으로 쏟아져 나왔다.,South Korea,twenties,male
-common_voice_ko_39745013,마침 물살도 다시 돌아섰으니...,South Korea,twenties,male
-common_voice_ko_39745015,땀과 빗물이 섞여 흐르는 목덜미를 기름주머니가 다된 왜목 수건으로 닦으며.,South Korea,twenties,male
-common_voice_ko_39745016,선비는 휙 머리를 돌려 간난이를 바라보다가 빙긋이 웃었다.,South Korea,twenties,male
-common_voice_ko_39745038,재작년 이른 봄 어떤 날이었습니다.,South Korea,twenties,male
-common_voice_ko_39745040,그는 옥점이가 일어나니 방 안이 쓸쓸해지는 것 같았다.,South Korea,twenties,male
-common_voice_ko_39745042,거기에는 흔히 도깨비나 귀신이 나타난다 한다.,South Korea,twenties,male
-common_voice_ko_39745052,영신은 정근이가 그 동안 이곳의 금융조합으로 전근이나 해온 줄 알고 채우쳐 물었다.,South Korea,twenties,male
-common_voice_ko_39745054,너무나 상쾌한 맘은 그로 하여금 이렇게 하게 하였던 것이다.,South Korea,twenties,male
+path,sentence,accents,age,gender,,,
+Voice_2505_001,"저는 서울에서 왔고, 한국어를 배우는 학생입니다.",France,twenties,male,,france,42
+Voice_2505_002,"이 책은 정말 재미있고, 저는 매일 아침 공원을 산책합니다.",France,twenties,male,,singapore,20
+Voice_2505_003,"고맙습니다, 잘 지냈어요. 오늘은 정말 행복한 날입니다.",France,twenties,male,,china ,40
+Voice_2605_004,"저는 스물다섯 살이고, 요리를 하는 것을 좋아합니다.",France,twenties,male,,ukrainian,18
+Voice_2605_005,"이 영화는 정말 재미있고, 저는 영화를 보는 것을 좋아합니다.",France,twenties,male,,south korea,469
+Voice_2605_006,"저는 한국어를 배우고 있고, 이 노래는 정말 좋아요.",France,twenties,male,,switzerland,20
+Voice_2605_007,"저는 그림을 그리는 것을 좋아하고, 오늘은 정말 피곤한 날입니다.",France,twenties,male,,,
+Voice_2605_008,"이 음식은 정말 맛있고, 저는 여행을 좋아하는 사람입니다.",France,twenties,male,,,
+Voice_2605_009,"저는 커피를 좋아하고, 오늘은 정말 더운 날입니다.",France,twenties,male,,,
+Voice_2605_010,"저는 책을 읽는 것을 좋아하고, 이 꽃은 정말 예뻐요.",France,twenties,male,,,
+Voice_2605_011,"저는 사진을 찍는 것을 좋아하고, 오늘은 정말 바쁜 날입니다.",France,twenties,male,,,
+Voice_2605_012,"저는 음악을 듣는 것을 좋아하고, 이 영화는 정말 재미있어요.",France,twenties,male,,,
+Voice_2605_013,"저는 서울에서 왔고, 오늘 날씨가 정말 좋네요.",France,twenties,male,,,
+Voice_2605_014,"이 책은 정말 재미있고, 저는 매일 아침 공원을 산책합니다.",France ,twenties,male,,,
+Voice_2605_015,"저는 음악을 좋아하고, 특히 클래식 음악을 즐겨 듣습니다.",France,twenties,male,,,
+Voice_2605_016,"고맙습니다, 잘 지냈어요. 오늘은 정말 행복한 날입니다.",France,twenties,male,,,
+Voice_2605_017,"안녕하세요, 저는 파스칼 이라고 합니다. 저는 학생이고, 한국어를 배우고 있습니다.",France,twenties,male,,,
+Voice_2605_018,어제 본 영화는 정말 재미있었어요.,Singapore,twenties,male,,,
+Voice_2605_019,저는 주말에 친구들과 함께 공원에 갔어요.,Singapore,twenties,male,,,
+Voice_2605_020,이 카페의 커피는 정말 맛있어요.,Singapore,twenties,male,,,
+Voice_2605_021,오늘은 날씨가 추워서 따뜻한 옷을 입었어요.,Singapore,twenties,male,,,
+Voice_2605_022,저는 매일 아침 조깅을 해요.,Singapore,twenties,male,,,
+Voice_2605_023,이 책은 정말 흥미로워요.,Singapore,twenties,male,,,
+Voice_2605_024,저는 한국어를 배우는 것을 좋아해요.,Singapore,twenties,male,,,
+Voice_2605_025,이 음식은 조금 매워요.,Singapore,twenties,male,,,
+Voice_2605_026,저는 내일 시험이 있어요.,Singapore,twenties,male,,,
+Voice_2605_027,이 음악은 정말 좋네요.,Singapore,twenties,male,,,
+Voice_2605_028,저는 주말에 가족과 함께 시간을 보내요.,Singapore,twenties,male,,,
+Voice_2605_029,이 영화는 정말 감동적이었어요.,Singapore,twenties,male,,,
+Voice_2605_030,저는 매일 저녁 산책을 해요.,Singapore,twenties,male,,,
+Voice_2605_031,이 옷은 정말 예뻐요.,Singapore,twenties,male,,,
+Voice_2605_032,저는 한국 문화를 배우고 싶어요.,Singapore,twenties,male,,,
+Voice_2605_033,이 공원은 정말 아름다워요.,Singapore,twenties,male,,,
+Voice_2605_034,저는 매일 아침 일찍 일어나요.,Singapore,twenties,male,,,
+Voice_2605_035,이 영화는 정말 재미있었어요.,Singapore,twenties,male,,,
+Voice_2605_036,저는 한국 드라마를 좋아해요.,Singapore,twenties,male,,,
+Voice_2605_037,이 음식은 정말 맛있어요.,Singapore,twenties,male,,,
+Voice_2605_038,오늘은 매우 바쁜 하루였어요.,China,twenties,male,,,
+Voice_2605_039,저는 새로운 레시피를 시도해 보고 싶어요.,China,twenties,male,,,
+Voice_2605_040,이 도시는 밤에 정말 아름다워요.,China,twenties,male,,,
+Voice_2605_041,저는 주말에 여행 가는 것을 좋아해요.,China,twenties,male,,,
+Voice_2605_042,이 꽃은 정말 향기로워요.,China,twenties,male,,,
+Voice_2605_043,저는 매일 저녁 책을 읽어요.,China,twenties,male,,,
+Voice_2605_044,이 카페는 조용해서 공부하기 좋아요.,China,twenties,male,,,
+Voice_2605_045,저는 겨울에 스키 타는 것을 좋아해요.,China,twenties,male,,,
+Voice_2605_046,이 영화는 정말 슬펐어요.,China,twenties,male,,,
+Voice_2605_047,저는 매일 아침 신문을 읽어요.,China,twenties,male,,,
+Voice_2605_048,이 음식은 조금 짜요.,China,twenties,male,,,
+Voice_2605_049,저는 주말에 영화 보는 것을 좋아해요.,China,twenties,male,,,
+Voice_2605_050,이 공원은 아이들과 놀기 좋아요.,China,twenties,male,,,
+Voice_2605_051,저는 매일 아침 샤워를 해요.,China,twenties,male,,,
+Voice_2605_052,이 음악은 정말 신나요.,China,twenties,male,,,
+Voice_2605_053,저는 한국어 공부를 열심히 하고 있어요.,China,twenties,male,,,
+Voice_2605_054,이 옷은 조금 커요.,China,twenties,male,,,
+Voice_2605_055,저는 주말에 친구들을 만나요.,China,twenties,male,,,
+Voice_2605_056,이 영화는 정말 재미있었어요.,China,twenties,male,,,
+Voice_2605_057,저는 매일 저녁 산책을 해요.,China,twenties,male,,,
+Voice_2605_058,오늘은 정말 피곤한 하루였어요.,Switzerland,twenties,male,,,
+Voice_2605_059,저는 주말에 바다로 여행 갈 거예요.,Switzerland,twenties,male,,,
+Voice_2605_060,이 카페의 디저트는 정말 맛있어요.,Switzerland,twenties,male,,,
+Voice_2605_061,오늘은 날씨가 매우 더워요.,Switzerland,twenties,male,,,
+Voice_2605_062,저는 매일 아침 요가를 해요.,Switzerland,twenties,male,,,
+Voice_2605_063,이 소설은 정말 흥미진진해요.,Switzerland,twenties,male,,,
+Voice_2605_064,저는 한국어 회화를 연습하고 있어요.,Switzerland,twenties,male,,,
+Voice_2605_065,이 음식은 조금 단맛이 나요.,Switzerland,twenties,male,,,
+Voice_2605_066,저는 내일 회의가 있어요.,Switzerland,twenties,male,,,
+Voice_2605_067,이 노래는 정말 좋네요.,Switzerland,twenties,male,,,
+Voice_2605_068,저는 주말에 가족과 함께 영화 볼 거예요.,Switzerland,twenties,male,,,
+Voice_2605_069,이 영화는 정말 감동적이었어요.,Switzerland,twenties,male,,,
+Voice_2605_070,저는 매일 저녁 공원을 산책해요.,Switzerland,twenties,male,,,
+Voice_2605_071,이 신발은 정말 편안해요.,Switzerland,twenties,male,,,
+Voice_2605_072,저는 한국 전통 문화를 배우고 싶어요.,Switzerland,twenties,male,,,
+Voice_2605_073,이 공원은 정말 평화로워요.,Switzerland,twenties,male,,,
+Voice_2605_074,저는 매일 아침 커피를 마셔요.,Switzerland,twenties,male,,,
+Voice_2605_075,이 영화는 정말 재미있었어요.,Switzerland,twenties,male,,,
+Voice_2605_076,저는 한국 드라마를 자주 봐요.,Switzerland,twenties,male,,,
+Voice_2605_077,이 음식은 정말 맛있어요.,Switzerland,twenties,male,,,
+common_voice_ko_41668884,소회는 묻고 또 물었다.,South Korea,twenties,female,,,
+common_voice_ko_41665903,그런 식으로 말하지 마.,South Korea,twenties,male,,,
+common_voice_ko_41665913,옥점 어머니는 부끄러운 생각이 들어 그만 홱 돌아섰다.,South Korea,twenties,male,,,
+common_voice_ko_37247554,네 말은 네 행동이 된다.,South Korea,fourties,male,,,
+common_voice_ko_37247557,입에서는 침조차 나오지 않고 배는 등에 붙은 것 같다.,South Korea,fourties,male,,,
+common_voice_ko_39571266,어리석은 자는 그 노를 다 드러내어도 지혜로운 자는 그 노를 억제하느니라.,South Korea,twenties,male,,,
+common_voice_ko_39571273,병실로 떠메어 들어온 뒤에야 영신은 차츰차츰 의식을 회복하였다.,South Korea,twenties,male,,,
+common_voice_ko_39571277,그때 다리를 빼앗기던 장면이 휙 떠오른다.,South Korea,twenties,male,,,
+common_voice_ko_39476318,그러나 말소리는 들리지 않고 무슨 옷갈피를 뒤지는 소리가 부스스 들릴 뿐이다.,South Korea,thirties,female,,,
+common_voice_ko_39476319,그런 걸 별짓을 다해 가면서 억지루 시작을 했었지요.,South Korea,thirties,female,,,
+common_voice_ko_39476322,따라서 의사에게 보인 적이 없으니 무슨 병인지는 알 수 없으되.,South Korea,thirties,female,,,
+common_voice_ko_39476325,그 말에 회원들은 손바닥이 뜨겁도록 박수를 한다.,South Korea,thirties,female,,,
+common_voice_ko_39476326,더욱 신철의 집에서 몇 번 보기도 하였다.,South Korea,thirties,female,,,
+common_voice_ko_39476327,창 밖에 밤비가 속살거려.,South Korea,thirties,female,,,
+common_voice_ko_39476341,그 목소리는 몸집과 딴판으로 연하고 싹싹하였다.,South Korea,thirties,female,,,
+common_voice_ko_39476345,아직도 인천 시가는 뿌연 분위기 속에 잠겨 있었다.,South Korea,thirties,female,,,
+common_voice_ko_39476347,출동하면 반은 이런 경우죠.,South Korea,thirties,female,,,
+common_voice_ko_39476353,채찍과 꾸지람이 지혜를 주거늘 임의로 하게 버려두면 그 자식은 어미를 욕되게 하느니라.,South Korea,thirties,female,,,
+common_voice_ko_40612778,어쩌란 말이야!,Ukrainian,twenties,female,,,
+common_voice_ko_40612785,"그 정도면 충분했잖아, 뭘 더 바라.",Ukrainian,twenties,female,,,
+common_voice_ko_40612786,축하드려요.,Ukrainian,twenties,female,,,
+common_voice_ko_40612792,미안하네.,Ukrainian,twenties,female,,,
+common_voice_ko_40612793,이해하셨습니까?,Ukrainian,twenties,female,,,
+common_voice_ko_40612794,하고 말도 하기 싫다는 듯이 돌아 드러눕느다.,Ukrainian,twenties,female,,,
+common_voice_ko_40612798,어디로?,Ukrainian,twenties,female,,,
+common_voice_ko_40620768,금방 후회를 하고 거울을 집어 들었다.,Ukrainian,twenties,female,,,
+common_voice_ko_40620769,그리고 이서방이 없는 동안에 자기가 당한 일을 얼핏 생각하였다.,Ukrainian,twenties,female,,,
+common_voice_ko_40620770,들려요.,Ukrainian,twenties,female,,,
+common_voice_ko_40620774,김첨지는 취중에도 설렁탕을 사가지고 집에 다다랐다.,Ukrainian,twenties,female,,,
+common_voice_ko_40620778,사실이에요.,Ukrainian,twenties,female,,,
+common_voice_ko_40620801,"죄송해요, 아버지.",Ukrainian,twenties,female,,,
+common_voice_ko_40620807,드디어!,Ukrainian,twenties,female,,,
+common_voice_ko_40620812,이상하지 않아?,Ukrainian,twenties,female,,,
+common_voice_ko_40620813,"아, 해장국이나 먹자니까 이 시간에 뭔 운동이야.",Ukrainian,twenties,female,,,
+common_voice_ko_40620847,그것은 마시면 마실수록 목이 말라진다.,Ukrainian,twenties,female,,,
+common_voice_ko_40620849,약속하지?,Ukrainian,twenties,female,,,
+common_voice_ko_37597007,십 년 만에 만나는 친구의 음성인들 이 빗소리보다 더 반가우랴.,South Korea,twenties,male,,,
+common_voice_ko_37597008,물론 공장에서 내준 것이 아니고 여공들 스스로 해입게 하였던 것이다.,South Korea,twenties,male,,,
+common_voice_ko_37597009,음성 기술은 그 편리한 방법을 컴퓨터와 모바일 환경에서 사용할 수 있게 합니다.,South Korea,twenties,male,,,
+common_voice_ko_37597011,할멈은 올 가을에 새로한 이 무명저고리를 아까워서 입지 못하고 두었던 것이다.,South Korea,twenties,male,,,
+common_voice_ko_37597013,무슨 핑계를 하는지 기어이 못 보게 하고 만다.,South Korea,twenties,male,,,
+common_voice_ko_37597038,시멘트 포대를 시멘트 가루 개는 곳으로 나르라는 것이다.,South Korea,twenties,male,,,
+common_voice_ko_37597039,형제는 그 아버지의 시체 앞에 꿇어 엎드려 목을 놓고 울었습니다.,South Korea,twenties,male,,,
+common_voice_ko_37597040,나는 이것을 의논할 사람은 춘우밖에 없다.,South Korea,twenties,male,,,
+common_voice_ko_37597042,는 듯이 상을 찌푸리고 꼴딱꼴딱 마셔 넘긴다.,South Korea,twenties,male,,,
+common_voice_ko_37597043,이라고 버젓이 씌어 있는 것을 보니 동혁의 가슴은 울렁거리지 않을 수 없었다.,South Korea,twenties,male,,,
+common_voice_ko_37597064,신철이는 눈가로 약간 웃음을 띠며 이런 말을 하였다.,South Korea,twenties,male,,,
+common_voice_ko_37597065,무슨 뜻이에요?,South Korea,twenties,male,,,
+common_voice_ko_37597066,벽을 새로 감독과 그가 마주 누운 것이 직각 되자 불쾌하였다.,South Korea,twenties,male,,,
+common_voice_ko_37597067,꼬리를 굴리는 행운이 꼭 자기를 기다리고 있다고 내기를 해도 좋을 만한 믿음을 얻게 되었다.,South Korea ,twenties,male,,,
+common_voice_ko_37211921,애완동물을 기르는 인구가 전체 인구의 사 분의 일이 되었습니다.,South Korea,twenties,male,,,
+common_voice_ko_37211924,기천이는 맨 나중에 단장을 짚고 기엄기엄 올라왔다.,South Korea,twenties,male,,,
+common_voice_ko_37211925,시간 재고 잠복기를 줄이려고요.,South Korea,twenties,male,,,
+common_voice_ko_37211926,영신은 그 장면이 머릿속에 떠오르기만 해도 가슴이 설레고 얼굴이 화끈화끈 달았다.,South Korea,twenties,male,,,
+common_voice_ko_37211929,그러던 터에 오늘은 편지를 뜯어 보고 동혁은 적지 않이 놀랐다.,South Korea,twenties,male,,,
+common_voice_ko_37211933,신철이는 시멘트 포대와 함께 넘어졌다가 일어났다.,South Korea,twenties,male,,,
+common_voice_ko_37211936,신철이는 우미관 앞에서 오 전짜리 우동 두 그릇을 사먹고 나서야 기운이 났다.,South Korea,twenties,male,,,
+common_voice_ko_37211937,휘어잡는 소매를 뿌리치며 일어설 용기가 나지를 않았다.,South Korea,twenties,male,,,
+common_voice_ko_37211940,며칠 후 선비 어머니는 마침내 세상을 떠나고 말았다.,South Korea,twenties,male,,,
+common_voice_ko_37211941,김첨지는 어랍시요 하고 물러섰다.,South Korea,twenties,male,,,
+common_voice_ko_37211943,제 그곳을 지배하는 무시무시한 정적.,South Korea,twenties,male,,,
+common_voice_ko_37211944,버들껑 하는 동작과 함께 날카로운 소리가 독살스러운 땡비같이 나의 귀를 툭 쏘았다.,South Korea,twenties,male,,,
+common_voice_ko_37211945,한참 후에 그는 바느질 그릇을 들고 내려와서 등불을 마주 앉으며 일감을 들었다.,South Korea,twenties,male,,,
+common_voice_ko_37211946,신철이도 그의 뒤를 따라 막으로 올라갔다.,South Korea,twenties,male,,,
+common_voice_ko_37211958,평소에는 성이 난 사람처럼 뚜웅허니 남하고 수작 하기도 싫어하면서 술만 들어가면 불평이 쏟아진다.,South Korea,twenties,male,,,
+common_voice_ko_37211959,그때 저편에서 회중전등이 번쩍 하고 이리로 왔다.,South Korea,twenties,male,,,
+common_voice_ko_37211971,그는 이러한 생각을 하며 쌀항아리를 다시금 들여다보았다.,South Korea,twenties,male,,,
+common_voice_ko_37211972,하루에 세 시간을 걸으면 칠 년 후에 지구를 한바퀴 돌 수 있다.,South Korea,twenties,male,,,
+common_voice_ko_37211988,사별한 첫째 부인 사이에서는 자식이 아예 없었고.,South Korea,twenties,male,,,
+common_voice_ko_37211989,내가 땅에서 피하며 유리하는 자가 될찌라.,South Korea,twenties,male,,,
+common_voice_ko_37212000,그 순간 신철이는 물 속에 잠겨 흔들리던 달이 휙 지나친다.,South Korea,twenties,male,,,
+common_voice_ko_37212010,그 오라질 년이 밥을 죽이지.,South Korea,twenties,male,,,
+common_voice_ko_37212011,마른침을 삼키며 다음 순서를 기다린다.,South Korea,twenties,male,,,
+common_voice_ko_37212020,그녀는 유아 치고는 매우 밝습니다.,South Korea,twenties,male,,,
+common_voice_ko_37212021,언뜻 깨달으니 김첨지는 인력거를 쥔 채 길 한복판에 엉거주춤 멈춰 있지 않은가.,South Korea,twenties,male,,,
+common_voice_ko_37212023,영숙은 이미 자기를 떠나 옛날에 그 사람에게로 돌아갔다.,South Korea,twenties,male,,,
+common_voice_ko_36545184,선비는 약간 웃음을 띠며 머리를 푹 숙인다.,South Korea,thirties,male,,,
+common_voice_ko_36545185,신철이 역시 간난이가 먼저 말하기 전에는 아무러한 눈치도 간난이에게 보이지 않을 모양이다.,South Korea,thirties,male,,,
+common_voice_ko_36545186,그러다가는 다시 의혹이 생기기 시작 하였다.,South Korea,thirties,male,,,
+common_voice_ko_36545187,엘지가 스마트폰 사업을 철수하면서 제한적으로 가능했던 부트로더 언락 서비스도 중단되었습니다.,South Korea,thirties,male,,,
+common_voice_ko_36545188,사죄할 만큼 내가 춘우에게 부족히 한 것이 무엇이냐.,South Korea,thirties,male,,,
+common_voice_ko_36545189,하며 아까 쓰러질 때처럼 오른편 아랫배를 움켜쥐며 지독한 고통을 참느라고 입살을 깨문다.,South Korea,thirties,male,,,
+common_voice_ko_36545191,백두산 기상을 다 안고.,South Korea,thirties,male,,,
+common_voice_ko_36545192,무슨 흥이나 날 때에는 피아노에 가서 한 곡조 두드리는 재미도 또한 괜찮았습니다.,South Korea,thirties,male,,,
+common_voice_ko_36545196,이마와 뺨에 입을 맞추어 주었다.,South Korea,thirties,male,,,
+common_voice_ko_36545197,영신은 승객들에게 밀려서 동혁이가 걸터앉은 데까지 와서는 손잡이를 붙들고 섰다.,South Korea,thirties,male,,,
+common_voice_ko_36545198,그 틈에 주전자 뚜껑은 또 소리 없이 열렸다.,South Korea,thirties,male,,,
+common_voice_ko_36545199,투표 방법에 대해서 설명드리겠습니다.,South Korea,thirties,male,,,
+common_voice_ko_36545200,아무 데도 얽매이지 않는 몸을 오로지 농촌사업에다만 바치리라.,South Korea,thirties,male,,,
+common_voice_ko_36545201,형사가 잠깐 돌아선 사이에 동혁은 영신의 손을 덥석 잡았다.,South Korea,thirties,male,,,
+common_voice_ko_36545202,그는 언제나 컴컴해서 일어나 나가곤 하였던 것이다.,South Korea,thirties,male,,,
+common_voice_ko_36545209,그때에 그는 어머니와 그가 살던 아랫 마을 집이 문득 생각히었다.,South Korea,thirties,male,,,
+common_voice_ko_36545211,"기껀 밥 처먹구 무슨 관격이야, 남의 농사 버려주면 이자식아 징역간다 봐라!",South Korea,thirties,male,,,
+common_voice_ko_36545212,삼가 말씀에 주의하는 자는 좋은 것을 얻나니 여호와를 의지하는 자가 복이 있느니라.,South Korea,thirties,male,,,
+common_voice_ko_36545213,악을 행하기를 꾀하는 자를 일컬어 사특한 자라 하느니라.,South Korea,thirties,male,,,
+common_voice_ko_36545219,다시 살아날 자신이 있는 듯이 가냘픈 미소를 띠어 보인다.,South Korea,thirties,male,,,
+common_voice_ko_36545220,저의 전보를 보고 그렇게 많이들 나왔을 줄은 몰랐다.,South Korea,thirties,male,,,
+common_voice_ko_36545222,분홍빛 수건을 내어 방으로 들어앉는 신철의 무릎에 던진다.,South Korea,thirties,male,,,
+common_voice_ko_36545223,그리고 이서방의 몸이 불편하다는 것을 깨달았다.,South Korea,thirties,male,,,
+common_voice_ko_36545224,선비는 놀라 덕호를 바라보다 머리를 숙인다.,South Korea,thirties,male,,,
+common_voice_ko_36545225,혀 곱은 소리로 덕호는 이렇게 말하였다.,South Korea,thirties,male,,,
+common_voice_ko_36545228,굴다리 밑으로 오라고 해서 갔더니 아무도 없잖아?,South Korea,thirties,male,,,
+common_voice_ko_36545229,그리고 용연의 원소가 떠오르고 선비가 눈결에 지나쳤다.,South Korea,thirties,male,,,
+common_voice_ko_36545230,달이라고는 이름 뿐이요.,South Korea,thirties,male,,,
+common_voice_ko_36545231,활활 다는 가마 속에 그의 몸뚱이를 넣고 달달 볶는 것 같았다.,South Korea,thirties,male,,,
+common_voice_ko_36545232,그는 제게 햇빛이고 공기였어요.,South Korea,thirties,male,,,
+common_voice_ko_36545233,그러므로 할멈과 선비는 밤에도 맘놓고 자지를 못하고 방에 불을 끄지 못하였다.,South Korea,thirties,male,,,
+common_voice_ko_36545234,이 자라야 한다는 것은 내가 아니라 내 아내가 될 점순이의 키 말이다.,South Korea,thirties,male,,,
+common_voice_ko_36545236,횡단보도를 건널 때는 신호등을 확인해요.,South Korea,thirties,male,,,
+common_voice_ko_36545237,말하자면 죄는 기회에 있는데 기회라는 무형물은 벌을 할 수가 없으니깐.,South Korea,thirties,male,,,
+common_voice_ko_36545238,이같이 하나님이 그 사람을 쫓아 내시고.,South Korea,thirties,male,,,
+common_voice_ko_36545239,면장과 구장은 기천의 소매를 끌어들인다.,South Korea,thirties,male,,,
+common_voice_ko_36545240,옆의 동무는 선비의 귀에다 입을 대었다.,South Korea,thirties,male,,,
+common_voice_ko_36545242,선비는 할 수 없음을 알고 부엌으로 나와서 물을 끓여 가지고 들어왔다.,South Korea,thirties,male,,,
+common_voice_ko_36545246,웃기 잘하는 여공은 킥킥 웃으며 이불 속으로 손을 넣어 꾹 찔렀다.,South Korea,thirties,male,,,
+common_voice_ko_36545248,국회의원은 법률이 정하는 직을 겸할 수 없다.,South Korea,thirties,male,,,
+common_voice_ko_36545254,학교는 교육과정을 자의적으로 운영하거나 학생에게 임의적인 교내외 행사 참석을 강요하여서는 아니 된다.,South Korea,thirties,male,,,
+common_voice_ko_36545255,네 생각은 네 말이 된다.,South Korea,thirties,male,,,
+common_voice_ko_36545256,내가 모략과 지식의 아름다운 것을 기록하여.,South Korea,thirties,male,,,
+common_voice_ko_36545257,아담에게 이르시되.,South Korea,thirties,male,,,
+common_voice_ko_36545258,옥점의 뒤를 따라 들어오는 낯모를 양복쟁이는 모녀를 바라보며 머뭇머뭇 하고 섰다.,South Korea,thirties,male,,,
+common_voice_ko_36545264,관대한 어린 손님은 이런 말을 남기고 총총히 옷도 입고 짐도 챙기러 갈 데로 갔다.,South Korea,thirties,male,,,
+common_voice_ko_36545265,동산 각종 나무의 실과는 네가 임의로 먹되.,South Korea,thirties,male,,,
+common_voice_ko_36545267,그나마 부두노동에 있어서는 신철이가 맡았던 붉은 끈이 제일 임금이 많은 듯하였다.,South Korea,thirties,male,,,
+common_voice_ko_36545268,쫓겨난 사람에게는 부모도 없고 형제도 없는 것이야.,South Korea,thirties,male,,,
+common_voice_ko_36545269,그들은 뜻하지 않은 한숨이 후 나왔다.,South Korea,thirties,male,,,
+common_voice_ko_36545270,첫째 어머니는 부엌으로 나가서 나무 한 뭇을 더 넣고 들어왔다.,South Korea,thirties,male,,,
+common_voice_ko_36545272,영신은 불을 뜨뜻이 때어 놓은 아랫목에 가 턱 쓰러졌다.,South Korea,thirties,male,,,
+common_voice_ko_36545273,선비는 어서 말이 끝나기를 기다리나 감독은 이런 부실한 말만 자꾸 늘어놓는다.,South Korea,thirties,male,,,
+common_voice_ko_36552124,먹음직도 하고 보암직도 하고 지혜롭게 할만큼 탐스럽기도 한 나무인지라.,South Korea,thirties,male,,,
+common_voice_ko_36552127,그리고 어머니가 하던 말이 얼핏 생각힌다.,South Korea,thirties,male,,,
+common_voice_ko_36552128,그러나 그 소리는 확실히 선비의 가슴 복판을 찔러 주었다.,South Korea,thirties,male,,,
+common_voice_ko_35850231,그리고 선비의 그 고운 얼굴이 미소를 띠고 지나치는 것을 그는 확실히 보았다.,South Korea,thirties,male,,,
+common_voice_ko_35850233,우리들은 각각 제 길 닦기에 바쁜 사람이라.,South Korea,thirties,male,,,
+common_voice_ko_35850234,나의 교훈을 받지 아니하고 나의 모든 책망을 업신여겼음이라.,South Korea,thirties,male,,,
+common_voice_ko_35850365,개천에서 용 난다.,South Korea,thirties,male,,,
+common_voice_ko_35850368,나는 그 알레그로가 울리어 나오는 순간 마음은 끝까지 긴장되고 흥분되었습니다.,South Korea,thirties,male,,,
+common_voice_ko_35850370,선비가 이 공장에 들어온 지가 벌써 거의 일년이 되어 온다.,South Korea,thirties,male,,,
+common_voice_ko_35850371,그리할 때마다 영숙은 서랍을 열고 상자 속에 넣어 두었던 패물낱을 들고 나갔다.,South Korea,thirties,male,,,
+common_voice_ko_35850372,벌써부터 이런 생각을 가졌으나 용이하게 기회를 타는 수가 없었다.,South Korea,thirties,male,,,
+common_voice_ko_35850420,그는 종잇조각과 연필을 내어 신철에게 무엇을 써서 보였다.,South Korea,thirties,male,,,
+common_voice_ko_35850422,재판의 심리와 판결은 공개한다.,South Korea,thirties,male,,,
+common_voice_ko_35850423,헌법재판소 재판관은 정당에 가입하거나 정치에 관여할 수 없다.,South Korea,thirties,male,,,
+common_voice_ko_35850425,이번엔 제법 목소리가 패인 남학생의 질문이 들어왔다.,South Korea,thirties,male,,,
+common_voice_ko_35850426,한번의 실패와 영원한 실패를 혼동하지 마라.,South Korea,thirties,male,,,
+common_voice_ko_35850466,방망이 소리는 그가 걸을수록 점점 희미하게 들렸다.,South Korea,thirties,male,,,
+common_voice_ko_35850472,모든 국민은 학문과 예술의 자유를 가진다.,South Korea,thirties,male,,,
+common_voice_ko_35850476,학생 또는 보호자는 학생 본인에 관한 학교 기록을 언제든지 열람할 권리를 가진다.,South Korea,thirties,male,,,
+common_voice_ko_35850516,그는 담 밑에 착 붙어 섰다.,South Korea,thirties,male,,,
+common_voice_ko_35850517,"사랑은 말이지, 소유하는 게 아니야.",South Korea,thirties,male,,,
+common_voice_ko_35850518,효애는 여전히 뭐라고 소곤소곤 이야기를 하였다.,South Korea,thirties,male,,,
+common_voice_ko_35850519,점심 뒤에 회원들은 잡담을 하며 잠시 쉬었다.,South Korea,thirties,male,,,
+common_voice_ko_35850520,영신은 그제야 그전에 백씨의 집에서 들은 동혁의 말을 되풀이하듯 하였다.,South Korea,thirties,male,,,
+common_voice_ko_35850616,세상에 나의 마음을 알아 주는 사람이 어디 있어야죠.,South Korea,thirties,male,,,
+common_voice_ko_35850617,옥점이는 눈에 웃음을 가득히 띠고 신철이를 쳐다보았다.,South Korea,thirties,male,,,
+common_voice_ko_35850619,부르짖으며 저 혼자 감격하는 것이었다.,South Korea,thirties,male,,,
+common_voice_ko_35850620,두 아들은 방 속에다 죽은 그 아버지의 송장을 제쳐놓고 서로 잡아삼킬 듯이 다투고 있었습니다.,South Korea,thirties,male,,,
+common_voice_ko_35850623,간수의 호통소리에 그의 가슴은 푸르르 떨렸다.,South Korea,thirties,male,,,
+common_voice_ko_35850705,여자가 뱀에게 말하되 동산 나무의 실과를 우리가 먹을 수 있으나.,South Korea,thirties,male,,,
+common_voice_ko_35850706,국가는 국가표준제도를 확립한다.,South Korea,thirties,male,,,
+common_voice_ko_35850708,다른 누구에게도 의지하지 말고 오직 그대 혼자의 힘으로 하라.,South Korea,thirties,male,,,
+common_voice_ko_35850710,까불이는 의자를 버쩍 들어 옮겨 놔주었다.,South Korea,thirties,male,,,
+common_voice_ko_35850711,그가 좋아할 때마다 이런 버릇이 있었다.,South Korea,thirties,male,,,
+common_voice_ko_35850745,그는 머리를 냉정히 하여 보려고 애를 썼다.,South Korea,thirties,male,,,
+common_voice_ko_35850746,탄핵결정은 공직으로부터 파면함에 그친다.,South Korea,thirties,male,,,
+common_voice_ko_35850747,그의 어머니는 악이 치받쳐서 벌떡 일어나며 첫째에게로 달려들었다.,South Korea,thirties,male,,,
+common_voice_ko_35850748,한편으로 그가 영신을 될 수 있는 대로 호의로써 이해하려는 것도 물론이다.,South Korea,thirties,male,,,
+common_voice_ko_35850749,선비는 얼굴이 뻘개서 가마에서 뽑혀 나오는 실끝을 들여다보았다.,South Korea,thirties,male,,,
+common_voice_ko_35850780,무척 배가 고팠음에도 당분간은 아무것도 먹지 않기로 했다.,South Korea,thirties,male,,,
+common_voice_ko_35850784,신철이는 영철의 우는 소리를 들으며 문밖을 나섰다.,South Korea,thirties,male,,,
+common_voice_ko_35850786,혹은 사오십 년 뒤에 조선을 무대로 생겨날 이야기라고 생각하여도 좋다.,South Korea,thirties,male,,,
+common_voice_ko_35850787,어디서 오셨어요?,South Korea,thirties,male,,,
+common_voice_ko_35850834,덕호는 문 안에 선 채 선비 어머니를 바라보며 걱정을 한다.,South Korea,thirties,male,,,
+common_voice_ko_35850837,그리고 무어라고 손질을 두어 번 치고 모밀 밭뒤로 사라진다.,South Korea,thirties,male,,,
+common_voice_ko_35850838,선비는 씨아틀도 만지지 않으면 앞이 허전한 것 같아서 그냥 붙들고 있었다.,South Korea,thirties,male,,,
+common_voice_ko_35850840,동시에 잠깐 잊었던 아픔이 그의 전신을 못 견디게 습격하였다.,South Korea,thirties,male,,,
+common_voice_ko_35850842,첫째는 무정처하고 걷다가 다시 덕호의 집 주위를 한 바퀴 돌아서 그의 집으로 왔다.,South Korea,thirties,male,,,
+common_voice_ko_35850875,사회 교화자로서의 의견을 말씀해주십쇼.,South Korea,thirties,male,,,
+common_voice_ko_35850877,그는 마침내 구역질을 욱 하고 하였다.,South Korea,thirties,male,,,
+common_voice_ko_35850879,다만 흰 벽이 찌들은 예배당만이 한곡리에 없는 귀물이었다.,South Korea,thirties,male,,,
+common_voice_ko_35850880,장로와 다른 교인들이 들어와 병원으로 가기를 번차례로 권하였다.,South Korea,thirties,male,,,
+common_voice_ko_35850881,그래서 그는 잘못 찾아왔는가 하여 도로 나와서 주저하다가 다시 들어갔다.,South Korea,thirties,male,,,
+common_voice_ko_35852120,나는 아무 걱정도 없이.,South Korea,thirties,male,,,
+common_voice_ko_35852122,평안도 어느 산 깊은 금덤판.,South Korea,thirties,male,,,
+common_voice_ko_35852124,비록 고구라 양복일 망정 노박이로 비를 맞으며 김첨지를 뒤쫓아 나왔으랴.,South Korea,thirties,male,,,
+common_voice_ko_35852125,새파란 기운이 날 듯하던 그의 목소리는 어디로인지 쑥 들어가 버릴 듯하였다.,South Korea,thirties,male,,,
+common_voice_ko_35852127,팔을 놀리면 팔이 아프고 다리를 놀리면 다리가 아팠다.,South Korea,thirties,male,,,
+common_voice_ko_35852201,국가는 미수습자를 수습하기 위하여 최선을 다하여야 한다.,South Korea,thirties,male,,,
+common_voice_ko_35852202,그가 방문을 소리 없이 열고 나서니 옆집에서는 시계가 새로 두시를 친다.,South Korea,thirties,male,,,
+common_voice_ko_35852204,영숙은 다시 춘우의 마음을 헤아려 보았다.,South Korea,thirties,male,,,
+common_voice_ko_35852205,본래부터 뼈만 남았던 그가 한층 더하여 마치 해골을 대하는 듯하였다.,South Korea,thirties,male,,,
+common_voice_ko_35852207,그래봐야 아무것도 얻을 것이 없다.,South Korea,thirties,male,,,
+common_voice_ko_35852235,고즈넉히 일어서서 피아노 앞에 가서 그의 어깨에 가만히 손을 얹었습니다.,South Korea,thirties,male,,,
+common_voice_ko_35852236,난장보살은 호미로 땅을 치며 이렇게 소리쳤다.,South Korea,thirties,male,,,
+common_voice_ko_35852237,슬기론 인민의 이 영광.,South Korea,thirties,male,,,
+common_voice_ko_35852238,동무는 무슨 말인지 잘 알아듣지 못하고 이렇게 되풀이하며 신철이를 똑바로 쳐다보았다.,South Korea,thirties,male,,,
+common_voice_ko_35852239,그는 이리저리 피하면서 길 한 옆으로 걸어갔다.,South Korea,thirties,male,,,
+common_voice_ko_35887285,그리고 그가 걸어갈 장차의 앞길까지도 저 길가같이 훤하게 내다보였다.,South Korea,thirties,male,,,
+common_voice_ko_35887286,아까 옥점이가 그의 아버지에게 양복쟁이를 소개하던 것을 얼핏 생각하였다.,South Korea,thirties,male,,,
+common_voice_ko_35887287,실행할 당연한 일이건만.,South Korea,thirties,male,,,
+common_voice_ko_35887288,세 살 버릇 여든까지 간다.,South Korea,thirties,male,,,
+common_voice_ko_35887289,비 맞은 나뭇가지 새 움이 뾰죽뾰죽.,South Korea,thirties,male,,,
+common_voice_ko_35972929,난 집에 들어가자마자 체포됐어.,South Korea,thirties,male,,,
+common_voice_ko_35972930,"성공의 비결은 단 한 가지, 잘 할 수 있는 일에 광적으로 집중하는 것이다.",South Korea,thirties,male,,,
+common_voice_ko_35972931,신철이는 그 밥을 못다 먹고 그만 일어나 나왔다.,South Korea,thirties,male,,,
+common_voice_ko_35972932,늙고 불쌍한 너의 모는 죽지 못하여 모진 목숨을 그럭저럭 부지하여 간다.,South Korea,thirties,male,,,
+common_voice_ko_35972933,간난이 역시 덕호의 얼굴이 떠올라서 불쾌하였다.,South Korea,thirties,male,,,
+common_voice_ko_36880067,그 이웃을 쳐서 거짓 증거하는 사람은 방망이요 칼이요 뾰족한 살이니라.,South Korea,twenties,female,,,
+common_voice_ko_36880068,무릇 경영은 의논함으로 성취하나니 모략을 베풀고 전쟁할지니라.,South Korea,twenties,female,,,
+common_voice_ko_36880069,그와 동시에 애상적이던 기분은 구름과 같이 흩어지고 안개처럼 스러졌다.,South Korea,twenties,female,,,
+common_voice_ko_36880070,하면서도 기천은 동혁이가 먹는다는 바람에 숨도 아니 쉬고 쪼옥 들이켰다.,South Korea,twenties,female,,,
+Voice_2705_078,오늘은 정말 추운 날씨네요.,France,twenties,male,,,
+Voice_2705_079,저는 주말에 친구를 만날 거예요.,France,twenties,male,,,
+Voice_2705_080,이 카페의 음료는 정말 맛있어요.,France,twenties,male,,,
+Voice_2705_081,오늘은 매우 바쁜 하루였어요.,France,twenties,male,,,
+Voice_2705_082,저는 매일 아침 운동을 해요.,France,twenties,male,,,
+Voice_2705_083,이 책은 정말 재미있어요.,France,twenties,male,,,
+Voice_2705_084,저는 한국어를 공부하고 있어요.,France,twenties,male,,,
+Voice_2705_085,이 음식은 조금 매워요.,France,twenties,male,,,
+Voice_2705_086,저는 내일 시험이 있어요.,France,twenties,male,,,
+Voice_2705_087,이 음악은 정말 좋네요.,France,twenties,male,,,
+Voice_2705_088,저는 주말에 가족과 함께 시간을 보내요.,France,twenties,male,,,
+Voice_2705_089,이 영화는 정말 감동적이었어요.,France,twenties,male,,,
+Voice_2705_090,저는 매일 저녁 산책을 해요.,France,twenties,male,,,
+Voice_2705_091,이 옷은 정말 예뻐요.,France,twenties,male,,,
+Voice_2705_092,저는 한국 문화를 배우고 싶어요.,France,twenties,male,,,
+Voice_2705_093,이 공원은 정말 아름다워요.,France,twenties,male,,,
+Voice_2705_094,저는 매일 아침 일찍 일어나요.,France,twenties,male,,,
+Voice_2705_095,이 영화는 정말 재미있었어요.,France,twenties,male,,,
+Voice_2705_096,저는 한국 드라마를 좋아해요.,France,twenties,male,,,
+Voice_2705_097,이 음식은 정말 맛있어요.,France,twenties,male,,,
+Voice_2705_098,오늘은 날씨가 매우 좋네요.,France,twenties,male,,,
+Voice_2705_099,저는 주말에 여행 갈 거예요.,France,twenties,male,,,
+Voice_2705_100,이 카페는 정말 조용해요.,France,twenties,male,,,
+Voice_2705_101,저는 매일 아침 신문을 읽어요.,France,twenties,male,,,
+Voice_2705_102,이 영화는 정말 슬펐어요.,France,twenties,male,,,
+common_voice_ko_36880071,다 좋았는데 원두만큼은 조금 신 것 같아 아쉬웠어.,South Korea,twenties,female,,,
+common_voice_ko_36880073,그 것은 회원들이 여러 달을 두고 조사해 온 것으로 매우 정확한 통계였다.,South Korea,twenties,female,,,
+common_voice_ko_36880074,그는 곧 울고 싶은 감정을 느꼈다.,South Korea,twenties,female,,,
+common_voice_ko_36880075,옷 그렇게 벗지 말라고.,South Korea,twenties,female,,,
+common_voice_ko_36880076,의사에게 죽음의 선고를 받은 줄도 모르는 영신은 주사 기운에 조금 의식을 회복하였다.,South Korea,twenties,female,,,
+common_voice_ko_36880077,날씨 또한 백프로 정확한 예측은 불가능한데요.,South Korea,twenties,female,,,
+common_voice_ko_36880078,그는 청아를 자기 가슴에다 꼭 끼어안아 보았다.,South Korea,twenties,female,,,
+common_voice_ko_36880080,껄끄러운 애 내쫓아주겠다니까 차장이 선배 이쁘대요?,South Korea,twenties,female,,,
+common_voice_ko_36880081,병원에만 계속 있으면 병납니다.,South Korea,twenties,female,,,
+common_voice_ko_36880299,공연한 소리 하지 말고 어서 가세.,South Korea,twenties,female,,,
+common_voice_ko_36880300,묻는 아버지의 목소리는 아까 꾸짖던 때와는 딴판으로 부드럽다.,South Korea,twenties,female,,,
+common_voice_ko_36880301,하면서도 좀더 시원하게 들여대지를 못하고 온 것이 종시 분하였다.,South Korea,twenties,female,,,
+common_voice_ko_36880302,하면서 허리에 휘감긴 동혁의 팔을 슬그머니 풀었다.,South Korea,twenties,female,,,
+common_voice_ko_36880303,따라서 이때껏 느껴 보지 못한 어떤 불안을 가슴이 답답하도록 느꼈다.,South Korea,twenties,female,,,
+common_voice_ko_36880304,선비는 받아 가지고 간난의 뒤를 따랐다.,South Korea,twenties,female,,,
+common_voice_ko_36880306,네가 돌아올 때까지 기다리고 있으마!,South Korea,twenties,female,,,
+common_voice_ko_36880307,그래서 거지 안을 뒤져 보니 아무것도 잡히지 않았다.,South Korea,twenties,female,,,
+common_voice_ko_36880308,새벽배송보다도 로켓배송보다도 빠른 양자 배송 서비스를 오늘부터 시작합니다.,South Korea,twenties,female,,,
+common_voice_ko_36880309,강아지가 꼬리를 흔들듯이 뾰족한 발끝을 달달달 까분다.,South Korea,twenties,female,,,
+common_voice_ko_36880310,아니다 결코 아니다.,South Korea,twenties,female,,,
+common_voice_ko_36880312,지금 거신 번호는 없는 번호입니다.,South Korea,twenties,female,,,
+common_voice_ko_36880313,덕호는 선비를 힘껏 껴안아 보고 나서 밖으로 나갔다.,South Korea,twenties,female,,,
+common_voice_ko_36880315,요즘 영어권에서는 구글 검색 대신에 레딧 같은 커뮤니티 사이트에서 검색한다죠?,South Korea,twenties,female,,,
+common_voice_ko_36880316,청하는 이쪽 노를 저으면서 소리를 지른다.,South Korea,twenties,female,,,
+common_voice_ko_36880322,물에 비취이면 얼굴이 서로 같은 것 같이 사람의 마음도 서로 비취느니라.,South Korea,twenties,female,,,
+common_voice_ko_36880323,여러 사람의 앞으로 한 걸음 다가서며 그 검붉은 얼굴이 매우 긴장해진다.,South Korea,twenties,female,,,
+common_voice_ko_36880324,여전히 사건 파악을 못 하고 있는데도?,South Korea,twenties,female,,,
+common_voice_ko_36880325,하나님이 뭍을 땅이라 칭하시고 모인 물을 바다라 칭하시니라 하나님의 보시기에 좋았더라.,South Korea,twenties,female,,,
+common_voice_ko_36880333,외눈까풀이는 빙긋이 웃으며 신철이가 주저앉히는 대로 앉아서 방 안을 휘 돌아보았다.,South Korea,twenties,female,,,
+common_voice_ko_36880336,토요일에는 가족과 함께 쿠키를 구울 것입니다.,South Korea,twenties,female,,,
+common_voice_ko_36880341,이거리를 둘이서 걸어요.,South Korea,twenties,female,,,
+common_voice_ko_36880342,나는 털썩 그 자리에 주저앉고 말았습니다.,South Korea,twenties,female,,,
+common_voice_ko_36880343,주문하실 상품의 개수는 몇 개인가요?,South Korea,twenties,female,,,
+common_voice_ko_36880354,간난이는 생긋 웃어 보이며 머리를 흔들었다.,South Korea,twenties,female,,,
+common_voice_ko_36880355,국무총리는 국회의 동의를 얻어 대통령이 임명한다.,South Korea,twenties,female,,,
+common_voice_ko_36880357,너는 벙어리와 고독한 자의 송사를 위하여 입을 열지니라.,South Korea,twenties,female,,,
+common_voice_ko_36880358,무어가 무언지 분간할 수 없는 나는 이렇게 물었다.,South Korea,twenties,female,,,
+common_voice_ko_36880359,아직 대문은 걸린 채 그대로 있었다.,South Korea,twenties,female,,,
+Voice_2705_103,오늘 아침에 일어나자마자 따뜻한 커피를 한 잔 마셨어요.,China,twenties,male,,,
+Voice_2705_104,친구와 약속이 있어서 지하철을 타고 시내에 갔어요.,China,twenties,male,,,
+Voice_2705_105,비가 많이 와서 우산을 쓰고 집에 돌아왔어요.,China,twenties,male,,,
+Voice_2705_106,한국어를 배우는 것이 생각보다 어렵지만 재미있어요.,China,twenties,male,,,
+Voice_2705_107,저녁에는 가족들과 함께 맛있는 음식을 먹으러 갔어요.,China,twenties,male,,,
+Voice_2705_108,오늘은 해야 할 일이 너무 많아서 조금 피곤해요.,China,twenties,male,,,
+Voice_2705_109,주말마다 공원에서 산책하는 것을 좋아해요.,China,twenties,male,,,
+Voice_2705_110,휴대폰을 집에 두고 나와서 많이 불편했어요.,China,twenties,male,,,
+Voice_2705_111,여행을 가기 전에 미리 계획을 잘 세워야 해요.,China,twenties,male,,,
+Voice_2705_112,오늘 도서관에서 중요한 책을 빌렸어요.,China,twenties,male,,,
+Voice_2705_113,아직 숙제를 다 끝내지 못해서 걱정돼요.,China,twenties,male,,,
+Voice_2705_114,날씨가 추워지니까 따뜻하게 입고 나가세요.,China,twenties,male,,,
+Voice_2705_115,어제 본 영화가 너무 감동적이어서 눈물이 났어요.,China,twenties,male,,,
+Voice_2705_116,새로운 친구를 만나서 정말 기뻤어요.,China,twenties,male,,,
+Voice_2705_117,시간이 있을 때마다 한국 드라마를 자주 봐요.,China,twenties,male,,,
+Voice_2705_118,아침마다 일찍 일어나서 운동하는 습관을 들이고 있어요.,China,twenties,male,,,
+Voice_2705_119,요즘 날씨가 변덕스러워서 옷을 어떻게 입어야 할지 모르겠어요.,China,twenties,male,,,
+Voice_2705_120,시험이 끝난 후에 친구들과 함께 여행을 가기로 했어요.,China,twenties,male,,,
+Voice_2705_121,학교에서 발표를 해야 해서 조금 긴장되고 떨렸어요.,China,twenties,male,,,
+Voice_2705_122,주말에 시간이 나면 가족과 함께 맛집을 찾아가곤 해요.,China,twenties,male,,,
+common_voice_ko_36880363,"어리석은 자는 멀리서 행복을 찾고, 현명한 자는 자신의 발치에서 행복을 키워간다.",South Korea,twenties,female,,,
+common_voice_ko_36880364,즐겁고 재미있는 콘텐츠를 만들 작가를 모집합니다.,South Korea,twenties,female,,,
+common_voice_ko_36880365,동화가 마주 가서 어머니의 머리에서 함지박을 받아 들고 뛰어왔다.,South Korea,twenties,female,,,
+common_voice_ko_36880366,그리고 그 커다란 눈을 둥그렇게 떴다.,South Korea,twenties,female,,,
+common_voice_ko_36880367,그리고 부끄럽지만 않으면 어젯밤 일을 아버지에게 자랑하고 싶었다.,South Korea,twenties,female,,,
+common_voice_ko_36880372,부르짖으며 발길로 벽을 걷어차고 일어났다.,South Korea,twenties,female,,,
+common_voice_ko_36880373,나오는 줄 모르고 이런 말을 하고도 가슴이 선뜩하였다.,South Korea,twenties,female,,,
+common_voice_ko_36880380,저 뒤에 동영상으로 주암동 사건 개요가 나올 겁니다.,South Korea,twenties,female,,,
+common_voice_ko_36880381,먼 땅에서 오는 좋은 기별은 목마른 사람에게 냉수 같으니라.,South Korea,twenties,female,,,
+common_voice_ko_36880382,"예, 덕분에...",South Korea,twenties,female,,,
+common_voice_ko_36880386,김첨지는 원망스럽게 전차 타는 이를 노리고 있었다.,South Korea,twenties,female,,,
+common_voice_ko_36880388,그러나 그네들은 운동꾼이 아니요 구경꾼인 것은 물론이다.,South Korea,twenties,female,,,
+common_voice_ko_36880393,"갑자기 튀어져 나오는 광포, 거기 연한 쾌미, 흥소.",South Korea,twenties,female,,,
+common_voice_ko_36880394,그때 전깃불이 꺼풋 하고 꺼져 버렸다.,South Korea,twenties,female,,,
+common_voice_ko_36880395,마음의 정결을 사모하는 자의 입술에는 덕이 있으므로 임금이 그의 친구가 되느니라.,South Korea,twenties,female,,,
+common_voice_ko_36880400,게으른 자는 말하기를 사자가 밖에 있은즉 내가 나가면 거리에서 찢기겠다 하느니라.,South Korea,twenties,female,,,
+common_voice_ko_36880401,"그럼, 내일 오랍쇼니까?",South Korea,twenties,female,,,
+common_voice_ko_36880402,"반갑습니다 고객님, 희망을 전해드리는 통신사 케이알 정보통신입니다. 무엇을 도와드릴까요?",South Korea,twenties,female,,,
+common_voice_ko_36880403,동혁은 체격과는 정반대로 아이들을 보면 귀여워서 사지를 못 쓴다.,South Korea,twenties,female,,,
+common_voice_ko_36880404,그는 나를 밀쳐 버린 다음에 그 음보를 들고서 읽기 시작하였습니다.,South Korea,twenties,female,,,
+common_voice_ko_36880405,그리고 이 집에서 옥점이를 어떻게 귀여워하는 것을 잠시간이라도 알 수가 있다.,South Korea,twenties,female,,,
+common_voice_ko_36880406,앞뜰과 뒷동산의 앙상한 삭정이를 휩쓰는 바람 소리만 파도 소리처럼 쏴아쏴아 하고 지나간다.,South Korea,twenties,female,,,
+common_voice_ko_36880407,가만히 그의 두 손을 잡았다.,South Korea,twenties,female,,,
+common_voice_ko_36880408,안개 같은 감정이 그의 가슴에서 이리 서리고 저리 엉클어진다.,South Korea,twenties,female,,,
+common_voice_ko_36880409,아까까지 영신은 그 불을 얕은 하늘의 별들이 반짝이는 줄로만 알고있었다.,South Korea,twenties,female,,,
+common_voice_ko_36880410,"골김에 그저 이놈의 장인님, 하고 댓돌에다 메꼰코 우리 고향으로 내뺄까 하다가 꾹꾹 참고 말았다.",South Korea,twenties,female,,,
+common_voice_ko_36880411,커다랗게 흉내를 내어서 여러 사람은 천장을 우러러 간간대소를 하였다.,South Korea,twenties,female,,,
+common_voice_ko_36880412,그때 신철이는 옥점 어머니가 선비를 나무랄 때 찡그리던 얼굴임을 얼핏 발견하였다.,South Korea,twenties,female,,,
+common_voice_ko_36880413,의심하는 마음과 한꺼번에 일어나는 것은 질투였다.,South Korea,twenties,female,,,
+common_voice_ko_36880414,애가 말라서 간청을 하는 것이었다.,South Korea,twenties,female,,,
+common_voice_ko_36880415,오늘 밤은 특히 애들의 재미난 유희가 있다고 해서 유서방이며 덕호까지도 모두 갔던 것이다.,South Korea,twenties,female,,,
+common_voice_ko_36880417,여보게 김첨지.,South Korea,twenties,female,,,
+common_voice_ko_36880418,그의 연지 바른 입이 가까이만 가도 불같이 뜨거워 춘우의 피를 태울 듯하였다.,South Korea,twenties,female,,,
+common_voice_ko_36880419,덕호는 이불로 몸을 가리고 일어앉아 물그릇을 받으며 이렇게 말하였다.,South Korea,twenties,female,,,
+common_voice_ko_36880421,그는 얼른 뒷문 편으로 몸을 피하였다.,South Korea,twenties,female,,,
+common_voice_ko_36880422,뜨거운 볕이 그의 전신을 후끈하게 하였다.,South Korea,twenties,female,,,
+common_voice_ko_36880423,뱁새가 황새를 따르려다간 다리가 찢어지는 줄 모르구 덮어놓고 날뛰는구나.,South Korea,twenties,female,,,
+common_voice_ko_36880425,삼십 년 전에 자네가 나오기 전에 세상 떠난.,South Korea,twenties,female,,,
+common_voice_ko_36880426,종을 어렸을 때부터 곱게 양육하면 그가 나중에는 자식인 체하리라.,South Korea,twenties,female,,,
+common_voice_ko_39745083,그는 검버섯이 돋은 이마에 주름살을 잡으며 머리 위를 우러러본다.,South Korea,twenties,female,,,
+common_voice_ko_39745087,지금은 지팽이를 짚으시고도 별로 나다니시지를 못하셔요.,South Korea,twenties,female,,,
+common_voice_ko_39745088,내가 가장 좋아하는 과목은 체육이다.,South Korea,twenties,female,,,
+common_voice_ko_39745089,홍길동 회장님 비서입니다.,South Korea,twenties,female,,,
+common_voice_ko_39745090,지금 누구를 만나고 있기는 한데.,South Korea,twenties,female,,,
+common_voice_ko_39745091,출입문 닫습니다.,South Korea,twenties,female,,,
+common_voice_ko_39745093,중학을 졸업한 뒤에는 이젠 어머니를 위하여 그는 학업을 중지하지 않을 수가 없었습니다.,South Korea,twenties,female,,,
+common_voice_ko_39745114,일에 바쁜 꿀벌은 슬퍼할 겨를도 없다는 격언이 있지 않은가.,South Korea,twenties,female,,,
+common_voice_ko_39745115,그러자 그 돈 벌 용기가 병자에 대한 염려를 사르고 말았다.,South Korea,twenties,female,,,
+common_voice_ko_39745121,춘우는 자리 위에 그대로 쓰러지어 고단한 다리를 펴려 하여 두 다리를 쭉 뻗었다.,South Korea,twenties,female,,,
+common_voice_ko_39745123,덕호는 그가 너무 미워서 이름도 부르지 않는 것이다.,South Korea,twenties,female,,,
+common_voice_ko_39745124,동혁은 못 이기는 체하고 따라 들어갔다.,South Korea,twenties,female,,,
+common_voice_ko_39745125,운전수를 끌어내려 퍽퍽 두드려 주고 싶었다.,South Korea,twenties,female,,,
+common_voice_ko_39745150,그리고 선비 입에서 무슨 말이 나오기를 기다렸다.,South Korea,twenties,female,,,
+common_voice_ko_39745163,정근이더러 무슨 말이라도 꺼내라고 재촉 비슷이 한다.,South Korea,twenties,female,,,
+common_voice_ko_39745164,그의 속을 뚫고 보려는 듯한 옥점이의 강한 시선을 그는 약간 피하였다.,South Korea,twenties,female,,,
+common_voice_ko_39745166,그러한 칠팔 년이 지난 뒤에 그는 아주 폐인이 되고 말았습니다.,South Korea,twenties,female,,,
+common_voice_ko_39745188,그는 자기가 누운 동안 하루도 주야학을 쉬지 못하게 하였다.,South Korea,twenties,female,,,
+common_voice_ko_39745191,또 한 잔 먹고 나서 김첨지는 치삼의 어깨를 치며 문득 껄껄 웃는다.,South Korea,twenties,female,,,
+common_voice_ko_39745208,그때 맞은편 방에서는 웃음소리가 하하 하고 흘러나왔다.,South Korea,twenties,female,,,
+common_voice_ko_39745210,그리고 뛰노는 가슴을 진정하며 기침을 하였다.,South Korea,twenties,female,,,
+common_voice_ko_39745211,"좀 급속도로 시작된 빈곤, 거기 연하여 주림, 꺼져가는 불꽃과 같은 목숨.",South Korea,twenties,female,,,
+common_voice_ko_39745230,그는 무의식간에 볼을 슬슬 어루만지며 벌컥 일어났다.,South Korea,twenties,female,,,
+common_voice_ko_39745231,웬일인지 선비는 가슴이 답답해지며 얼른 대답이 나가지 않았다.,South Korea,twenties,female,,,
+common_voice_ko_36880087,배고픈데 지금 저녁 식사를 먹으면 너무 이를까?,South Korea,twenties,male,,,
+common_voice_ko_36880090,동혁은 가슴을 봉긋이 내밀며 숨을 깊닿게 들여마셨다.,South Korea,twenties,male,,,
+common_voice_ko_36880096,그는 기침을 안 하려고 입을 꼭 다문 후에 숨을 쉬지 않았다.,South Korea,twenties,male,,,
+common_voice_ko_36880097,동혁은 입술을 꽉 깨물고 원재의 뒤를 따라 묵묵히 논틀 밭틀을 걸었다.,South Korea,twenties,male,,,
+common_voice_ko_36880098,대한 사람 대한으로 길이 보전하세.,South Korea,twenties,male,,,
+common_voice_ko_36880102,내가 두 가지 일을 주께 구하였사오니 나의 죽기 전에 주시옵소서.,South Korea,twenties,male,,,
+common_voice_ko_36880103,하더니 미리부터 허리를 구부리며 집 속으로 기어들어간다.,South Korea,twenties,male,,,
+common_voice_ko_36880104,긴 말은 쓸 수 없으나 오직 건강에 각별히 주의해 주십시오.,South Korea,twenties,male,,,
+common_voice_ko_36880105,여러 해 별러 오던 농우회의 회관을 지으려고 오늘 저녁에 그 지경을 닦는 것이다.,South Korea,twenties,male,,,
+common_voice_ko_36880106,옥점 어머니는 저고리 고름을 매고 버선을 신는다.,South Korea,twenties,male,,,
+common_voice_ko_36880112,이웃에게 아첨하는 것은 그의 발 앞에 그물을 치는 것이니라.,South Korea,twenties,male,,,
+common_voice_ko_36880114,실상인즉 뻔히 섰던 것이 아니라.,South Korea,twenties,male,,,
+common_voice_ko_36880115,취조실 문이 열리는 소리에 바작바작 졸이고 섰던 영신의 가슴은 달칵 내려앉았다.,South Korea,twenties,male,,,
+common_voice_ko_36880116,안방에 모였던 다른 청년들도 서넛이나 원재의 뒤를 따라 들어왔다.,South Korea,twenties,male,,,
+common_voice_ko_36880117,그리고 흐르는 물 속으로 빛나는 차돌을 물끄러미 들여다보았다.,South Korea,twenties,male,,,
+common_voice_ko_36880123,그와 동시에 기천의 가슴도 쿵 하고 울렸다.,South Korea,twenties,male,,,
+common_voice_ko_36880124,우리 기상일세.,South Korea,twenties,male,,,
+common_voice_ko_36880125,춘우는 모래 위에 앉아서 멀리 서울 쪽을 바라보고 앉아 있었다.,South Korea,twenties,male,,,
+common_voice_ko_36880127,얼마나 불편해도 가만있어야지.,South Korea,twenties,male,,,
+common_voice_ko_36880128,부자는 가난한 자를 주관하고 빚진 자는 채주의 종이 되느니라.,South Korea,twenties,male,,,
+common_voice_ko_36880130,"필요가 발명의 어머니라는 건 누구나 아는 사실이지만, 특허에도 유지비가 들어간다는 것도 유념해주세요.",South Korea,twenties,male,,,
+common_voice_ko_36880133,동영상 같이 보시고 제가 이 질문 드리면 교수님이 그때부터 말씀하시면 돼요.,South Korea,twenties,male,,,
+common_voice_ko_36880134,로마는 하루아침에 이루어진 것이 아니다.,South Korea,twenties,male,,,
+common_voice_ko_36880135,이는 혁신을 저지하는 것입니다.,South Korea,twenties,male,,,
+common_voice_ko_36880136,그들은 나에게 힘을 준다.,South Korea,twenties,male,,,
+common_voice_ko_36880140,가난한 자를 구제하는 자는 궁핍하지 아니 하려니와 못본체 하는 자에게는 저주가 많으리라.,South Korea,twenties,male,,,
+common_voice_ko_36880142,그는 그와 한 학급에 있는 인호였다.,South Korea,twenties,male,,,
+common_voice_ko_36880148,나를 버리고 가시는 님은 십리도 못가서 발병난다.,South Korea,twenties,male,,,
+common_voice_ko_36880149,충성된 자는 복이 많아도 속히 부하고자 하는 자는 형벌을 면치 못하리라.,South Korea,twenties,male,,,
+common_voice_ko_36880150,이서방은 물끄러미 이것을 바라보며 가슴이 후련해졌다.,South Korea,twenties,male,,,
+common_voice_ko_36880151,제가 지금 좀 너무 급해서요.,South Korea,twenties,male,,,
+common_voice_ko_36880152,우리 마누라가 죽었다네.,South Korea,twenties,male,,,
+common_voice_ko_36880159,아침에 종소리만 들리면 입술을 깨물며 문고리를 붙잡고 일어났다.,South Korea,twenties,male,,,
+common_voice_ko_36880160,르무엘왕의 말씀한바 곧 그 어머니가 그를 훈계한 잠언이라.,South Korea,twenties,male,,,
+common_voice_ko_36880161,선생님 소개 끝나면 저쪽 자리에 앉으시면 됩니다.,South Korea,twenties,male,,,
+common_voice_ko_36880162,유명한 광염 소나타의 작가 말씀이지요?,South Korea,twenties,male,,,
+common_voice_ko_36880167,장인이 온갖 것을 만들지라도 미련한 자를 고용하는 것은 지나가는 자를 고용함과 같으니라.,South Korea,twenties,male,,,
+common_voice_ko_36880168,쥐어 터져서 병원비 내는 건 못 참는다.,South Korea,twenties,male,,,
+common_voice_ko_36880169,형제는 머리끝이 쭈뼛해서 문칫하고 서지 않을 수 없었다.,South Korea,twenties,male,,,
+common_voice_ko_36880170,거짓말하는 자는 자기의 해한 자를 미워하고 아첨하는 입은 패망을 일으키느니라.,South Korea,twenties,male,,,
+common_voice_ko_36880174,모기 소리같이 중얼거리고 숨을 걸그렁걸그렁하였다.,South Korea,twenties,male,,,
+common_voice_ko_36880175,여호와 하나님이 에덴동산에서 그 사람을 내어 보내어.,South Korea,twenties,male,,,
+common_voice_ko_36880176,정은배 씨와 마동혁 씨의 음악을 굉장히 다르다고 생각했거든요.,South Korea,twenties,male,,,
+common_voice_ko_36880177,그때에 비단을 찢는 듯한 옥점의 조소가 들리는 듯하여 그는 얼핏 머리를 숙였다.,South Korea,twenties,male,,,
+common_voice_ko_36880178,웬일인지 선비가 울면 할멈은 번번이 따라 울곤 하였던 것이다.,South Korea,twenties,male,,,
+common_voice_ko_36880180,"여기 편의점은 이십사시간 내내 열지는 않으니까, 필요한 게 있으면 미리 사두세요.",South Korea,twenties,male,,,
+common_voice_ko_36880181,용서해 주십시오.,South Korea,twenties,male,,,
+common_voice_ko_36880182,제일항의 지시를 받은 당해 행정기관은 이에 응하여야 한다.,South Korea,twenties,male,,,
+common_voice_ko_36880183,목요일에 게임을 하시겠습니까?,South Korea,twenties,male,,,
+common_voice_ko_36880184,엄중히 명령을 한 뒤에 다시 회관으로 들어갔다.,South Korea,twenties,male,,,
+common_voice_ko_36880185,하고 창하는 춘우의 얼굴을 한참이나 물끄러미 들여다보았다.,South Korea,twenties,male,,,
+common_voice_ko_36880186,그는 저 싸락눈을 보니 한층더 가슴이 죄어들었다.,South Korea,twenties,male,,,
+common_voice_ko_36880187,영숙도 약간 얼굴에 피가 올라오며 목소리가 높아진다.,South Korea,twenties,male,,,
+common_voice_ko_36880188,이 곳은 마차 시위가 이루어지고 있는 판교 도심 한복판입니다.,South Korea,twenties,male,,,
+common_voice_ko_36880189,물러나서 조용하게 구하면 배울 수 있는 스승은 많다.,South Korea,twenties,male,,,
+common_voice_ko_36880190,여동생이 점점 어머니를 닮았나 보다.,South Korea,twenties,male,,,
+common_voice_ko_36880191,심판 자리에 앉은 왕은 그 눈으로 모든 악을 흩어지게 하느니라.,South Korea,twenties,male,,,
+common_voice_ko_36880192,눈물이 앞을 가리어 그의 얼굴이 희미하게 보인다.,South Korea,twenties,male,,,
+common_voice_ko_36880193,이렇게 하면 당신네들이 앞으로는 다 부자가 될 것이오.,South Korea,twenties,male,,,
+common_voice_ko_36880194,황금정에서는 용산으로 가는 듯한 월급쟁이들이 가득 들이몰리었다.,South Korea,twenties,male,,,
+common_voice_ko_36880195,건넛마을에서 졸린 듯한 닭 우는 소리가 들렸다.,South Korea,twenties,male,,,
+common_voice_ko_36880196,이것이 이 좋은 새 옷을 준 데 대한 흥선의 인사였다.,South Korea,twenties,male,,,
+common_voice_ko_36880197,삶을 사는 데는 단 두가지 방법이 있다.,South Korea,twenties,male,,,
+common_voice_ko_36880198,그때 세계 경제의 흐름이 심상찮았다.,South Korea,twenties,male,,,
+common_voice_ko_36880200,보라 이 사람이 선악을 아는 일에 우리 중 하나 같이 되었으니.,South Korea,twenties,male,,,
+common_voice_ko_36880201,여자의 말에 따라 정근은 뇌란 얼굴을 쳐들었다.,South Korea,twenties,male,,,
+common_voice_ko_36880202,"자, 여기 어떤 상점이 있다 합시다.",South Korea,twenties,male,,,
+common_voice_ko_36880204,간난이는 얼른 선비를 보며 호호 웃었다.,South Korea,twenties,male,,,
+common_voice_ko_36880206,이런 경우에 자네를 힘껏 붙잡지를 못허는 게 무한히 슬플 뿐일세.,South Korea,twenties,male,,,
+common_voice_ko_36880207,계집애들은 동요를 부르듯 하면서 영신의 손에 소매에 치맛자락에 매어달려서 까치처럼 깡충깡충 뛴다.,South Korea,twenties,male,,,
+common_voice_ko_36880208,우리나라가 민주국가인 한 정치적 폭력을 규탄해야 합니다.,South Korea,twenties,male,,,
+common_voice_ko_36880209,그때 그는 경찰서에서 고문받던 생각을 하고 소름이 쭉 끼쳤다.,South Korea,twenties,male,,,
+common_voice_ko_36880210,스스로 묻기도 하고 한숨도 짓는다.,South Korea,twenties,male,,,
+common_voice_ko_36880211,그는 마시고 빈궁한 것을 잊어버리겠고 다시 그 고통을 기억지 아니하리라.,South Korea,twenties,male,,,
+common_voice_ko_36880213,그는 구두를 벗고 방 안을 얼른 살펴보았다.,South Korea,twenties,male,,,
+common_voice_ko_36880214,길로 지나다가 자기에게 상관없는 다툼을 간섭하는 자는 개 귀를 잡는 자와 같으니라.,South Korea,twenties,male,,,
+common_voice_ko_36880215,박첨지는 마누라를 흘깃 돌려다보고 중얼중얼 군소리하듯 한다.,South Korea,twenties,male,,,
+common_voice_ko_36880216,첫째는 무슨 말을 하려다가 말끝을 잊었다.,South Korea,twenties,male,,,
+common_voice_ko_36880217,일포는 못 들은 체하고 있다가 여전히 또 우벼 내서 맡아 보곤 하였다.,South Korea,twenties,male,,,
+common_voice_ko_36880218,자기의 마음을 제어하지 아니하는 자는 성읍이 무너지고 성벽이 없는 것 같으니라.,South Korea,twenties,male,,,
+common_voice_ko_36880220,그의 가슴에는 또다시 그 실뭉치가 욱 쓸어 올라온다.,South Korea,twenties,male,,,
+common_voice_ko_36880221,투표된 점수를 적어 들고 이름을 부르는 구장의 손과 입은 함께 떨렸다.,South Korea,twenties,male,,,
+common_voice_ko_36880224,그럴 것이다.,South Korea,twenties,male,,,
+common_voice_ko_36880225,암만 사정허듯 타일러두 점점 왜먹기만 허는걸.,South Korea,twenties,male,,,
+common_voice_ko_36880226,나는 작년에 조선 왕조에 관한 책을 썼습니다.,South Korea,twenties,male,,,
+common_voice_ko_36880227,"나도 사람이고 여자야, 알았니?",South Korea,twenties,male,,,
+common_voice_ko_36880228,동혁은 흐릿한 등잔 밑에서 눈을 꿈벅꿈벅하며 몇 번이나 편지를 내려읽고 치읽고 하였다.,South Korea,twenties,male,,,
+common_voice_ko_36880229,이 밤부터는 바람까지 일어서 휙휙 하는 소리가 그치지 않았다.,South Korea,twenties,male,,,
+common_voice_ko_36880230,몸과 맘 다 바쳐 이 조선.,South Korea,twenties,male,,,
+common_voice_ko_36880232,누구를 막론하고 붙잡고는 입에 술을 부어 넣어 주었습니다.,South Korea,twenties,male,,,
+common_voice_ko_36880233,자기를 보고 놀라는 듯한 첫째의 표정을 보아 그도 역시 선비 자신을 알아본 듯하였다.,South Korea,twenties,male,,,
+common_voice_ko_36880234,간난이가 몸을 솟구려고 움찔하는 바람에 선비가 푹 거꾸러졌다.,South Korea,twenties,male,,,
+common_voice_ko_36880235,하고는 염치불구하고 하루라도 더 붙들려만 든다.,South Korea,twenties,male,,,
+common_voice_ko_36880236,빈부가 섞여 살거니와 무릇 그들을 지으신 이는 여호와시니라.,South Korea,twenties,male,,,
+common_voice_ko_36880239,거리에서 손님을 끄느라고 틀어 놓은 유성기 앞이며.,South Korea,twenties,male,,,
+common_voice_ko_36880240,농민들은 일시에 일어나서 머리가 땅에 닿도록 절을 몇 번이나 거듭하고 헤어졌다.,South Korea,twenties,male,,,
+common_voice_ko_36880241,애정이라는 것이 도리 어나 의 마음을 괴롭게 할 뿐야.,South Korea,twenties,male,,,
+common_voice_ko_36880242,그리고 그의 품을 벗어나려고 다리팔을 함부로 놀렸다.,South Korea,twenties,male,,,
+common_voice_ko_36880248,춘우는 노로 언덕을 짚어 배를 내밀고 창하는 노를 들어 방향을 정하였다.,South Korea,twenties,male,,,
+common_voice_ko_36880249,"아씨, 인력거 아니 타시랍시요?",South Korea,twenties,male,,,
+common_voice_ko_36880250,그때 순사의 구둣발에 툭툭 채는 칼은 햇빛에 번쩍번쩍 하였다.,South Korea,twenties,male,,,
+common_voice_ko_36880252,"야, 넌 말 좀 고상하게 못 하냐?",South Korea,twenties,male,,,
+common_voice_ko_36880263,그때 옆에 섰던 간수는 호령을 하였다.,South Korea,twenties,male,,,
+common_voice_ko_36880264,그리고 진중한 위엄을 그에게 보이려고 음성을 둥글게 내었다.,South Korea,twenties,male,,,
+common_voice_ko_36880267,이날이야말로 동수문 안에서 인력거꾼 노릇을 하는 김 첨지에게는 닥친 운수 좋은 날이었다.,South Korea,twenties,male,,,
+common_voice_ko_36880273,천천히 걸어가면서 공을 공을 굴려 봅니다.,South Korea,twenties,male,,,
+common_voice_ko_36880274,거짓말이라고?,South Korea,twenties,male,,,
+common_voice_ko_36880275,일구월심에 다시 한곡리루 가서 살 생각만 나요.,South Korea,twenties,male,,,
+common_voice_ko_36880276,진짜 문제는 사람들의 마음이다.,South Korea,twenties,male,,,
+common_voice_ko_36880278,예비비의 지출은 차기국회의 승인을 얻어야 한다.,South Korea,twenties,male,,,
+common_voice_ko_36880279,그러므로 교대하는 그 틈마다 고치통을 들고 들어오는 남 직공과 눈을 맞추었다.,South Korea,twenties,male,,,
+common_voice_ko_36880280,환난날에 진실치 못한 자를 의뢰하는 의뢰는 부러진 이와 위골된 발 같으니라.,South Korea,twenties,male,,,
+common_voice_ko_36880281,읍으로 들어가는 새로 닦은 신작로가 달빛에 뚜렷이 바라다보였다.,South Korea,twenties,male,,,
+common_voice_ko_39744720,본 사이트는 이메일 주소가 무단으로 수집되는 것을 거부합니다.,South Korea,twenties,male,,,
+common_voice_ko_39744721,숙직실 앞에서 그는 발길을 멈추고 머뭇머뭇하더니 문을 열고 들어간다.,South Korea,twenties,male,,,
+common_voice_ko_39744723,비트코인은 유동성이 매우 심한 화폐이다.,South Korea,twenties,male,,,
+common_voice_ko_39744724,재산을 잃은 사람은 많이 잃은 것이다.,South Korea,twenties,male,,,
+common_voice_ko_39744743,씩씩거리며 몹시 흥분된 사람같이 몸을 떨다가 벼락같이 양손을 키 위에 갖다가 덮었습니다.,South Korea,twenties,male,,,
+common_voice_ko_39744755,땃버리는 기침을 칵 하며 호미를 힘있게 쥐었다.,South Korea,twenties,male,,,
+common_voice_ko_39744766,선비는 맘에 없는 말을 겨우 빼었다.,South Korea,twenties,male,,,
+common_voice_ko_39744767,"내가 내 마음을 정하게 하였다,내 죄를 깨끗하게 하였다 할 자가 누구뇨.",South Korea,twenties,male,,,
+common_voice_ko_39744786,시골집에서 그의 허리를 힘껏 껴안아 주던 때를 회상하며 옥점이는 이렇게 말하였다.,South Korea,twenties,male,,,
+common_voice_ko_39744787,동혁이는 건배와 기만의 가운데에 서서 올라온다.,South Korea,twenties,male,,,
+common_voice_ko_39744795,그는 몹시 화증을 내며 누구에게 반항이나 하는 듯이 게걸거렸다.,South Korea,twenties,male,,,
+common_voice_ko_39744797,그러니 화가 나서 술집으로 달아오곤 하였던 것이다.,South Korea,twenties,male,,,
+common_voice_ko_39744815,"그 소리야말로 꾀꼬리 소리지, 허허!",South Korea,twenties,male,,,
+common_voice_ko_39744817,감독은 입 모습에 웃음을 띠며 조금 다가앉았다.,South Korea,twenties,male,,,
+common_voice_ko_39744819,라고 물었다.,South Korea,twenties,male,,,
+common_voice_ko_39744820,맷방석만한 시뻘건 해는 맞은편 잿배기를 타고 넘는다.,South Korea,twenties,male,,,
+common_voice_ko_39744822,말씨가 명주 고름 같아지며 머리를 수없이 숙여 보인다.,South Korea,twenties,male,,,
+common_voice_ko_39744823,속으로 중얼거리면서 들창 앞으로 다가앉으며 창 밖으로 귀를 기울였다.,South Korea,twenties,male,,,
+common_voice_ko_39744837,동혁은 손을 높직이 들며 허공을 저었다.,South Korea,twenties,male,,,
+common_voice_ko_39744838,그때의 기분이 너무나 로맨틱하였던 것을 몇 번이나 후회하였다.,South Korea,twenties,male,,,
+common_voice_ko_39744839,한마디씩 주고받은 다음에는 말이 없었다.,South Korea,twenties,male,,,
+common_voice_ko_39744841,뜻하지 않은 곳에서 첫째를 눈결에 지나친 후로 선비는 밤마다 첫째를 생각하였다.,South Korea,twenties,male,,,
+common_voice_ko_39744859,"쇰을 잡아채지 그냥 둬, 이 바보야!",South Korea,twenties,male,,,
+common_voice_ko_39744860,어머는 떨리는 목소리로 무엇을 했다.,South Korea,twenties,male,,,
+common_voice_ko_39744862,영숙은 도리어 성내는 체하며 말을 하였다.,South Korea,twenties,male,,,
+common_voice_ko_39744863,어둠의 뚜껑같은 검은하늘이 윤곽도 잘 안 보이는데 산 위에 얹혀 있으매.,South Korea,twenties,male,,,
+common_voice_ko_39744879,하고 동생이 그 형에게 사과했습니다.,South Korea,twenties,male,,,
+common_voice_ko_39744880,영신은 달빛에 번쩍번쩍하는 가위를 놀리다가 몇 번이나 그 손을 쉬고 머리를 떨어뜨렸다.,South Korea,twenties,male,,,
+common_voice_ko_39744881,왜 나를 바라보지 못하고 천장만 보느냐!,South Korea,twenties,male,,,
+common_voice_ko_39744882,또는 이 기숙사에 있는 여공들을 맘대로 부리는 감독을 하게 할 테야.,South Korea,twenties,male,,,
+common_voice_ko_39744885,귀여운 듯이 옥점이와 신철이를 번갈아 본다.,South Korea,twenties,male,,,
+common_voice_ko_39744886,도저히 손댈 수가 없는 곤란에 부딪혔다면 과감하게 그 속으로 뛰어들어라.,South Korea,twenties,male,,,
+common_voice_ko_39744889,인력거를 타시랍시요.,South Korea,twenties,male,,,
+common_voice_ko_39744891,금방 얼굴이 해쓱해지더니 앞에 놓인 교탁을 짚을 사이도 없이 그 자리에가 고꾸라지듯이 엎으러졌다.,South Korea,twenties,male,,,
+common_voice_ko_39744900,팔십 전을 손에 쥔 김 첨지의 마음은 푼푼하였다.,South Korea,twenties,male,,,
+common_voice_ko_39744902,특성화 고등학교의 교장 등은 현장실습 과정에서 학생의 안전과 학습권이 보장될 수 있도록 노력하여야 한다.,South Korea,twenties,male,,,
+common_voice_ko_39744904,방 안을 들여다보는 그의 어머니를 쳐다보았다.,South Korea,twenties,male,,,
+common_voice_ko_39744905,일이 잘못 됐으니 그 저 참어 주세요.,South Korea,twenties,male,,,
+common_voice_ko_39744906,그리고 캄캄한 밤길을 혼자 걷는듯 한 적적함이 그를 싸고도는 것을 새삼스럽게 깨달았다.,South Korea,twenties,male,,,
+common_voice_ko_39744908,자기가 덕호와의 관계를 말하지 않았어도 간난이는 벌써 짐작 한 듯 하였다.,South Korea,twenties,male,,,
+common_voice_ko_39744926,여호와 하나님이 그 땅에서 보기에 아름답고 먹기에 좋은 나무가 나게 하시니.,South Korea,twenties,male,,,
+common_voice_ko_39744928,그는 한참이나 서서 이런 생각을 하다가 숙직실 문 앞에까지 와서 귀를 기울였다.,South Korea,twenties,male,,,
+common_voice_ko_39744941,그들의 시선이 마주칠 때마다 뜨거운 사랑이 무언중에 알려진다.,South Korea,twenties,male,,,
+common_voice_ko_39744943,의인이 많아지면 백성이 즐거워하고 악인이 권세를 잡으면 백성이 탄식하느니라.,South Korea,twenties,male,,,
+common_voice_ko_39744959,춘우는 들어가 옷을 벗고 영숙에게 물었다.,South Korea,twenties,male,,,
+common_voice_ko_39744960,선비의 불그레한 얼굴을 곁눈질해 보는 감독은 귀여운 듯이 빙긋이 웃었다.,South Korea,twenties,male,,,
+common_voice_ko_39744962,동혁은 그 별을 향해서 침이라도 탁 뱉고 싶었다.,South Korea,twenties,male,,,
+common_voice_ko_39744965,춘우는 잡지장을 뒤적뒤적하고 영숙은 돌아앉아서 손에 잡히지 않는 바느질을 시작 하였다.,South Korea,twenties,male,,,
+common_voice_ko_39744966,눈이 까맣게 기다리다 못해 반 신 료까지 붙여서 전보를 쳤다.,South Korea,twenties,male,,,
+common_voice_ko_39744984,그 다음 순간 기천 의눈에서는 번갯불이 뻔쩍하였다.,South Korea,twenties,male,,,
+common_voice_ko_39744986,이제까지 태연한 기색을 보이던 동혁의 얼굴에도 당황한 빛이 떠돈다.,South Korea,twenties,male,,,
+common_voice_ko_39744987,응달에서만 지낸 기만의 얼굴과 비교해 볼 때 동혁의 얼굴도 더한층 그을은 것 같다.,South Korea,twenties,male,,,
+common_voice_ko_39744999,워싱턴도 모스크바도 우리의 서울은 될 수 없는 것이요.,South Korea,twenties,male,,,
+common_voice_ko_39745000,얼마 만에 기차는 왔고 수십 명이나 되는 손이 정류장으로 쏟아져 나왔다.,South Korea,twenties,male,,,
+common_voice_ko_39745013,마침 물살도 다시 돌아섰으니...,South Korea,twenties,male,,,
+common_voice_ko_39745015,땀과 빗물이 섞여 흐르는 목덜미를 기름주머니가 다된 왜목 수건으로 닦으며.,South Korea,twenties,male,,,
+common_voice_ko_39745016,선비는 휙 머리를 돌려 간난이를 바라보다가 빙긋이 웃었다.,South Korea,twenties,male,,,
+common_voice_ko_39745038,재작년 이른 봄 어떤 날이었습니다.,South Korea,twenties,male,,,
+common_voice_ko_39745040,그는 옥점이가 일어나니 방 안이 쓸쓸해지는 것 같았다.,South Korea,twenties,male,,,
+common_voice_ko_39745042,거기에는 흔히 도깨비나 귀신이 나타난다 한다.,South Korea,twenties,male,,,
+common_voice_ko_39745052,영신은 정근이가 그 동안 이곳의 금융조합으로 전근이나 해온 줄 알고 채우쳐 물었다.,South Korea,twenties,male,,,
+common_voice_ko_39745054,너무나 상쾌한 맘은 그로 하여금 이렇게 하게 하였던 것이다.,South Korea,twenties,male,,,
+Voice_1006_123,오늘 아침에 일찌감치 일어났어요.,,,,,,
+Voice_1006_124,이 책은 정말 재미있게 읽혔어요.,,,,,,
+Voice_1006_125,우리는 주말에 산에 등반을 갈 거예요.,,,,,,
+Voice_1006_126,이 영화는 정말 감동적이었어요.,,,,,,
+Voice_1006_127,저는 매일 아침 커피를 마셔요.,,,,,,
+Voice_1006_128,이 음식은 정말 맛있게 느껴졌어요.,,,,,,
+Voice_1006_129,오늘은 날씨가 매우 좋네요.,,,,,,
+Voice_1006_130,저는 한국어를 배우는 것을 좋아해요.,,,,,,
+Voice_1006_131,이 음악은 정말 신나요.,,,,,,
+Voice_1006_132,우리는 내일 회의가 있어요.,,,,,,
+Voice_1006_133,이 옷은 정말 편안하게 느껴졌어요.,,,,,,
+Voice_1006_134,저는 매일 저녁 산책을 해요.,,,,,,
+Voice_1006_135,이 카페는 정말 조용해요.,,,,,,
+Voice_1006_136,우리는 주말에 가족과 함께 시간을 보낼 거예요.,,,,,,
+Voice_1006_137,이 영화는 정말 슬펐어요.,,,,,,
+Voice_1006_138,저는 매일 아침 신문을 읽어요.,,,,,,
+Voice_1006_139,이 음식은 조금 매웠어요.,,,,,,
+Voice_1006_140,우리는 내일 여행 갈 거예요.,,,,,,
+Voice_1006_141,이 공원은 정말 아름다워요.,,,,,,
+Voice_1006_142,저는 매일 저녁 책을 읽어요.,,,,,,
+Voice_1006_143,이 신발은 정말 편안해요.,,,,,,
+Voice_1006_144,우리는 주말에 친구를 만날 거예요.,,,,,,
+Voice_1006_145,이 영화는 정말 재미있었어요.,,,,,,
+Voice_1006_146,저는 매일 아침 요가를 해요.,,,,,,
+Voice_1006_147,이 카페의 음료는 정말 맛있었어요.,,,,,,
+Voice_1006_148,오늘은 매우 바쁜 하루였어요.,,,,,,
+Voice_1006_149,우리는 내일 시험이 있어요.,,,,,,
+Voice_1006_150,이 음악은 정말 좋네요.,,,,,,
+Voice_1006_151,저는 한국 문화를 배우고 싶어요.,,,,,,
+Voice_1006_152,이 옷은 정말 예뻐요.,,,,,,
+Voice_1006_153,우리는 주말에 바다로 여행 갈 거예요.,,,,,,
+Voice_1006_154,이 영화는 정말 흥미로웠어요.,,,,,,
+Voice_1006_155,저는 매일 아침 일찍 일어나요.,,,,,,
+Voice_1006_156,이 음식은 조금 짜요.,,,,,,
+Voice_1006_157,우리는 내일 회의가 있어요.,,,,,,
+Voice_1006_158,이 공원은 정말 평화로워요.,,,,,,
+Voice_1006_159,저는 매일 저녁 산책을 해요.,,,,,,
+Voice_1006_160,이 카페는 정말 조용해요.,,,,,,
+Voice_1006_161,우리는 주말에 가족과 함께 시간을 보낼 거예요.,,,,,,
+Voice_1006_162,이 영화는 정말 감동적이었어요.,,,,,,
+Voice_1006_163,저는 매일 아침 커피를 마셔요.,,,,,,
+Voice_1006_164,이 음식은 정말 맛있게 느껴졌어요.,,,,,,
+Voice_1006_165,오늘은 날씨가 매우 좋네요.,,,,,,
+Voice_1006_166,저는 한국어를 배우는 것을 좋아해요.,,,,,,
+Voice_1006_167,이 음악은 정말 신나요.,,,,,,
+Voice_1006_168,우리는 내일 회의가 있어요.,,,,,,
+Voice_1006_169,이 옷은 정말 편안하게 느껴졌어요.,,,,,,
+Voice_1006_170,저는 매일 저녁 산책을 해요.,,,,,,
+Voice_1006_171,이 카페는 정말 조용해요.,,,,,,
+Voice_1006_172,우리는 주말에 가족과 함께 시간을 보낼 거예요.,,,,,,
+Voice_1006_173,이 영화는 정말 슬펐어요.,,,,,,
+Voice_1006_174,저는 매일 아침 신문을 읽어요.,,,,,,
+Voice_1006_175,이 음식은 조금 매웠어요.,,,,,,
+Voice_1006_176,이 공원은 정말 아름다워요.,,,,,,
+Voice_1006_177,저는 매일 저녁 책을 읽어요.,,,,,,
+Voice_1006_178,이 신발은 정말 편안해요.,,,,,,
+Voice_1006_179,우리는 주말에 친구를 만날 거예요.,,,,,,
+Voice_1006_180,이 영화는 정말 재미있었어요.,,,,,,
+Voice_1006_181,저는 매일 아침 요가를 해요.,,,,,,
+Voice_1006_182,이 카페의 음료는 정말 맛있었어요.,,,,,,
+Voice_1006_183,오늘은 매우 바쁜 하루였어요.,,,,,,
+Voice_1006_184,우리는 내일 시험이 있어요.,,,,,,
+Voice_1006_185,이 음악은 정말 좋네요.,,,,,,
+Voice_1006_186,저는 한국 문화를 배우고 싶어요.,,,,,,
+Voice_1006_187,이 옷은 정말 예뻐요.,,,,,,
+Voice_1006_188,우리는 주말에 바다로 여행 갈 거예요.,,,,,,
+Voice_1006_189,이 영화는 정말 흥미로웠어요.,,,,,,
+Voice_1006_190,저는 매일 아침 일찍 일어나요.,,,,,,
+Voice_1006_191,이 음식은 조금 짜요.,,,,,,
+Voice_1006_192,우리는 내일 회의가 있어요.,,,,,,
+Voice_1006_193,이 공원은 정말 평화로워요.,,,,,,
+Voice_1006_194,저는 매일 저녁 산책을 해요.,,,,,,
+Voice_1006_195,이 카페는 정말 조용해요.,,,,,,
+Voice_1006_196,우리는 주말에 가족과 함께 시간을 보낼 거예요.,,,,,,
+Voice_1006_197,이 영화는 정말 감동적이었어요.,,,,,,
+Voice_1006_198,저는 매일 아침 커피를 마셔요.,,,,,,
+Voice_1006_199,이 음식은 정말 맛있게 느껴졌어요.,,,,,,
+Voice_1006_200,오늘은 날씨가 매우 좋네요.,,,,,,
+Voice_1006_201,저는 한국어를 배우는 것을 좋아해요.,,,,,,
+Voice_1006_202,이 음악은 정말 신나요.,,,,,,
+Voice_1006_203,우리는 내일 회의가 있어요.,,,,,,
+Voice_1006_204,이 옷은 정말 편안하게 느껴졌어요.,,,,,,
+Voice_1006_205,저는 매일 저녁 산책을 해요.,,,,,,
+Voice_1006_206,이 카페는 정말 조용해요.,,,,,,
+Voice_1006_207,우리는 주말에 가족과 함께 시간을 보낼 거예요.,,,,,,
+Voice_1006_208,이 영화는 정말 슬펐어요.,,,,,,
+Voice_1006_209,저는 매일 아침 신문을 읽어요.,,,,,,
+Voice_1006_210,이 음식은 조금 매웠어요.,,,,,,
+Voice_1006_211,우리는 내일 여행 갈 거예요.,,,,,,
+Voice_1006_212,이 공원은 정말 아름다워요.,,,,,,
+Voice_1006_213,저는 매일 저녁 책을 읽어요.,,,,,,
+Voice_1006_214,이 신발은 정말 편안해요.,,,,,,
+Voice_1006_215,우리는 주말에 친구를 만날 거예요.,,,,,,
+Voice_1006_216,이 영화는 정말 재미있었어요.,,,,,,
+Voice_1006_217,저는 매일 아침 요가를 해요.,,,,,,
+Voice_1006_218,이 카페의 음료는 정말 맛있었어요.,,,,,,
+Voice_1006_219,오늘은 매우 바쁜 하루였어요.,,,,,,
+Voice_1006_220,우리는 내일 시험이 있어요.,,,,,,
+Voice_1006_221,이 음악은 정말 좋네요.,,,,,,
+Voice_1006_222,어제 본 영화는 정말 재미있었어요.,,,,,,
+Voice_1006_223,저는 주말에 친구들과 함께 공원에 갔어요.,,,,,,
+Voice_1006_224,이 카페의 커피는 정말 맛있어요.,,,,,,
+Voice_1006_225,오늘은 날씨가 추워서 따뜻한 옷을 입었어요.,,,,,,
+Voice_1006_226,저는 매일 아침 조깅을 해요.,,,,,,
+Voice_1006_227,이 책은 정말 흥미로워요.,,,,,,
+Voice_1006_228,저는 한국어를 배우는 것을 좋아해요.,,,,,,
+Voice_1006_229,이 음식은 조금 매워요.,,,,,,
+Voice_1006_230,저는 내일 시험이 있어요.,,,,,,
+Voice_1006_231,이 음악은 정말 좋네요.,,,,,,
+Voice_1006_232,저는 주말에 가족과 함께 시간을 보내요.,,,,,,
+Voice_1006_233,이 영화는 정말 감동적이었어요.,,,,,,
+Voice_1006_234,저는 매일 저녁 산책을 해요.,,,,,,
+Voice_1006_235,이 옷은 정말 예뻐요.,,,,,,
+Voice_1006_236,저는 한국 문화를 배우고 싶어요.,,,,,,
+Voice_1006_237,이 공원은 정말 아름다워요.,,,,,,
+Voice_1006_238,저는 매일 아침 일찍 일어나요.,,,,,,
+Voice_1006_239,이 영화는 정말 재미있었어요.,,,,,,
+Voice_1006_240,저는 한국 드라마를 좋아해요.,,,,,,
+Voice_1006_241,이 음식은 정말 맛있어요.,,,,,,
+Voice_1006_242,오늘은 정말 피곤한 하루였어요.,,,,,,
+Voice_1006_243,저는 주말에 바다로 여행 갈 거예요.,,,,,,
+Voice_1006_244,이 카페의 디저트는 정말 맛있어요.,,,,,,
+Voice_1006_245,오늘은 날씨가 매우 더워요.,,,,,,
+Voice_1006_246,저는 매일 아침 요가를 해요.,,,,,,
+Voice_1006_247,이 소설은 정말 흥미진진해요.,,,,,,
+Voice_1006_248,저는 한국어 회화를 연습하고 있어요.,,,,,,
+Voice_1006_249,이 음식은 조금 단맛이 나요.,,,,,,
+Voice_1006_250,저는 내일 회의가 있어요.,,,,,,
+Voice_1006_251,이 노래는 정말 좋네요.,,,,,,
+Voice_1006_252,저는 주말에 가족과 함께 영화 볼 거예요.,,,,,,
+Voice_1006_253,이 영화는 정말 슬펐어요.,,,,,,
+Voice_1006_254,저는 매일 아침 신문을 읽어요.,,,,,,
+Voice_1006_255,이 신발은 정말 편안해요.,,,,,,
+Voice_1006_256,우리는 주말에 친구를 만날 거예요.,,,,,,
+Voice_1006_257,이 영화는 정말 재미있었어요.,,,,,,
+Voice_1006_258,저는 매일 아침 요가를 해요.,,,,,,
+Voice_1006_259,이 카페의 음료는 정말 맛있었어요.,,,,,,
+Voice_1006_260,오늘은 매우 바쁜 하루였어요.,,,,,,
+Voice_1006_261,우리는 내일 시험이 있어요.,,,,,,
+Voice_1006_262,이 음악은 정말 좋네요.,,,,,,
+Voice_1006_263,저는 한국 문화를 배우고 싶어요.,,,,,,
+Voice_1006_264,이 옷은 정말 예뻐요.,,,,,,
+Voice_1006_265,우리는 주말에 바다로 여행 갈 거예요.,,,,,,
+Voice_1006_266,이 영화는 정말 흥미로웠어요.,,,,,,
+Voice_1006_267,저는 매일 아침 일찍 일어나요.,,,,,,
+Voice_1006_268,이 음식은 조금 짜요.,,,,,,
+Voice_1006_269,우리는 내일 회의가 있어요.,,,,,,
+Voice_1006_270,이 공원은 정말 평화로워요.,,,,,,
+Voice_1006_271,저는 매일 저녁 산책을 해요.,,,,,,
+Voice_1006_272,어제 본 영화는 정말 재미있었어요.,France,twenties,male,,,
+Voice_1006_273,저는 주말에 친구들과 함께 공원에 갔어요.,France,twenties,male,,,
+Voice_1006_274,이 카페의 커피는 정말 맛있어요.,France,twenties,male,,,
+Voice_1006_275,오늘은 날씨가 추워서 따뜻한 옷을 입었어요.,France,twenties,male,,,
+Voice_1006_276,저는 매일 아침 조깅을 해요.,France,twenties,male,,,
+Voice_1006_277,이 책은 정말 흥미로워요.,France,twenties,male,,,
+Voice_1006_278,저는 한국어를 배우는 것을 좋아해요.,France,twenties,male,,,
+Voice_1006_279,이 음식은 조금 매워요.,France,twenties,male,,,
+Voice_1006_280,저는 내일 시험이 있어요.,France,twenties,male,,,
+Voice_1006_281,이 음악은 정말 좋네요.,France,twenties,male,,,
+Voice_1006_282,저는 주말에 가족과 함께 시간을 보내요.,France,twenties,male,,,
+Voice_1006_283,이 영화는 정말 감동적이었어요.,France,twenties,male,,,
+Voice_1006_284,저는 매일 저녁 산책을 해요.,France,twenties,male,,,
+Voice_1006_285,이 옷은 정말 예뻐요.,France,twenties,male,,,
+Voice_1006_286,저는 한국 문화를 배우고 싶어요.,France,twenties,male,,,
+Voice_1006_287,이 공원은 정말 아름다워요.,France,twenties,male,,,
+Voice_1006_288,저는 매일 아침 일찍 일어나요.,France,twenties,male,,,
+Voice_1006_289,이 영화는 정말 재미있었어요.,France,twenties,male,,,
+Voice_1006_290,저는 한국 드라마를 좋아해요.,France,twenties,male,,,
+Voice_1006_291,이 음식은 정말 맛있어요.,France,twenties,male,,,
+Voice_1006_292,오늘은 정말 피곤한 하루였어요.,France,twenties,male,,,
+Voice_1006_293,저는 주말에 바다로 여행 갈 거예요.,France,twenties,male,,,
+Voice_1006_294,이 카페의 디저트는 정말 맛있어요.,France,twenties,male,,,
+Voice_1006_295,오늘은 날씨가 매우 더워요.,France,twenties,male,,,
+Voice_1006_296,저는 매일 아침 요가를 해요.,France,twenties,male,,,
+Voice_1006_297,이 소설은 정말 흥미진진해요.,France,twenties,male,,,
+Voice_1006_298,저는 한국어 회화를 연습하고 있어요.,France,twenties,male,,,
+Voice_1006_299,이 음식은 조금 단맛이 나요.,France,twenties,male,,,
+Voice_1006_300,저는 내일 회의가 있어요.,France,twenties,male,,,
+Voice_1006_301,이 노래는 정말 좋네요.,France,twenties,male,,,
+Voice_1006_302,저는 주말에 가족과 함께 영화 볼 거예요.,France,twenties,male,,,
+Voice_1006_303,이 영화는 정말 슬펐어요.,France,twenties,male,,,
+Voice_1006_304,저는 매일 아침 신문을 읽어요.,France,twenties,male,,,
+Voice_1006_305,이 신발은 정말 편안해요.,France,twenties,male,,,
+Voice_1006_306,우리는 주말에 친구를 만날 거예요.,France,twenties,male,,,
+Voice_1006_307,이 영화는 정말 재미있었어요.,France,twenties,male,,,
+Voice_1006_308,저는 매일 아침 요가를 해요.,France,twenties,male,,,
+Voice_1006_309,이 카페의 음료는 정말 맛있었어요.,France,twenties,male,,,
+Voice_1006_310,오늘은 매우 바쁜 하루였어요.,France,twenties,male,,,
+Voice_1006_311,우리는 내일 시험이 있어요.,France,twenties,male,,,
+Voice_1006_312,이 음악은 정말 좋네요.,France,twenties,male,,,
+Voice_1006_313,저는 한국 문화를 배우고 싶어요.,France,twenties,male,,,
+Voice_1006_314,이 옷은 정말 예뻐요.,France,twenties,male,,,
+Voice_1006_315,우리는 주말에 바다로 여행 갈 거예요.,France,twenties,male,,,
+Voice_1006_316,이 영화는 정말 흥미로웠어요.,France,twenties,male,,,
+Voice_1006_317,저는 매일 아침 일찍 일어나요.,France,twenties,male,,,
+Voice_1006_318,이 음식은 조금 짜요.,France,twenties,male,,,
+Voice_1006_319,우리는 내일 회의가 있어요.,France,twenties,male,,,
+Voice_1006_320,이 공원은 정말 평화로워요.,France,twenties,male,,,
+Voice_1006_321,저는 매일 저녁 산책을 해요.,France,twenties,male,,,
+Voice_1006_322,이 카페는 정말 조용해요.,France,twenties,male,,,
+Voice_1006_323,우리는 주말에 가족과 함께 시간을 보낼 거예요.,France,twenties,male,,,
+Voice_1006_324,이 영화는 정말 감동적이었어요.,France,twenties,male,,,
+Voice_1006_325,저는 매일 아침 커피를 마셔요.,France,twenties,male,,,
+Voice_1006_326,이 음식은 정말 맛있게 느껴졌어요.,France,twenties,male,,,
+Voice_1006_327,오늘은 날씨가 매우 좋네요.,France,twenties,male,,,
+Voice_1006_328,저는 한국어를 배우는 것을 좋아해요.,France,twenties,male,,,
+Voice_1006_329,이 음악은 정말 신나요.,France,twenties,male,,,
+Voice_1006_330,우리는 내일 회의가 있어요.,France,twenties,male,,,
+Voice_1006_331,이 옷은 정말 편안하게 느껴졌어요.,France,twenties,male,,,
+Voice_1006_332,저는 매일 저녁 산책을 해요.,France,twenties,male,,,
+Voice_1006_333,이 카페는 정말 조용해요.,France,twenties,male,,,
+Voice_1006_334,우리는 주말에 가족과 함께 시간을 보낼 거예요.,France,twenties,male,,,
+Voice_1006_335,이 영화는 정말 슬펐어요.,France,twenties,male,,,
+Voice_1006_336,저는 매일 아침 신문을 읽어요.,France,twenties,male,,,
+Voice_1006_337,이 음식은 조금 매웠어요.,France,twenties,male,,,
+Voice_1006_338,우리는 내일 여행 갈 거예요.,France,twenties,male,,,
+Voice_1006_339,이 공원은 정말 아름다워요.,France,twenties,male,,,
+Voice_1006_340,저는 매일 저녁 책을 읽어요.,France,twenties,male,,,
+Voice_1006_341,이 신발은 정말 편안해요.,France,twenties,male,,,
+Voice_1006_342,우리는 주말에 친구를 만날 거예요.,France,twenties,male,,,
+Voice_1006_343,이 영화는 정말 재미있었어요.,France,twenties,male,,,
+Voice_1006_344,저는 매일 아침 요가를 해요.,France,twenties,male,,,
+Voice_1006_345,이 카페의 음료는 정말 맛있었어요.,France,twenties,male,,,
+Voice_1006_346,오늘은 매우 바쁜 하루였어요.,France,twenties,male,,,
+Voice_1006_347,우리는 내일 시험이 있어요.,France,twenties,male,,,
+Voice_1006_348,이 음악은 정말 좋네요.,France,twenties,male,,,
+Voice_1006_349,저는 한국 문화를 배우고 싶어요.,France,twenties,male,,,
+Voice_1006_350,이 옷은 정말 예뻐요.,France,twenties,male,,,
+Voice_1006_351,우리는 주말에 바다로 여행 갈 거예요.,France,twenties,male,,,
+Voice_1006_352,이 영화는 정말 흥미로웠어요.,France,twenties,male,,,
+Voice_1006_353,저는 매일 아침 일찍 일어나요.,France,twenties,male,,,
+Voice_1006_354,이 음식은 조금 짜요.,France,twenties,male,,,
+Voice_1006_355,우리는 내일 회의가 있어요.,France,twenties,male,,,
+Voice_1006_356,이 공원은 정말 평화로워요.,France,twenties,male,,,
+Voice_1006_357,저는 매일 저녁 산책을 해요.,France,twenties,male,,,
+Voice_1006_358,이 카페는 정말 조용해요.,France,twenties,male,,,
+Voice_1006_359,우리는 주말에 가족과 함께 시간을 보낼 거예요.,France,twenties,male,,,
+Voice_1006_360,이 영화는 정말 감동적이었어요.,France,twenties,male,,,
+Voice_1006_361,저는 매일 아침 커피를 마셔요.,France,twenties,male,,,
+Voice_1006_362,이 음식은 정말 맛있게 느껴졌어요.,France,twenties,male,,,
+Voice_1006_363,오늘은 날씨가 매우 좋네요.,France,twenties,male,,,
+Voice_1006_364,저는 한국어를 배우는 것을 좋아해요.,France,twenties,male,,,
+Voice_1006_365,이 음악은 정말 신나요.,France,twenties,male,,,
+Voice_1006_366,우리는 내일 회의가 있어요.,France,twenties,male,,,
+Voice_1006_367,이 옷은 정말 편안하게 느껴졌어요.,France,twenties,male,,,
+Voice_1006_368,저는 매일 저녁 산책을 해요.,France,twenties,male,,,
+Voice_1006_369,이 카페는 정말 조용해요.,France,twenties,male,,,
+Voice_1006_370,우리는 주말에 가족과 함께 시간을 보낼 거예요.,France,twenties,male,,,
+Voice_1006_371,이 영화는 정말 슬펐어요.,France,twenties,male,,,
+Voice_1006_372,어제 본 영화는 정말 재미있었어요.,France,twenties,male,,,
+Voice_1006_373,오늘은 날씨가 매우 좋네요.,France,twenties,male,,,
+Voice_1006_374,저는 매일 아침 커피를 마셔요.,France,twenties,male,,,
+Voice_1006_375,이 음식은 정말 맛있게 느껴졌어요.,France,twenties,male,,,
+Voice_1006_376,이 카페는 정말 조용해요.,France,twenties,male,,,
+Voice_1006_377,우리는 주말에 가족과 함께 시간을 보낼 거예요.,France,twenties,male,,,
+Voice_1006_378,이 영화는 정말 감동적이었어요.,France,twenties,male,,,
+Voice_1006_379,저는 매일 아침 신문을 읽어요.,France,twenties,male,,,
+Voice_1006_380,이 음식은 조금 매웠어요.,France,twenties,male,,,
+Voice_1006_381,우리는 내일 여행 갈 거예요.,France,twenties,male,,,
+Voice_1006_382,이 공원은 정말 아름다워요.,France,twenties,male,,,
+Voice_1006_383,저는 매일 저녁 책을 읽어요.,France,twenties,male,,,
+Voice_1006_384,이 신발은 정말 편안해요.,France,twenties,male,,,
+Voice_1006_385,우리는 주말에 친구를 만날 거예요.,France,twenties,male,,,
+Voice_1006_386,이 영화는 정말 재미있었어요.,France,twenties,male,,,
+Voice_1006_387,저는 매일 아침 요가를 해요.,France,twenties,male,,,
+Voice_1006_388,이 카페의 음료는 정말 맛있었어요.,France,twenties,male,,,
+Voice_1006_389,오늘은 매우 바쁜 하루였어요.,France,twenties,male,,,
+Voice_1006_390,우리는 내일 시험이 있어요.,France,twenties,male,,,
+Voice_1006_391,이 음악은 정말 좋네요.,France,twenties,male,,,
+Voice_1006_392,저는 한국 문화를 배우고 싶어요.,France,twenties,male,,,
+Voice_1006_393,이 옷은 정말 예뻐요.,France,twenties,male,,,
+Voice_1006_394,우리는 주말에 바다로 여행 갈 거예요.,France,twenties,male,,,
+Voice_1006_395,이 영화는 정말 흥미로웠어요.,France,twenties,male,,,
+Voice_1006_396,저는 매일 아침 일찍 일어나요.,France,twenties,male,,,
+Voice_1006_397,이 음식은 조금 짜요.,France,twenties,male,,,
+Voice_1006_398,우리는 내일 회의가 있어요.,France,twenties,male,,,
+Voice_1006_399,이 공원은 정말 평화로워요.,France,twenties,male,,,
+Voice_1006_400,저는 매일 저녁 산책을 해요.,France,twenties,male,,,
+Voice_1006_401,이 카페는 정말 조용해요.,France,twenties,male,,,
+Voice_1006_402,우리는 주말에 가족과 함께 시간을 보낼 거예요.,France,twenties,male,,,
+Voice_1006_403,이 영화는 정말 슬펐어요.,France,twenties,male,,,
+Voice_1006_404,저는 매일 아침 커피를 마셔요.,France,twenties,male,,,
+Voice_1006_405,이 음식은 정말 맛있게 느껴졌어요.,France,twenties,male,,,
+Voice_1006_406,오늘은 날씨가 매우 좋네요.,France,twenties,male,,,
+Voice_1006_407,저는 한국어를 배우는 것을 좋아해요.,France,twenties,male,,,
+Voice_1006_408,이 음악은 정말 신나요.,France,twenties,male,,,
+Voice_1006_409,우리는 내일 회의가 있어요.,France,twenties,male,,,
+Voice_1006_410,이 옷은 정말 편안하게 느껴졌어요.,France,twenties,male,,,
+Voice_1006_411,저는 매일 저녁 산책을 해요.,France,twenties,male,,,
+Voice_1006_412,이 카페는 정말 조용해요.,France,twenties,male,,,
+Voice_1006_413,우리는 주말에 가족과 함께 시간을 보낼 거예요.,France,twenties,male,,,
+Voice_1006_414,이 영화는 정말 감동적이었어요.,France,twenties,male,,,
+Voice_1006_415,저는 매일 아침 신문을 읽어요.,France,twenties,male,,,
+Voice_1006_416,이 음식은 조금 매웠어요.,France,twenties,male,,,
+Voice_1006_417,우리는 내일 여행 갈 거예요.,France,twenties,male,,,
+Voice_1006_418,이 공원은 정말 아름다워요.,France,twenties,male,,,
+Voice_1006_419,저는 매일 저녁 책을 읽어요.,France,twenties,male,,,
+Voice_1006_420,이 신발은 정말 편안해요.,France,twenties,male,,,
+Voice_1006_421,우리는 주말에 친구를 만날 거예요.,France,twenties,male,,,
+Voice_1006_422,어제 본 영화는 정말 재미있었어요.,France,twenties,male,,,
+Voice_1006_423,오늘은 매우 더운 날씨예요.,France,twenties,male,,,
+Voice_1006_424,저는 주말에 바다로 여행 갈 계획이에요.,France,twenties,male,,,
+Voice_1006_425,이 카페의 디저트는 정말 맛있어요.,France,twenties,male,,,
+Voice_1006_426,저는 매일 아침 조깅을 하는 것을 즐겨요.,France,twenties,male,,,
+Voice_1006_427,이 책은 정말 흥미진진해요.,France,twenties,male,,,
+Voice_1006_428,저는 한국어 공부를 열심히 하고 있어요.,France,twenties,male,,,
+Voice_1006_429,이 음식은 조금 매운 맛이 나요.,France,twenties,male,,,
+Voice_1006_430,저는 내일 중요한 회의가 있어요.,France,twenties,male,,,
+Voice_1006_431,이 음악은 정말 기분을 좋게 해요.,France,twenties,male,,,
+Voice_1006_432,저는 주말에 가족과 함께 시간을 보내요.,France,twenties,male,,,
+Voice_1006_433,이 영화는 정말 감동적이었어요.,France,twenties,male,,,
+Voice_1006_434,저는 매일 저녁 공원에서 산책을 해요.,France,twenties,male,,,
+Voice_1006_435,이 옷은 정말 편안하게 느껴져요.,France,twenties,male,,,
+Voice_1006_436,저는 한국 문화를 더 깊이 이해하고 싶어요.,France,twenties,male,,,
+Voice_1006_437,이 공원은 정말 평화로워요.,France,twenties,male,,,
+Voice_1006_438,저는 매일 아침 일찍 일어나는 습관이 있어요.,France,twenties,male,,,
+Voice_1006_439,이 영화는 정말 재미있게 봤어요.,France,twenties,male,,,
+Voice_1006_440,저는 한국 드라마를 자주 시청해요.,France,twenties,male,,,
+Voice_1006_441,이 음식은 정말 맛있게 느껴졌어요.,France,twenties,male,,,
+Voice_1006_442,오늘은 정말 피곤한 하루였어요.,France,twenties,male,,,
+Voice_1006_443,저는 주말에 바다로 여행 갈 거예요.,France,twenties,male,,,
+Voice_1006_444,이 카페의 디저트는 정말 맛있어요.,France,twenties,male,,,
+Voice_1006_445,오늘은 날씨가 매우 더워요.,France,twenties,male,,,
+Voice_1006_446,저는 매일 아침 요가를 해요.,France,twenties,male,,,
+Voice_1006_447,이 소설은 정말 흥미진진해요.,France,twenties,male,,,
+Voice_1006_448,저는 한국어 회화를 연습하고 있어요.,France,twenties,male,,,
+Voice_1006_449,이 음식은 조금 단맛이 나요.,France,twenties,male,,,
+Voice_1006_450,저는 내일 회의가 있어요.,France,twenties,male,,,
+Voice_1006_451,이 노래는 정말 좋네요.,France,twenties,male,,,
+Voice_1006_452,저는 주말에 가족과 함께 영화 볼 거예요.,France,twenties,male,,,
+Voice_1006_453,이 영화는 정말 슬펐어요.,France,twenties,male,,,
+Voice_1006_454,저는 매일 아침 신문을 읽어요.,France,twenties,male,,,
+Voice_1006_455,이 신발은 정말 편안해요.,France,twenties,male,,,
+Voice_1006_456,우리는 주말에 친구를 만날 거예요.,France,twenties,male,,,
+Voice_1006_457,이 영화는 정말 재미있었어요.,France,twenties,male,,,
+Voice_1006_458,저는 매일 아침 요가를 해요.,France,twenties,male,,,
+Voice_1006_459,이 카페의 음료는 정말 맛있었어요.,France,twenties,male,,,
+Voice_1006_460,오늘은 매우 바쁜 하루였어요.,France,twenties,male,,,
+Voice_1006_461,우리는 내일 시험이 있어요.,France,twenties,male,,,
+Voice_1006_462,이 음악은 정말 좋네요.,France,twenties,male,,,
+Voice_1006_463,저는 한국 문화를 배우고 싶어요.,France,twenties,male,,,
+Voice_1006_464,이 옷은 정말 예뻐요.,France,twenties,male,,,
+Voice_1006_465,우리는 주말에 바다로 여행 갈 거예요.,France,twenties,male,,,
+Voice_1006_466,이 영화는 정말 흥미로웠어요.,France,twenties,male,,,
+Voice_1006_467,저는 매일 아침 일찍 일어나요.,France,twenties,male,,,
+Voice_1006_468,이 음식은 조금 짜요.,France,twenties,male,,,
+Voice_1006_469,우리는 내일 회의가 있어요.,France,twenties,male,,,
+Voice_1006_470,이 공원은 정말 평화로워요.,France,twenties,male,,,
+Voice_1006_471,저는 매일 저녁 산책을 해요.,France,twenties,male,,,

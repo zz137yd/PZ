@@ -22,6 +22,6 @@ def convert_m4a_to_mp3(input_folder, output_folder):
             except Exception as e:
                 print(f"Erreur lors de la conversion de {filename}: {e}")
 
-input_folder = "H:/Hanyang/Speech_Final_Version/mp4a"
-output_folder = "H:/Hanyang/Speech_Final_Version/mp3"
+input_folder = "H:/Hanyang/Speech_Final_Version/m4a_to_mp3/m4a_2" #change the name of the folder if you want to convert some files
+output_folder = "H:/Hanyang/Speech_Final_Version/m4a_to_mp3/mp3_2" 
 convert_m4a_to_mp3(input_folder, output_folder)
