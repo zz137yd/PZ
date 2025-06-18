@@ -20,7 +20,7 @@ pip install jamo jiwer jamotools
 pip install --upgrade transformers
 ```
 
-</br>Then download dataset.
+</br>Then download **dataset**.
 
 [Dataset](https://drive.google.com/drive/folders/1VdgGLuVcL4A62MgwGV063MR4IbPzR1Pm?usp=sharing)</br></br>
 [The csv file containing audio file information](https://drive.google.com/file/d/1bfFR-8cpNiQmxc1v145nyZiSVUxmgrzX/view?usp=sharing)</br></br>
