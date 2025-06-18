@@ -25,7 +25,7 @@ Then download dataset.
 [Dataset](https://drive.google.com/drive/folders/1VdgGLuVcL4A62MgwGV063MR4IbPzR1Pm?usp=sharing)</br></br>
 [The csv file containing audio file information](https://drive.google.com/file/d/1bfFR-8cpNiQmxc1v145nyZiSVUxmgrzX/view?usp=sharing)</br>
 
-If use xlsr.py, you can modify the epoch number manually.
+If use xlsr.py, you can modify the epoch number manually.)</br></br>
 And modify the dataset path as well as csv file path to yours.
 
 ```python
@@ -36,7 +36,7 @@ The best model file and parameter record file will be placed in the generated sa
 
 ## User interface
 
-After training is completed and there is a .pt file
+After training is completed and there is a .pt file)</br></br>
 Change the path of .pt file in the streamlit_app.py under the app directory to the path where the model is actually stored.
 
 Requirement : 
