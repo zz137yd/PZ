@@ -26,7 +26,8 @@ pip install --upgrade transformers
 [The csv file containing audio file information](https://drive.google.com/file/d/1bfFR-8cpNiQmxc1v145nyZiSVUxmgrzX/view?usp=sharing)</br></br>
 
 Should modify the epoch number manually.</br></br>
-And modify the dataset path as well as csv file path to yours.</br>
+And modify the dataset path as well as csv file path to yours.</br></br>
+Modifying batch size and num_workers is allowed.</br>
 
 If use **xlsr.py :**
 
