@@ -10,7 +10,7 @@ Next, the training process and use of the user interface are explained.
 
 You can run **xlsr.ipynb** or **xlsr.py**.
 
-Before that, you need to install the dependent libraries first.
+Before that, you need to install the **dependent libraries** first.
 
 ```python
 pip install jamo jiwer jamotools
@@ -41,25 +41,25 @@ Alternatively, you can use pre-trained model files.</br>
 
 ## User interface
 
-After training is completed and there is a .pt file</br></br>
+After training is completed and there is a .pt file.</br></br>
 Change the path of .pt file in the streamlit_app.py under the app directory to the path where the model is actually stored.</br></br>
 
-Requirement : 
+**Requirement :** 
 
 ```python
 pip install jamo jamotools pydub
 ```
 
-And then run the interface in terminal window
+And then run the interface in **terminal window**.
 
 ```bash
 streamlit run streamlit_app.py
 ```
 
-or python environment
+or **python environment**.
 
 ```python
 python -m streamlit run streamlit_app.py
 ```
 
-**Finally, you can pass in the audio file to get the result.**
+**Finally, you can pass in the audio file to get the result**.
