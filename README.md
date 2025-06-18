@@ -12,6 +12,9 @@ Next, the training process and use of the user interface are explained.
 You can run xlsr.ipynb or xlsr.py.
 
 If use xlsr.py, you can modify the epoch number manually.
+```python
+python3 [-u] xlsr.py [> test.log
+```
  `python3 [-u] xlsr.py [> test.log]`
 
 The best model file and parameter record document will be placed in the generated saved_model directory.
