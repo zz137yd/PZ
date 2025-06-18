@@ -83,6 +83,7 @@ def main():
     st.markdown("<h1 style='text-align:center; color: #003366;'>PZ: Accent Prediction App</h1>", unsafe_allow_html=True)
 
     # Load the model
+    # Remember to change the path to where your model file is stored
     model_path = 'H:/Hanyang/Speech_Final_Version/model/best_model_augmentation.pt'
     base_model_name = "student-47/wav2vec2-large-xlrs-korean-v5"
     num_age = 3  # twenties, thirties, fourties
