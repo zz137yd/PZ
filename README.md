@@ -25,14 +25,14 @@ Then download dataset.
 [Dataset](https://drive.google.com/drive/folders/1VdgGLuVcL4A62MgwGV063MR4IbPzR1Pm?usp=sharing)</br>
 [The csv file containing audio file information](https://drive.google.com/file/d/1bfFR-8cpNiQmxc1v145nyZiSVUxmgrzX/view?usp=sharing)
 
-If use xlsr.py, you can modify the epoch number manually.
-You need to modify the dataset path first.
+If use xlsr.py, you can modify the epoch number manually.</br>
+And modify the dataset path as well as csv file path to yours.
 
 ```python
 python3 [-u] xlsr.py [> test.log]
 ```
 
-The best model file and parameter record document will be placed in the generated saved_model directory.
+The best model file and parameter record file will be placed in the generated saved_model directory.
 
 ## User interface
 
