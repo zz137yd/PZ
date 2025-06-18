@@ -20,7 +20,13 @@ pip install jamo jiwer jamotools
 pip install --upgrade transformers
 ```
 
+Then download dataset.
+
+[Dataset](https://drive.google.com/drive/folders/1VdgGLuVcL4A62MgwGV063MR4IbPzR1Pm?usp=sharing)
+[The csv file containing audio file information](https://drive.google.com/file/d/1bfFR-8cpNiQmxc1v145nyZiSVUxmgrzX/view?usp=sharing)
+
 If use xlsr.py, you can modify the epoch number manually.
+You need to modify the dataset path first.
 
 ```python
 python3 [-u] xlsr.py [> test.log]
