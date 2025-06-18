@@ -25,8 +25,10 @@ pip install --upgrade transformers
 [Dataset](https://drive.google.com/drive/folders/1VdgGLuVcL4A62MgwGV063MR4IbPzR1Pm?usp=sharing)</br></br>
 [The csv file containing audio file information](https://drive.google.com/file/d/1bfFR-8cpNiQmxc1v145nyZiSVUxmgrzX/view?usp=sharing)</br></br>
 
-If use **xlsr.py**, you can modify the epoch number manually.</br></br>
+Should modify the epoch number manually.</br></br>
 And modify the dataset path as well as csv file path to yours.
+
+If use **xlsr.py**
 
 ```python
 python3 [-u] xlsr.py [> test.log]
