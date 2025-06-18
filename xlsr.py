@@ -598,7 +598,7 @@ def print_shape_or_len(arr, name):
     else:
         print(f"{name} len:", len(arr))
 
-num_epochs = 13
+num_epochs = 30
 
 best_t_loss = float('inf')
 best_t_xlsr_loss = float('inf')
