@@ -33,7 +33,7 @@ python3 [-u] xlsr.py [> test.log]
 ```
 
 The best model file and parameter record file will be placed in the generated saved_model directory.</br></br>
-Alternatively, you can use pre-trained model files.
+Alternatively, you can use pre-trained model files.</br>
 
 [best_model.pt](https://drive.google.com/file/d/1Ek-0yi96c9E3ZYl_96vWd4K-Zjgmus9V/view?usp=sharing)</br></br>
 
