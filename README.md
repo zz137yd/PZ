@@ -14,7 +14,9 @@ Before that, you need to install the dependent libraries first.
 
 ```python
 pip install jamo jiwer jamotools
+```
 
+```python
 pip install --upgrade transformers
 ```
 
@@ -29,3 +31,21 @@ The best model file and parameter record document will be placed in the generate
 ## User interface
 
 After training is completed and there is a .pt file, change the path of the model file in the py file under the app directory to the path where the model is actually stored.
+
+Requirement : 
+
+```python
+pip install jamo jamotools pydub
+```
+
+And then run the interface in terminal window
+
+```bash
+streamlit run streamlit_app.py
+```
+
+or python environment
+
+```python
+python -m streamlit run streamlit_app.py
+```
