@@ -8,7 +8,7 @@ Next, the training process and use of the user interface are explained.
 
 ## Model
 
-You can run xlsr.ipynb or xlsr.py.
+You can run **xlsr.ipynb** or **xlsr.py**.
 
 Before that, you need to install the dependent libraries first.
 
@@ -25,14 +25,17 @@ pip install --upgrade transformers
 [Dataset](https://drive.google.com/drive/folders/1VdgGLuVcL4A62MgwGV063MR4IbPzR1Pm?usp=sharing)</br></br>
 [The csv file containing audio file information](https://drive.google.com/file/d/1bfFR-8cpNiQmxc1v145nyZiSVUxmgrzX/view?usp=sharing)</br></br>
 
-If use xlsr.py, you can modify the epoch number manually.</br></br>
+If use **xlsr.py**, you can modify the epoch number manually.</br></br>
 And modify the dataset path as well as csv file path to yours.
 
 ```python
 python3 [-u] xlsr.py [> test.log]
 ```
 
-The best model file and parameter record file will be placed in the generated saved_model directory.
+The best model file and parameter record file will be placed in the generated saved_model directory.</br>
+Alternatively, you can use pre-trained model files.
+
+[best_model.pt](https://drive.google.com/file/d/1Ek-0yi96c9E3ZYl_96vWd4K-Zjgmus9V/view?usp=sharing)</br>
 
 ## User interface
 
