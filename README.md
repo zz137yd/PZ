@@ -27,7 +27,7 @@ pip install --upgrade transformers
 
 Should modify the epoch number manually.</br></br>
 And modify the dataset path as well as csv file path to yours.</br></br>
-Modifying batch size and num_workers is allowed.</br>
+Modifying batch size and num_workers is allowed.</br></br>
 
 If use **xlsr.py :**
 
