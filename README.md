@@ -36,7 +36,7 @@ The best model file and parameter record file will be placed in the generated sa
 
 ## User interface
 
-After training is completed and there is a .pt file)</br></br>
+After training is completed and there is a .pt file)</br>
 Change the path of .pt file in the streamlit_app.py under the app directory to the path where the model is actually stored.
 
 Requirement : 
