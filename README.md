@@ -28,7 +28,7 @@ pip install --upgrade transformers
 Should modify the epoch number manually.</br></br>
 And modify the dataset path as well as csv file path to yours.</br>
 
-If use **xlsr.py**
+If use **xlsr.py :**
 
 ```python
 python3 [-u] xlsr.py [> test.log]
